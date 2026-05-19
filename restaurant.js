@@ -1,4 +1,4 @@
-const RESTAURANT_ORIGIN = "台北市南京東路三段89巷";
+const RESTAURANT_ORIGIN = "台北市南京東路三段89巷附近";
 let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
 const restaurantList = [
