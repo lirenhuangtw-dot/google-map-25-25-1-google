@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=20260519-threads">
 </head>
 <body class="restaurant-page">
   <header class="hero hero--restaurant">
@@ -67,6 +67,7 @@
         <button class="chip" data-filter="booking">可訂位</button>
         <button class="chip" data-filter="wishlist">想去</button>
         <button class="chip" data-filter="google">Google高評分</button>
+        <button class="chip" data-filter="threads">Threads推薦</button>
         <button class="chip" data-filter="p1">$</button>
         <button class="chip" data-filter="p2">$$</button>
         <button class="chip" data-filter="p3">$$$</button>
@@ -115,7 +116,7 @@
         <p class="eyebrow">Last checked 2026-05-19</p>
         <h2>資料來源與更新方式</h2>
       </div>
-      <p>餐廳名單以近期公開推薦、米其林 2025 資訊與在地餐廳整理交叉參考；實際營業、訂位、價格、菜單與排隊狀態請以 Google Maps 與店家公告為準。</p>
+      <p>餐廳名單以近期公開推薦、米其林 2025 資訊、Google Places API 與 Threads 松江南京美食留言交叉參考；實際營業、訂位、價格、菜單與排隊狀態請以 Google Maps 與店家公告為準。</p>
       <div class="source-links">
         <a href="https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-taiwan-2025-unveiled" target="_blank" rel="noreferrer">MICHELIN Guide Taiwan 2025</a>
         <a href="https://www.taiwannews.com.tw/news/6177280" target="_blank" rel="noreferrer">Taiwan News 2025 Bib Gourmand</a>
@@ -137,10 +138,11 @@
     <span>近：約 12 分鐘內步行｜中：交通 30 分鐘內｜遠：少量特地吃</span>
   </footer>
 
-  <script src="restaurant-data.js"></script>
-  <script src="restaurant-extra-near.js"></script>
-  <script src="restaurant-more-local.js"></script>
-  <script src="restaurant-google-places.js"></script>
-  <script src="restaurant.js"></script>
+  <script src="restaurant-data.js?v=20260519-threads"></script>
+  <script src="restaurant-extra-near.js?v=20260519-threads"></script>
+  <script src="restaurant-more-local.js?v=20260519-threads"></script>
+  <script src="restaurant-google-places.js?v=20260519-threads"></script>
+  <script src="restaurant-threads.js?v=20260519-threads"></script>
+  <script src="restaurant.js?v=20260519-threads"></script>
 </body>
 </html>

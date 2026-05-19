@@ -1,0 +1,627 @@
+[
+  {
+    "input": "種福園",
+    "status": "added",
+    "matchedName": "種福園",
+    "rating": 4.3,
+    "reviews": 1809,
+    "address": "104臺北市中山區中央里松江路123巷12之1號",
+    "distanceMeters": 599
+  },
+  {
+    "input": "元記潤餅捲",
+    "status": "added",
+    "matchedName": "元記潤餅捲",
+    "rating": 4.5,
+    "reviews": 88,
+    "address": "10491臺北市中山區中央里南京東路二段115巷32號",
+    "distanceMeters": 702
+  },
+  {
+    "input": "南香排骨飯",
+    "status": "added",
+    "matchedName": "南香排骨飯",
+    "rating": 4,
+    "reviews": 268,
+    "address": "10485臺北市中山區中央里四平街122號一樓",
+    "distanceMeters": 511
+  },
+  {
+    "input": "京簡康",
+    "status": "added",
+    "matchedName": "京簡康 台北伊通店",
+    "rating": 3.8,
+    "reviews": 208,
+    "address": "104臺北市中山區伊通街109-2號",
+    "distanceMeters": 561
+  },
+  {
+    "input": "TWAITUTIAN Coffee",
+    "status": "added",
+    "matchedName": "TWATUTIAN Coffee & Co.",
+    "rating": 4.5,
+    "reviews": 299,
+    "address": "104臺北市中山區朱園里建國北路一段136號",
+    "distanceMeters": 424
+  },
+  {
+    "input": "博多幸龍",
+    "status": "added",
+    "matchedName": "博多幸龍總本店",
+    "rating": 4.7,
+    "reviews": 5599,
+    "address": "105臺北市松山區中崙里八德路二段366巷16號",
+    "distanceMeters": 767
+  },
+  {
+    "input": "京都御握丸",
+    "status": "added",
+    "matchedName": "京都御握丸ONIMARU 台北長春店",
+    "rating": 4.2,
+    "reviews": 580,
+    "address": "104台北市中山区中央里长春路172號1樓",
+    "distanceMeters": 711
+  },
+  {
+    "input": "梁記火雞肉飯",
+    "status": "added",
+    "matchedName": "梁記嘉義雞肉飯",
+    "rating": 3.9,
+    "reviews": 5364,
+    "address": "104臺北市中山區興亞里松江路90巷19號",
+    "distanceMeters": 1014
+  },
+  {
+    "input": "灰鍋",
+    "status": "added",
+    "matchedName": "灰鍋",
+    "rating": 4.7,
+    "reviews": 971,
+    "address": "104臺北市中山區朱馥里長春路261號",
+    "distanceMeters": 301
+  },
+  {
+    "input": "東館牛肉麵",
+    "status": "already_exists",
+    "matchedName": "東館牛麵食館"
+  },
+  {
+    "input": "帥哥滷肉飯",
+    "status": "added",
+    "matchedName": "帥哥滷肉飯 A Handsome Guy",
+    "rating": 4.3,
+    "reviews": 778,
+    "address": "10479臺北市中山區龍洲里長春路321之2號",
+    "distanceMeters": 414
+  },
+  {
+    "input": "富霸王豬腳",
+    "status": "added",
+    "matchedName": "富霸王豬腳",
+    "rating": 4,
+    "reviews": 6383,
+    "address": "10491臺北市中山區中央里南京東路二段115巷20號",
+    "distanceMeters": 696
+  },
+  {
+    "input": "發肉燒肉",
+    "status": "added",
+    "matchedName": "發肉燒肉餐酒敦北一店",
+    "rating": 4.9,
+    "reviews": 5188,
+    "address": "105臺北市松山區中正里敦化北路4巷56號",
+    "distanceMeters": 496
+  },
+  {
+    "input": "慶陳雞",
+    "status": "added",
+    "matchedName": "慶陳雞",
+    "rating": 4,
+    "reviews": 564,
+    "address": "105臺北市松山區中正里長春路474號",
+    "distanceMeters": 657
+  },
+  {
+    "input": "博多幸龍總本店",
+    "status": "duplicate_result",
+    "matchedName": "博多幸龍總本店"
+  },
+  {
+    "input": "野毛洋食屋",
+    "status": "added",
+    "matchedName": "野毛洋食屋 『日式咖哩/漢堡排/蛋包飯』",
+    "rating": 4.8,
+    "reviews": 442,
+    "address": "10491臺北市中山區朱崙里八德路二段327號1樓",
+    "distanceMeters": 592
+  },
+  {
+    "input": "Haritts 甜甜圈",
+    "status": "added",
+    "matchedName": "Haritts 甜甜圈 (台北）",
+    "rating": 4.4,
+    "reviews": 1998,
+    "address": "105臺北市松山區中正里復興北路81巷33號",
+    "distanceMeters": 525
+  },
+  {
+    "input": "客家自製湯圓",
+    "status": "added",
+    "matchedName": "客家自製湯圓",
+    "rating": 3.9,
+    "reviews": 716,
+    "address": "10491臺北市中山區力行里遼寧街69號對面 遼寧夜市",
+    "distanceMeters": 361
+  },
+  {
+    "input": "香港永興堂",
+    "status": "added",
+    "matchedName": "香港永興堂",
+    "rating": 4.3,
+    "reviews": 403,
+    "address": "105臺北市松山區福成里八德路二段412號",
+    "distanceMeters": 803
+  },
+  {
+    "input": "春美冰菓室",
+    "status": "added",
+    "matchedName": "春美冰菓室慶城本店",
+    "rating": 4.3,
+    "reviews": 2996,
+    "address": "105臺北市松山區中正里敦化北路120巷54號",
+    "distanceMeters": 666
+  },
+  {
+    "input": "火鍋106",
+    "status": "added",
+    "matchedName": "火鍋106-粵式豬肚雞煲鍋總店(原南京總店)",
+    "rating": 4.2,
+    "reviews": 1584,
+    "address": "104臺北市中山區復華里長春路218號",
+    "distanceMeters": 375
+  },
+  {
+    "input": "Milano Pizzeria",
+    "status": "added",
+    "matchedName": "義大利米蘭手工窯烤披薩 台北中山店",
+    "rating": 4.4,
+    "reviews": 2212,
+    "address": "10491臺北市中山區中央里四平街55號2樓",
+    "distanceMeters": 712
+  },
+  {
+    "input": "麵大廚",
+    "status": "added",
+    "matchedName": "麵大廚 四平店",
+    "rating": 4.4,
+    "reviews": 1611,
+    "address": "104臺北市中山區中央里南京東路二段115巷18-1號",
+    "distanceMeters": 696
+  },
+  {
+    "input": "韓食村",
+    "status": "added",
+    "matchedName": "韓食村",
+    "rating": 4.2,
+    "reviews": 1770,
+    "address": "104臺北市中山區中央里南京東路二段115巷3弄6號",
+    "distanceMeters": 641
+  },
+  {
+    "input": "魯旦川鍋",
+    "status": "added",
+    "matchedName": "魯旦川鍋",
+    "rating": 4.2,
+    "reviews": 1041,
+    "address": "104臺北市中山區中央里建國北路二段16號",
+    "distanceMeters": 405
+  },
+  {
+    "input": "Sapori",
+    "status": "added",
+    "matchedName": "SAPORI 義品味小餐屋",
+    "rating": 4.6,
+    "reviews": 562,
+    "address": "10491臺北市中山區長春路376號",
+    "distanceMeters": 366
+  },
+  {
+    "input": "Give Me Pie",
+    "status": "added",
+    "matchedName": "GIVE ME PIE",
+    "rating": 4.5,
+    "reviews": 514,
+    "address": "10491臺北市中山區朱園里松江路97巷12號",
+    "distanceMeters": 645
+  },
+  {
+    "input": "萬花 One Flower",
+    "status": "added",
+    "matchedName": "萬花 OneFlower",
+    "rating": 4.5,
+    "reviews": 96,
+    "address": "104臺北市中山區復華里長春路258巷16號",
+    "distanceMeters": 238
+  },
+  {
+    "input": "台越越南美食",
+    "status": "added",
+    "matchedName": "台越越南美食",
+    "rating": 4.4,
+    "reviews": 329,
+    "address": "104臺北市中山區中吉里一江街52號",
+    "distanceMeters": 936
+  },
+  {
+    "input": "伊通韓國料理館",
+    "status": "added",
+    "matchedName": "伊通韓國料理館",
+    "rating": 3.8,
+    "reviews": 275,
+    "address": "10491臺北市中山區朱園里伊通街41-1號",
+    "distanceMeters": 567
+  },
+  {
+    "input": "阿維麵線",
+    "status": "added",
+    "matchedName": "阿維麵線",
+    "rating": 4,
+    "reviews": 77,
+    "address": "104臺北市中山區中央里四平街87號",
+    "distanceMeters": 607
+  },
+  {
+    "input": "金仙排骨",
+    "status": "added",
+    "matchedName": "金仙排骨飯",
+    "rating": 4.1,
+    "reviews": 199,
+    "address": "10491臺北市中山區聚盛里錦州街30巷11號",
+    "distanceMeters": 1761
+  },
+  {
+    "input": "慶州館",
+    "status": "added",
+    "matchedName": "慶州館",
+    "rating": 3.8,
+    "reviews": 1077,
+    "address": "10491臺北市中山區力行里復興北路62號",
+    "distanceMeters": 390
+  },
+  {
+    "input": "滿上仙草茶",
+    "status": "added",
+    "matchedName": "滿上仙草茶飲專賣店台北松江店",
+    "rating": 4,
+    "reviews": 411,
+    "address": "104臺北市中山區興亞里松江路58號",
+    "distanceMeters": 855
+  },
+  {
+    "input": "善果屋",
+    "status": "added",
+    "matchedName": "善菓屋 Sharing Nature 台北松江店",
+    "rating": 4.1,
+    "reviews": 543,
+    "address": "10491臺北市中山區朱園里松江路99號",
+    "distanceMeters": 729
+  },
+  {
+    "input": "珍美味水餃",
+    "status": "added",
+    "matchedName": "珍美味水餃餛飩專賣店",
+    "rating": 4.6,
+    "reviews": 116,
+    "address": "10491臺北市中山區中央里四平街102號",
+    "distanceMeters": 595
+  },
+  {
+    "input": "蜀國麻辣鍋",
+    "status": "added",
+    "matchedName": "蜀國麻辣鴛鴦火鍋",
+    "rating": 4.6,
+    "reviews": 396,
+    "address": "104臺北市中山區興亞里松江路64巷5號",
+    "distanceMeters": 883
+  },
+  {
+    "input": "甲霸油飯",
+    "status": "added",
+    "matchedName": "甲霸油飯",
+    "rating": 4.5,
+    "reviews": 29,
+    "address": "10491臺北市中山區中央里南京東路二段115巷26號",
+    "distanceMeters": 701
+  },
+  {
+    "input": "花茶大師",
+    "status": "added",
+    "matchedName": "花茶大師 四平店",
+    "rating": 4.4,
+    "reviews": 305,
+    "address": "10491臺北市中山區中央里四平街71號",
+    "distanceMeters": 654
+  },
+  {
+    "input": "大叔炸雞",
+    "status": "added",
+    "matchedName": "炸雞大叔",
+    "rating": 4.5,
+    "reviews": 35,
+    "address": "104臺北市中山區中吉里一江街42號1樓",
+    "distanceMeters": 930
+  },
+  {
+    "input": "鑫爺食堂",
+    "status": "added",
+    "matchedName": "鑫爺食堂",
+    "rating": 4.4,
+    "reviews": 84,
+    "address": "104臺北市中山區中吉里一江街38號",
+    "distanceMeters": 919
+  },
+  {
+    "input": "驛老么牛肉麵",
+    "status": "not_found",
+    "reason": "Places Text Search 沒有回傳可信的附近餐廳結果。"
+  },
+  {
+    "input": "普莉斯咖啡館",
+    "status": "added",
+    "matchedName": "普莉斯咖啡館 please CAFE",
+    "rating": 4.2,
+    "reviews": 400,
+    "address": "10491臺北市中山區中吉里松江路132巷17號",
+    "distanceMeters": 948
+  },
+  {
+    "input": "食朝早午餐",
+    "status": "added",
+    "matchedName": "食朝 早午餐",
+    "rating": 4,
+    "reviews": 442,
+    "address": "104臺北市中山區松江路132巷22-2號",
+    "distanceMeters": 953
+  },
+  {
+    "input": "小巷子",
+    "status": "added",
+    "matchedName": "小巷子清燉牛肉麵四平店",
+    "rating": 4.8,
+    "reviews": 1368,
+    "address": "104472臺北市中山區中吉里四平街40號",
+    "distanceMeters": 846
+  },
+  {
+    "input": "BANCO 棒可",
+    "status": "added",
+    "matchedName": "BANCO棒可 窯烤PIZZA . 自製生麵 長安店",
+    "rating": 4,
+    "reviews": 998,
+    "address": "10491臺北市中山區朱園里長安東路二段106號",
+    "distanceMeters": 681
+  },
+  {
+    "input": "OLIA",
+    "status": "added",
+    "matchedName": "OLiA 吃飯",
+    "rating": 4.4,
+    "reviews": 348,
+    "address": "104臺北市中山區中央里伊通街106巷8號",
+    "distanceMeters": 667
+  },
+  {
+    "input": "猩猩院",
+    "status": "not_found",
+    "reason": "Places Text Search 沒有回傳可信的附近餐廳結果。"
+  },
+  {
+    "input": "北倉洞",
+    "status": "added",
+    "matchedName": "北倉洞韓式料理",
+    "rating": 4,
+    "reviews": 1222,
+    "address": "104臺北市中山區朱崙里長安東路二段169-7號",
+    "distanceMeters": 429
+  },
+  {
+    "input": "郭家川味牛肉麵",
+    "status": "added",
+    "matchedName": "郭家川味牛肉麵",
+    "rating": 3.5,
+    "reviews": 303,
+    "address": "104臺北市中山區力行里南京東路三段216巷19號",
+    "distanceMeters": 339
+  },
+  {
+    "input": "薔薇廳",
+    "status": "added",
+    "matchedName": "薔薇廳 - 兄弟大飯店",
+    "rating": 4,
+    "reviews": 1021,
+    "address": "105臺北市松山區中正里南京東路三段255號號13樓",
+    "distanceMeters": 426
+  },
+  {
+    "input": "陶然亭",
+    "status": "added",
+    "matchedName": "陶然亭餐廳",
+    "rating": 4.2,
+    "reviews": 4521,
+    "address": "104臺北市中山區力行里復興北路86號2F",
+    "distanceMeters": 363
+  },
+  {
+    "input": "上福食所",
+    "status": "not_found",
+    "reason": "Places Text Search 沒有回傳可信的附近餐廳結果。"
+  },
+  {
+    "input": "四平街番茄牛肉麵",
+    "status": "added",
+    "matchedName": "四平街番茄牛肉麵",
+    "rating": 4.1,
+    "reviews": 2405,
+    "address": "10491臺北市中山區中央里四平街93號",
+    "distanceMeters": 548
+  },
+  {
+    "input": "鬧蟬咖啡",
+    "status": "added",
+    "matchedName": "鬧蟬咖啡Now Chance Coffee (Fuxing)",
+    "rating": 4.6,
+    "reviews": 372,
+    "address": "10491臺北市中山區復華里遼寧街136號",
+    "distanceMeters": 227
+  },
+  {
+    "input": "威爾貝克咖啡南方公園店",
+    "status": "added",
+    "matchedName": "威爾貝克咖啡南方公園店-WILBECK",
+    "rating": 4.9,
+    "reviews": 127,
+    "address": "104臺北市中山區復華里遼寧街116巷4號",
+    "distanceMeters": 151
+  },
+  {
+    "input": "泰滾",
+    "status": "added",
+    "matchedName": "泰滾 Rolling Thai 泰式火鍋(南京店）",
+    "rating": 4.6,
+    "reviews": 6182,
+    "address": "10491臺北市中山區朱園里南京東路二段178號B1, No",
+    "distanceMeters": 534
+  },
+  {
+    "input": "石撈麻辣鴛鴦鍋",
+    "status": "added",
+    "matchedName": "石‧撈麻辣鴛鴦鍋",
+    "rating": 4.6,
+    "reviews": 1692,
+    "address": "104臺北市中山區朱園里松江路95-1號3樓",
+    "distanceMeters": 721
+  },
+  {
+    "input": "勝利號蚵仔煎",
+    "status": "added",
+    "matchedName": "勝利號蚵仔煎",
+    "rating": 3.7,
+    "reviews": 297,
+    "address": "104台北市中山区力行里辽宁街65號對面",
+    "distanceMeters": 371
+  },
+  {
+    "input": "台中豬腳大王",
+    "status": "added",
+    "matchedName": "豬小寶台中可口豬腳大王",
+    "rating": 3.8,
+    "reviews": 395,
+    "address": "10491臺北市中山區龍洲里興安街118號",
+    "distanceMeters": 517
+  },
+  {
+    "input": "家鴻燒鵝",
+    "status": "added",
+    "matchedName": "家鴻燒鵝",
+    "rating": 3.9,
+    "reviews": 4490,
+    "address": "10491臺北市中山區朱馥里興安街53-4號",
+    "distanceMeters": 469
+  },
+  {
+    "input": "大膽牛腩麵",
+    "status": "added",
+    "matchedName": "大膽牛腩麵",
+    "rating": 4.2,
+    "reviews": 1044,
+    "address": "10478臺北市中山區朱馥里遼寧街222號",
+    "distanceMeters": 494
+  },
+  {
+    "input": "四平小館",
+    "status": "added",
+    "matchedName": "四平小館",
+    "rating": 4.6,
+    "reviews": 3836,
+    "address": "10491臺北市中山區中吉里四平街45號",
+    "distanceMeters": 830
+  },
+  {
+    "input": "驛站慢功出好菜",
+    "status": "added",
+    "matchedName": "驛站慢功出好菜",
+    "rating": 4.2,
+    "reviews": 215,
+    "address": "10491臺北市中山區遼寧街128巷1號",
+    "distanceMeters": 209
+  },
+  {
+    "input": "Tony's BBQ",
+    "status": "added",
+    "matchedName": "Tony’s BBQ Smokehouse",
+    "rating": 4.3,
+    "reviews": 990,
+    "address": "104074臺北市中山區中央里伊通街106巷5之一號",
+    "distanceMeters": 641
+  },
+  {
+    "input": "My灶",
+    "status": "added",
+    "matchedName": "My灶",
+    "rating": 3.9,
+    "reviews": 2093,
+    "address": "10491臺北市中山區興亞里松江路100巷9-1號",
+    "distanceMeters": 875
+  },
+  {
+    "input": "巢鐵板燒",
+    "status": "already_exists",
+    "matchedName": "NEST巢TEPPANYAKI"
+  },
+  {
+    "input": "東嘉祥丼飯",
+    "status": "added",
+    "matchedName": "東嘉祥 丼飯",
+    "rating": 4.3,
+    "reviews": 674,
+    "address": "10491臺北市中山區中央里南京東路二段115巷3弄1-3號",
+    "distanceMeters": 656
+  },
+  {
+    "input": "豪記水餃",
+    "status": "added",
+    "matchedName": "正豪季水餃專賣店(伊通店)",
+    "rating": 4,
+    "reviews": 470,
+    "address": "10491臺北市中山區中央里伊通街125巷4號",
+    "distanceMeters": 560
+  },
+  {
+    "input": "男朋友家",
+    "status": "added",
+    "matchedName": "男朋友•家/男朋友餐盒",
+    "rating": 4.4,
+    "reviews": 433,
+    "address": "10491臺北市中山區中央里建國北路二段64巷15號",
+    "distanceMeters": 537
+  },
+  {
+    "input": "男朋友餐盒",
+    "status": "duplicate_result",
+    "matchedName": "男朋友•家/男朋友餐盒"
+  },
+  {
+    "input": "一味入魂鹹水雞",
+    "status": "added",
+    "matchedName": "一味入魂",
+    "rating": 4.2,
+    "reviews": 322,
+    "address": "10491臺北市中山區中央里長春路188號",
+    "distanceMeters": 600
+  },
+  {
+    "input": "刈包盧",
+    "status": "not_found",
+    "reason": "Places Text Search 沒有回傳可信的附近餐廳結果。"
+  }
+]

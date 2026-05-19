@@ -5,7 +5,8 @@ const restaurantList = [
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
-  ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : [])
+  ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : []),
+  ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
 ].map(normalizeRestaurant).sort((a, b) => a.rank - b.rank);
 
 function normalizeRestaurant(item) {
@@ -117,6 +118,7 @@ function tagLabel(tag) {
     booking: "可訂位",
     wishlist: "想去",
     google: "Google高評分",
+    threads: "Threads推薦",
     popular: "評論多",
     p1: "$",
     p2: "$$",
