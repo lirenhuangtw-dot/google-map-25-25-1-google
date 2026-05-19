@@ -9,8 +9,8 @@ const repoRoot = path.resolve(__dirname, "..");
 
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_PLACES_API_KEY;
 const CENTER_QUERY = process.env.CENTER_QUERY || "台北市南京東路三段89巷附近";
-const CENTER_LAT = Number(process.env.CENTER_LAT || "");
-const CENTER_LNG = Number(process.env.CENTER_LNG || "");
+const CENTER_LAT = process.env.CENTER_LAT ? Number(process.env.CENTER_LAT) : null;
+const CENTER_LNG = process.env.CENTER_LNG ? Number(process.env.CENTER_LNG) : null;
 const RADIUS_METERS = Number(process.env.RADIUS_METERS || 1200);
 const MIN_RATING = Number(process.env.MIN_RATING || 4.2);
 const MIN_REVIEWS = Number(process.env.MIN_REVIEWS || 100);
@@ -58,10 +58,11 @@ const existingNames = await loadExistingRestaurantNames();
 const places = await searchPlaces(center);
 const restaurants = places
   .filter(isOpenOrUnknown)
+  .filter(isRestaurantLike)
   .filter((place) => (place.rating || 0) >= MIN_RATING)
   .filter((place) => (place.userRatingCount || 0) >= MIN_REVIEWS)
   .filter((place) => distanceMeters(center, place.location) <= RADIUS_METERS)
-  .filter((place) => !existingNames.has(normalizeName(getName(place))))
+  .filter((place) => !isExistingName(existingNames, getName(place)))
   .sort((a, b) => {
     const scoreA = scorePlace(a);
     const scoreB = scorePlace(b);
@@ -78,7 +79,7 @@ console.log(`written: ${restaurants.length}`);
 console.log(`output: ${path.relative(repoRoot, OUTPUT_FILE)}`);
 
 async function resolveCenter() {
-  if (Number.isFinite(CENTER_LAT) && Number.isFinite(CENTER_LNG)) {
+  if (CENTER_LAT !== null && CENTER_LNG !== null && Number.isFinite(CENTER_LAT) && Number.isFinite(CENTER_LNG)) {
     return { lat: CENTER_LAT, lng: CENTER_LNG };
   }
 
@@ -183,9 +184,9 @@ async function loadExistingRestaurantNames() {
 }
 
 function toRestaurant(place, center, rank) {
-  const name = getName(place);
+  const name = cleanDisplayName(getName(place));
   const meters = Math.round(distanceMeters(center, place.location));
-  const distance = meters <= RADIUS_METERS ? "near" : "mid";
+  const distance = walkingUpperMinutes(meters) <= 15 ? "near" : "mid";
   const priceTag = priceLevelToTag(place.priceLevel);
   const cuisine = inferCuisine(place);
   const address = place.formattedAddress || "";
@@ -214,6 +215,12 @@ function isOpenOrUnknown(place) {
   return !place.businessStatus || place.businessStatus === "OPERATIONAL";
 }
 
+function isRestaurantLike(place) {
+  const types = new Set(place.types || []);
+  if (types.has("lodging") || types.has("hotel")) return false;
+  return ["restaurant", "cafe", "bar", "bakery", "meal_takeaway", "food"].some((type) => types.has(type));
+}
+
 function scorePlace(place) {
   const rating = place.rating || 0;
   const reviews = place.userRatingCount || 0;
@@ -224,8 +231,33 @@ function getName(place) {
   return place.displayName?.text || "";
 }
 
+function cleanDisplayName(name) {
+  let cleaned = name.split(/[|｜]/)[0].trim();
+  cleaned = cleaned.replace(/[-－—]\s*(大安|台北|熱門|必吃|人氣|網美|酒吧|居酒屋|餐廳|聚餐|推薦|首選).*/u, "").trim();
+  return cleaned || name;
+}
+
+function isExistingName(existingNames, name) {
+  const normalized = normalizeName(cleanDisplayName(name));
+  if (existingNames.has(normalized)) return true;
+  for (const existing of existingNames) {
+    if (normalized.length >= 6 && existing.includes(normalized)) return true;
+    if (existing.length >= 6 && normalized.includes(existing)) return true;
+    const core = cjkCore(normalized);
+    const existingCore = cjkCore(existing);
+    if (core.length >= 4 && existingCore.length >= 4 && (core.startsWith(existingCore.slice(0, 4)) || existingCore.startsWith(core.slice(0, 4)))) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function cjkCore(name) {
+  return name.replace(/[^\u4e00-\u9fff]/g, "");
+}
+
 function normalizeName(name) {
-  return name
+  return cleanDisplayName(name)
     .toLowerCase()
     .replace(/\s+/g, "")
     .replace(/[｜|()（）店]/g, "");
@@ -249,8 +281,16 @@ function toRad(value) {
 }
 
 function walkingTimeLabel(meters) {
-  const minutes = Math.max(3, Math.round(meters / 80));
-  return `步行約 ${Math.max(3, minutes - 2)}-${minutes + 2} 分鐘`;
+  const minutes = walkingBaseMinutes(meters);
+  return `步行約 ${Math.max(3, minutes - 2)}-${walkingUpperMinutes(meters)} 分鐘`;
+}
+
+function walkingBaseMinutes(meters) {
+  return Math.max(3, Math.round(meters / 80));
+}
+
+function walkingUpperMinutes(meters) {
+  return walkingBaseMinutes(meters) + 2;
 }
 
 function priceLevelToTag(priceLevel) {
