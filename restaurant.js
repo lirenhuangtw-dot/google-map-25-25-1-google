@@ -62,7 +62,10 @@ function matchesRestaurantQuery(item, query) {
 function renderRestaurants() {
   const grid = document.querySelector("#restaurantGrid");
   const filtered = restaurantList.filter((item) => {
-    const filterMatch = [...selectedRestaurantFilters].every((filter) => item.tags.includes(filter) || item.distance === filter);
+    const filterMatch = [...selectedRestaurantFilters].every((filter) => {
+      if (["near", "mid", "far"].includes(filter)) return item.distance === filter;
+      return item.tags.includes(filter);
+    });
     return filterMatch && matchesRestaurantQuery(item, restaurantQuery);
   });
 
