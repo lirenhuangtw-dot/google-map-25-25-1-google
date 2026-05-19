@@ -1,22 +1,32 @@
 const RESTAURANT_ORIGIN = "台北市南京東路三段89巷附近";
 let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
+const PRICE_OVERRIDES = [
+  { pattern: /慶城海南雞|雙月食品社|阜杭豆漿|富霸王|梁記嘉義雞肉飯|家鴻燒鵝|勝利號蚵仔煎|客家自製湯圓|福德涼麵|五湖豆漿/, tag: "p1" },
+  { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線/, tag: "p1" }
+];
 const restaurantList = [
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
   ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : []),
   ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
-].map(normalizeRestaurant).sort((a, b) => a.rank - b.rank);
+].map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
 function normalizeRestaurant(item) {
-  const priceTag = item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
-  const price = item.price || tagLabel(priceTag);
+  const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
+  const price = tagLabel(priceTag);
+  const tagsWithoutPrice = item.tags.filter((tag) => !/^p[1-4]$/.test(tag));
   return {
     ...item,
     price,
-    tags: [...new Set([...item.tags, priceTag])]
+    tags: [...new Set([...tagsWithoutPrice, priceTag])]
   };
+}
+
+function overridePriceTag(item) {
+  const text = `${item.name} ${item.destination || ""}`;
+  return PRICE_OVERRIDES.find((rule) => rule.pattern.test(text))?.tag || "";
 }
 
 function inferPriceTag(item) {
@@ -24,6 +34,11 @@ function inferPriceTag(item) {
   if (item.tags.includes("hotpot") || item.cuisine.includes("燒肉") || item.cuisine.includes("牛排")) return "p3";
   if (item.tags.includes("solo") && !item.tags.includes("booking")) return "p1";
   return "p2";
+}
+
+function restaurantSortRank(item) {
+  if (item.tags.includes("threads")) return item.rank - 360;
+  return item.rank;
 }
 
 function restaurantMapUrl(destination, mode = "driving") {
