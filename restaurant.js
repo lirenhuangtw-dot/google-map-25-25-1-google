@@ -4,7 +4,8 @@ let restaurantQuery = "";
 const restaurantList = [
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
-  ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : [])
+  ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
+  ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : [])
 ].map(normalizeRestaurant).sort((a, b) => a.rank - b.rank);
 
 function normalizeRestaurant(item) {
@@ -97,7 +98,7 @@ function renderRestaurants() {
       <div class="card__actions">
         <a href="${restaurantMapUrl(item.destination, "driving")}" target="_blank" rel="noreferrer">開車/計程車</a>
         <a class="secondary" href="${restaurantMapUrl(item.destination, "transit")}" target="_blank" rel="noreferrer">大眾運輸</a>
-        <a class="secondary" href="${restaurantSearchUrl(item.destination)}" target="_blank" rel="noreferrer">Google Maps</a>
+        <a class="secondary" href="${item.mapUrl || restaurantSearchUrl(item.destination)}" target="_blank" rel="noreferrer">Google Maps</a>
       </div>
     </article>
   `).join("");
@@ -115,6 +116,8 @@ function tagLabel(tag) {
     solo: "一人可",
     booking: "可訂位",
     wishlist: "想去",
+    google: "Google高評分",
+    popular: "評論多",
     p1: "$",
     p2: "$$",
     p3: "$$$",
