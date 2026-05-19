@@ -114,6 +114,7 @@ function tagLabel(tag) {
     michelin: "米其林/必比登",
     solo: "一人可",
     booking: "可訂位",
+    wishlist: "想去",
     p1: "$",
     p2: "$$",
     p3: "$$$",
