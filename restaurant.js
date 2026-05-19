@@ -3,7 +3,8 @@ let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
 const restaurantList = [
   ...restaurants,
-  ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : [])
+  ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
+  ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : [])
 ].map(normalizeRestaurant).sort((a, b) => a.rank - b.rank);
 
 function normalizeRestaurant(item) {
