@@ -1,6 +1,7 @@
 const RESTAURANT_ORIGIN = "台北市南京東路三段89巷附近";
 let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
+let restaurantSortMode = "recommended";
 const PRICE_OVERRIDES = [
   { pattern: /慶城海南雞|雙月食品社|阜杭豆漿|富霸王|梁記嘉義雞肉飯|家鴻燒鵝|勝利號蚵仔煎|客家自製湯圓|福德涼麵|五湖豆漿/, tag: "p1" },
   { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線/, tag: "p1" }
@@ -41,6 +42,25 @@ function restaurantSortRank(item) {
   return item.rank;
 }
 
+function restaurantDistanceRank(item) {
+  const categoryBase = { near: 0, mid: 100000, far: 200000 }[item.distance] ?? 300000;
+  const meterMatch = `${item.why || ""} ${item.destination || ""}`.match(/距離中心約\s*([\d,]+)\s*公尺/);
+  if (meterMatch) return categoryBase + Number(meterMatch[1].replace(/,/g, ""));
+
+  const minutes = [...String(item.time || "").matchAll(/\d+/g)].map((match) => Number(match[0]));
+  if (minutes.length) return categoryBase + Math.max(...minutes) * 80;
+
+  return categoryBase + item.rank;
+}
+
+function sortRestaurants(items) {
+  const sorted = [...items];
+  if (restaurantSortMode === "distance") {
+    return sorted.sort((a, b) => restaurantDistanceRank(a) - restaurantDistanceRank(b) || restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
+  }
+  return sorted.sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
+}
+
 function restaurantMapUrl(destination, mode = "driving") {
   const params = new URLSearchParams({
     api: "1",
@@ -79,13 +99,13 @@ function matchesRestaurantQuery(item, query) {
 
 function renderRestaurants() {
   const grid = document.querySelector("#restaurantGrid");
-  const filtered = restaurantList.filter((item) => {
+  const filtered = sortRestaurants(restaurantList.filter((item) => {
     const filterMatch = [...selectedRestaurantFilters].every((filter) => {
       if (["near", "mid", "far"].includes(filter)) return item.distance === filter;
       return item.tags.includes(filter);
     });
     return filterMatch && matchesRestaurantQuery(item, restaurantQuery);
-  });
+  }));
 
   document.querySelector("#restaurantCount").textContent =
     `目前顯示 ${filtered.length} 間；完整資料 ${restaurantList.length} 間，其中近距離步行 ${restaurantList.filter((item) => item.distance === "near").length} 間。`;
@@ -168,6 +188,11 @@ document.querySelectorAll(".restaurant-page .chip").forEach((button) => {
 
 document.querySelector("#restaurantSearch").addEventListener("input", (event) => {
   restaurantQuery = event.target.value.trim();
+  renderRestaurants();
+});
+
+document.querySelector("#restaurantSort").addEventListener("change", (event) => {
+  restaurantSortMode = event.target.value;
   renderRestaurants();
 });
 

@@ -131,7 +131,8 @@ h1 span {
 .card__actions,
 .filters,
 .source-links,
-.search-box {
+.search-box,
+.sort-box {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -231,7 +232,30 @@ main {
   font-weight: 800;
 }
 
+.sort-box {
+  min-width: min(100%, 220px);
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  font-weight: 800;
+}
+
 .search-box input {
+  min-width: 0;
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  color: var(--ink);
+  background: transparent;
+}
+
+.sort-box select {
   min-width: 0;
   width: 100%;
   border: 0;
