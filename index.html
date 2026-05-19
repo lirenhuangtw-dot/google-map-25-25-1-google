@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>南京東路三段89巷出發｜寶寶週末放電指南</title>
+  <meta name="description" content="以台北市南京東路三段89巷為中心，整理適合約兩歲寶寶的室內與室外親子景點，依車程近中遠與推薦順序排序，附 Google Maps 連結。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <img src="assets/taipei-toddler-weekend-hero.png" alt="台北親子週末出遊情境" class="hero__image">
+    <div class="hero__shade"></div>
+    <nav class="topbar" aria-label="頁面導覽">
+      <a href="#rankings">排行</a>
+      <a href="#routes">懶人行程</a>
+      <a href="#sources">資料來源</a>
+    </nav>
+    <section class="hero__content">
+      <p class="eyebrow">南京東路三段89巷出發｜約兩歲寶寶適用</p>
+      <h1><span>寶寶週末</span><span>放電指南</span></h1>
+      <p class="lead">用「先近再遠、先低挫折再大行程」的方式，整理台北市與近郊適合推車、開車或簡單大眾運輸抵達的室內外地點。近：車程 25 分鐘內；中：25 分鐘至 1 小時；遠：1 小時以上。</p>
+      <div class="hero__actions">
+        <a class="button button--primary" href="#rankings">看推薦排行</a>
+        <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B589%E5%B7%B7" target="_blank" rel="noreferrer">開啟中心點</a>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section class="summary" aria-label="使用說明">
+      <article>
+        <strong>排序邏輯</strong>
+        <span>兩歲友善度、移動成本、遮蔭/雨備、尿布與餐飲、可玩時長、週末壅塞風險。</span>
+      </article>
+      <article>
+        <strong>營業資訊</strong>
+        <span>營業時間與臨時休館容易變動，卡片提供 Google Maps 與官方資訊入口，出門前以當日資料為準。</span>
+      </article>
+      <article>
+        <strong>交通建議</strong>
+        <span>近距離優先計程車/開車；士林、圓山、信義線上點位可用捷運加短步行。</span>
+      </article>
+    </section>
+
+    <section class="controls" id="rankings">
+      <div>
+        <p class="eyebrow">Ranked list</p>
+        <h2>推薦點位排行</h2>
+      </div>
+      <div class="filters" role="toolbar" aria-label="景點篩選">
+        <button class="chip chip--reset is-active" data-filter="all">全部</button>
+        <button class="chip" data-filter="indoor">室內</button>
+        <button class="chip" data-filter="outdoor">室外</button>
+        <button class="chip" data-filter="near">近</button>
+        <button class="chip" data-filter="mid">中</button>
+        <button class="chip" data-filter="far">遠</button>
+        <button class="chip" data-filter="rain">雨天</button>
+        <button class="chip" data-filter="play">遊具</button>
+        <button class="chip" data-filter="sand">沙坑</button>
+        <button class="chip" data-filter="swing">鞦韆</button>
+      </div>
+      <label class="search-box">
+        <span>搜尋</span>
+        <input id="spotSearch" type="search" placeholder="公園名、沙坑、鞦韆、區域">
+      </label>
+    </section>
+
+    <p class="result-count" id="resultCount"></p>
+
+    <section class="spot-grid" id="spotGrid" aria-live="polite"></section>
+
+    <section class="routes" id="routes">
+      <div class="section-heading">
+        <p class="eyebrow">Ready-made weekends</p>
+        <h2>不用想的週末組合</h2>
+      </div>
+      <div class="route-grid">
+        <article class="route">
+          <span class="route__tag">雨天 2-3 小時</span>
+          <h3>松山親子館 → 民生社區早午餐</h3>
+          <p>最省力的近距離放電。親子館需先預約，結束後附近餐飲密度高，寶寶午睡前容易收尾。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">晴天半日</span>
+          <h3>榮星花園 → 行天宮/錦州街補給</h3>
+          <p>草地、步道、遊具與遮蔭平衡好，車程短，適合剛學跑、需要大量安全平面活動的寶寶。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">室內外混搭</span>
+          <h3>北美館兒藝中心 → 花博公園</h3>
+          <p>室內展覽互動搭配戶外散步，圓山站也好抵達；遇雨可縮短戶外段。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">中距離整天</span>
+          <h3>科教館 → 兒童新樂園</h3>
+          <p>士林科學藝術園區最適合排成一天，但兩歲寶寶建議只挑 1-2 個重點，不要硬塞滿。</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="notes">
+      <div class="section-heading">
+        <p class="eyebrow">Before you go</p>
+        <h2>兩歲寶寶出門檢核</h2>
+      </div>
+      <ul>
+        <li>親子館類多半要線上預約或分時段入場；週末熱門場次請提早搶。</li>
+        <li>戶外遊戲場 10:30-15:30 常遇高溫或曝曬，夏天優先選有樹蔭的榮星、花博、大安森林、河濱傍晚場。</li>
+        <li>兩歲寶寶對大型展館的可玩時長通常是 60-120 分鐘，排行靠前的是低挫折、好撤退的點。</li>
+        <li>Google Maps 連結會帶入南京東路三段89巷作為出發點；實際時間仍會受停車、天氣、活動與路況影響。</li>
+      </ul>
+    </section>
+
+    <section class="sources" id="sources">
+      <div class="section-heading">
+        <p class="eyebrow">Last checked 2026-05-19</p>
+        <h2>資料來源與更新方式</h2>
+      </div>
+      <p>清單以官方資料與近期公開資訊交叉整理，並把容易變動的營業時間、評論與路況交給 Google Maps 即時確認。</p>
+      <div class="source-links">
+        <a href="https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=5qiCLeiHuuWMl%2BW4guimquWtkOWom%2BaoguWgtOaJgOWQjeWWrigxMDkwMzI05pu05pawKS5wZGY%3D&u=LzAwMS9VcGxvYWQvNjg0L3JlbGZpbGUvNDUyMDgvMTEwODk2Lzg0MGY2NzZiLWU0ZmMtNGIzNC04MWQxLWJjNjQyYzg5MzhmMy5wZGY%3D" target="_blank" rel="noreferrer">臺北市親子娛樂場所名單</a>
+        <a href="https://welfare.gov.taipei/Kids/ParentChild/ParentChildActivity" target="_blank" rel="noreferrer">臺北育兒網親子館預約</a>
+        <a href="https://data.taipei/dataset/detail?id=2704f07d-4d1d-4cef-b53a-c44aef326d96" target="_blank" rel="noreferrer">臺北市共融式遊戲場開放資料</a>
+        <a href="https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6" target="_blank" rel="noreferrer">臺北市公園基本資料</a>
+        <a href="https://www.tfam.museum/" target="_blank" rel="noreferrer">臺北市立美術館</a>
+        <a href="https://en.ntsec.gov.tw/" target="_blank" rel="noreferrer">國立臺灣科學教育館</a>
+        <a href="https://travel.taipei/" target="_blank" rel="noreferrer">臺北旅遊網</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>中心點：南京東路三段89巷</span>
+    <span>分類：近 25 分鐘內｜中 25-60 分鐘｜遠 60 分鐘以上</span>
+  </footer>
+
+  <script src="official-near-parks.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

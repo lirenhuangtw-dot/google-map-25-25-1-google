@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>南京東路三段89巷出發｜自己想吃餐廳指南</title>
+  <meta name="description" content="以台北市南京東路三段89巷為中心，整理步行可到、交通 30 分鐘內與少量值得特地去的餐廳，附 Google Maps 連結與複選篩選。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="restaurant-page">
+  <header class="hero hero--restaurant">
+    <img src="assets/taipei-toddler-weekend-hero.png" alt="台北城市週末散步情境" class="hero__image">
+    <div class="hero__shade"></div>
+    <nav class="topbar" aria-label="頁面導覽">
+      <a href="index.html">寶寶版</a>
+      <a href="#rankings">餐廳排行</a>
+      <a href="#sources">資料來源</a>
+    </nav>
+    <section class="hero__content">
+      <p class="eyebrow">南京東路三段89巷出發｜自己想吃版</p>
+      <h1><span>週末餐廳</span><span>口袋名單</span></h1>
+      <p class="lead">近：南京東路三段89巷周邊步行可到；中：搭捷運、計程車或簡單轉乘約 30 分鐘內；遠：少量值得特地安排的餐廳。營業時間、訂位與臨時店休以 Google Maps 或店家公告為準。</p>
+      <div class="hero__actions">
+        <a class="button button--primary" href="#rankings">看餐廳排行</a>
+        <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B589%E5%B7%B7+%E9%A4%90%E5%BB%B3" target="_blank" rel="noreferrer">Google Maps 搜尋</a>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section class="summary" aria-label="使用說明">
+      <article>
+        <strong>排序邏輯</strong>
+        <span>先放步行可到、辨識度高、較值得專程吃的點；再補交通 30 分鐘內的台北代表餐廳。</span>
+      </article>
+      <article>
+        <strong>適用情境</strong>
+        <span>一人吃飯、朋友聚餐、約會、下班小酌、想吃台菜/日式/火鍋/餐酒時快速篩。</span>
+      </article>
+      <article>
+        <strong>出門前</strong>
+        <span>熱門餐廳請先訂位；小吃與必比登常排隊，建議用 Google Maps 看當日尖峰與最新評論。</span>
+      </article>
+    </section>
+
+    <section class="controls" id="rankings">
+      <div>
+        <p class="eyebrow">Restaurant list</p>
+        <h2>餐廳推薦排行</h2>
+      </div>
+      <div class="filters" role="toolbar" aria-label="餐廳篩選">
+        <button class="chip chip--reset is-active" data-filter="all">全部</button>
+        <button class="chip" data-filter="near">近</button>
+        <button class="chip" data-filter="mid">中</button>
+        <button class="chip" data-filter="far">遠</button>
+        <button class="chip" data-filter="tw">台菜</button>
+        <button class="chip" data-filter="jp">日式</button>
+        <button class="chip" data-filter="cn">中式</button>
+        <button class="chip" data-filter="west">西式</button>
+        <button class="chip" data-filter="bistro">餐酒</button>
+        <button class="chip" data-filter="hotpot">火鍋</button>
+        <button class="chip" data-filter="michelin">米其林/必比登</button>
+        <button class="chip" data-filter="solo">一人可</button>
+        <button class="chip" data-filter="booking">可訂位</button>
+        <button class="chip" data-filter="p1">$</button>
+        <button class="chip" data-filter="p2">$$</button>
+        <button class="chip" data-filter="p3">$$$</button>
+        <button class="chip" data-filter="p4">$$$$</button>
+      </div>
+      <label class="search-box">
+        <span>搜尋</span>
+        <input id="restaurantSearch" type="search" placeholder="餐廳、料理、聚餐、約會、牛肉麵">
+      </label>
+    </section>
+
+    <p class="result-count" id="restaurantCount"></p>
+    <section class="spot-grid" id="restaurantGrid" aria-live="polite"></section>
+
+    <section class="routes">
+      <div class="section-heading">
+        <p class="eyebrow">Quick picks</p>
+        <h2>不用想的吃法</h2>
+      </div>
+      <div class="route-grid">
+        <article class="route">
+          <span class="route__tag">步行晚餐</span>
+          <h3>慶城海南雞飯 → BarSip 或 MRT Bistro</h3>
+          <p>先吃穩定快節奏，再轉小酌。適合不想移動太遠的下班或週末晚上。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">想吃正式一點</span>
+          <h3>雅閣 / 兄弟梅花廳 / 頁小館</h3>
+          <p>中式、港點、台菜都在南京東路三段89巷周邊，適合長輩、朋友或不想踩雷的聚餐。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">交通 30 分鐘內</span>
+          <h3>阿城鵝肉 → 雞家莊 → 欣葉創始店</h3>
+          <p>中山、雙連、民權西路一帶是台菜與小吃密度高的中距離選擇。</p>
+        </article>
+        <article class="route">
+          <span class="route__tag">特地吃</span>
+          <h3>金蓬萊 / 教父牛排 / 態芮</h3>
+          <p>距離較遠但辨識度高，適合生日、紀念日或想安排一餐完整體驗。</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="sources" id="sources">
+      <div class="section-heading">
+        <p class="eyebrow">Last checked 2026-05-19</p>
+        <h2>資料來源與更新方式</h2>
+      </div>
+      <p>餐廳名單以近期公開推薦、米其林 2025 資訊與在地餐廳整理交叉參考；實際營業、訂位、價格、菜單與排隊狀態請以 Google Maps 與店家公告為準。</p>
+      <div class="source-links">
+        <a href="https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-taiwan-2025-unveiled" target="_blank" rel="noreferrer">MICHELIN Guide Taiwan 2025</a>
+        <a href="https://www.taiwannews.com.tw/news/6177280" target="_blank" rel="noreferrer">Taiwan News 2025 Bib Gourmand</a>
+        <a href="https://www.walkerland.com.tw/subject/view/415632" target="_blank" rel="noreferrer">WalkerLand 2025 必比登整理</a>
+        <a href="https://aova.tw/mrt-bistro/" target="_blank" rel="noreferrer">南京東路三段89巷餐酒館近期食記</a>
+        <a href="https://kenalice.tw/blog/post/taipei-arena" target="_blank" rel="noreferrer">小巨蛋周邊美食整理</a>
+        <a href="https://ifoodie.com.tw/explore/%E5%8F%B0%E5%8C%97%E5%B8%82/list/%E5%8D%97%E4%BA%AC%E5%BE%A9%E8%88%88%E9%A4%90%E9%85%92%E9%A4%A8" target="_blank" rel="noreferrer">愛食記南京東路三段89巷餐酒館</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>中心點：南京東路三段89巷</span>
+    <span>近：步行可到｜中：交通 30 分鐘內｜遠：少量特地吃</span>
+  </footer>
+
+  <script src="restaurant-data.js"></script>
+  <script src="restaurant-extra-near.js"></script>
+  <script src="restaurant.js"></script>
+</body>
+</html>
