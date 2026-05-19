@@ -43,3 +43,19 @@ node scripts/import-google-places-restaurants.mjs
 - 會排除評分低於門檻、評論數低於門檻、已停業或超出半徑的店。
 - 會把 Google 評分、評論數、價位和 Google Maps 連結寫入資料檔。
 - 輸出資料會加上 `Google高評分` 篩選標籤。
+
+## 寶寶景點匯入
+
+```bash
+GOOGLE_MAPS_API_KEY="你的 API key" node scripts/import-google-baby-places.mjs
+```
+
+預設會抓中心點 9000 公尺內的親子景點、公園、遊戲場、親子館、圖書館、展館與雨天備案，門檻是評分 `4.1+`、評論 `50+`，最多輸出 `100` 個點位到 `google-baby-places.js`。
+
+## 一鍵更新餐廳與寶寶景點
+
+```bash
+GOOGLE_MAPS_API_KEY="你的 API key" node scripts/update-all-google-places.mjs
+```
+
+跑完後檢查 `restaurant-google-places.js` 與 `google-baby-places.js` 的 diff，確認資料合理再 commit/push。

@@ -473,7 +473,8 @@ const spots = [
 
 const allSpots = [
   ...spots,
-  ...(typeof officialNearParks !== "undefined" ? officialNearParks : [])
+  ...(typeof officialNearParks !== "undefined" ? officialNearParks : []),
+  ...(typeof googleBabyPlaces !== "undefined" ? googleBabyPlaces : [])
 ];
 
 let activeFilters = new Set();
@@ -530,6 +531,7 @@ function renderSpots() {
       if (filter === "play") return spot.tags.includes("遊具") || spot.why.includes("遊樂設施");
       if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙");
       if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
+      if (filter === "google") return spot.tags.includes("Google高評分");
       return spot.type === filter || spot.distance === filter;
     });
     return filterMatch && spotMatchesQuery(spot, activeQuery);
@@ -560,7 +562,7 @@ function renderSpots() {
       <div class="card__actions">
         <a href="${mapUrl(spot.destination, "driving")}" target="_blank" rel="noreferrer">開車導航</a>
         <a class="secondary" href="${mapUrl(spot.destination, "transit")}" target="_blank" rel="noreferrer">大眾運輸</a>
-        <a class="secondary" href="${searchUrl(spot.destination)}" target="_blank" rel="noreferrer">Google Maps</a>
+        <a class="secondary" href="${spot.mapUrl || searchUrl(spot.destination)}" target="_blank" rel="noreferrer">Google Maps</a>
       </div>
     </article>
   `).join("");
