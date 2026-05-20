@@ -209,6 +209,9 @@ function toRestaurant(place, center, rank) {
   const address = place.formattedAddress || "";
   const rating = Number(place.rating || 0).toFixed(1);
   const reviews = place.userRatingCount || 0;
+  const isWishlist = /Bar Yoshi|梄時/i.test(name);
+  const tags = [...new Set([distance, ...inferTags(place, cuisine), SOURCE_TAG, isWishlist ? "wishlist" : "", priceTag].filter(Boolean))];
+  const whyPrefix = isWishlist ? "你喜歡的酒吧；" : "";
 
   return {
     rank,
@@ -219,8 +222,8 @@ function toRestaurant(place, center, rank) {
     cuisine,
     price: tagLabel(priceTag),
     googleRating: `${rating} (${reviews} 則)`,
-    tags: [...new Set([distance, ...inferTags(place, cuisine), SOURCE_TAG, priceTag])],
-    why: `Google Maps 高評分附近餐廳，評分 ${rating}、評論 ${reviews} 則；步行距離估約 ${meters} 公尺。`,
+    tags,
+    why: `${whyPrefix}Google Maps 高評分附近餐廳，評分 ${rating}、評論 ${reviews} 則；步行距離估約 ${meters} 公尺。`,
     order: SOURCE_TAG === "bar" ? "以招牌調酒、酒單、下酒菜與近期評論挑選。" : "以 Google Maps 最新照片、菜單與熱門評論挑選。",
     booking: "營業時間、訂位與臨時店休以 Google Maps 或店家公告為準。",
     destination: `${name} ${address}`.trim(),
