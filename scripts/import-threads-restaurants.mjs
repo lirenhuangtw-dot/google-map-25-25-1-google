@@ -460,6 +460,7 @@ function tagLabel(tag) {
 
 function inferCuisine(place, name) {
   const text = [...(place.types || []), place.primaryType || "", name].join(" ").toLowerCase();
+  if (/帥哥滷肉飯|handsome guy/i.test(name)) return "台式小吃";
   if (/coffee|cafe|咖啡/.test(text)) return "咖啡/輕食";
   if (/bar|pub|居酒|酒/.test(text)) return "餐酒/酒吧";
   if (/bakery|donut|甜點|冰|麻糬|湯圓|麵包|餅/.test(text)) return "甜點/小吃";

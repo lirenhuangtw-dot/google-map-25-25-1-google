@@ -10,6 +10,7 @@ const PRICE_OVERRIDES = [
   { pattern: /慶城海南雞|雙月食品社|阜杭豆漿|富霸王|梁記嘉義雞肉飯|家鴻燒鵝|勝利號蚵仔煎|客家自製湯圓|福德涼麵|五湖豆漿/, tag: "p1" },
   { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線|山內雞肉|賣麵炎仔/, tag: "p1" }
 ];
+const BAR_EXCLUDE_PATTERNS = [/帥哥滷肉飯|Handsome Guy/i];
 const restaurantList = [
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
@@ -46,6 +47,7 @@ function isCafeRestaurant(item) {
 
 function isBarRestaurant(item) {
   const text = `${item.name} ${item.cuisine || ""} ${item.destination || ""}`;
+  if (BAR_EXCLUDE_PATTERNS.some((pattern) => pattern.test(text))) return false;
   return /酒吧|酒場|酒館|餐酒|小酒館|居酒|Bar|Bistro|Pub|Cocktail|Speakeasy/i.test(text);
 }
 
