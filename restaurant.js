@@ -21,16 +21,22 @@ function normalizeRestaurant(item) {
   const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
   const price = tagLabel(priceTag);
   const tagsWithoutPrice = item.tags.filter((tag) => !/^p[1-4]$/.test(tag));
+  const categoryTags = isCafeRestaurant(item) ? ["cafe"] : [];
   return {
     ...item,
     price,
-    tags: [...new Set([...tagsWithoutPrice, priceTag])]
+    tags: [...new Set([...tagsWithoutPrice, ...categoryTags, priceTag])]
   };
 }
 
 function overridePriceTag(item) {
   const text = `${item.name} ${item.destination || ""}`;
   return PRICE_OVERRIDES.find((rule) => rule.pattern.test(text))?.tag || "";
+}
+
+function isCafeRestaurant(item) {
+  const text = `${item.name} ${item.cuisine || ""} ${item.destination || ""}`;
+  return /咖啡|咖啡廳|Coffee|Cafe|Café|Kaffe|Roasting|Roasters|早午餐|輕食|brunch/i.test(text);
 }
 
 function inferPriceTag(item) {
@@ -150,6 +156,7 @@ function tagLabel(tag) {
     jp: "日式",
     cn: "中式",
     west: "西式",
+    cafe: "咖啡廳",
     bistro: "餐酒",
     hotpot: "火鍋",
     michelin: "米其林/必比登",
