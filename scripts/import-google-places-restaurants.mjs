@@ -346,8 +346,8 @@ function inferCuisine(place) {
   if (/cafe|coffee|咖啡/.test(text)) return "咖啡/輕食";
   if (/bar|pub|cocktail|居酒|酒吧|酒場|酒館|小酒館|餐酒/.test(text)) return "餐酒/酒吧";
   if (/bakery|bread|甜點|蛋糕|麵包/.test(text)) return "甜點/烘焙";
+  if (/shabu|hotpot|火鍋|鍋物|涮涮|麻辣/.test(text)) return "火鍋";
   if (/japanese|sushi|ramen|壽司|拉麵|日式/.test(text)) return "日式料理";
-  if (/hotpot|火鍋|麻辣/.test(text)) return "火鍋";
   if (/korean|韓/.test(text)) return "韓式料理";
   if (/thai|泰/.test(text)) return "泰式料理";
   if (/italian|pizza|pasta|義式|義大利/.test(text)) return "義式料理";
