@@ -8,7 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, "..");
 
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_PLACES_API_KEY;
-const CENTER = { lat: 25.052176, lng: 121.540367 };
+const CENTER = { lat: 25.05265, lng: 121.5444 };
 const CENTER_LABEL = "台北市南京東路三段89巷附近";
 const OUTPUT_FILE = path.join(repoRoot, "restaurant-threads.js");
 const REPORT_FILE = path.join(repoRoot, "threads-import-report.json");

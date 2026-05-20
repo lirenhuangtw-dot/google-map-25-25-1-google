@@ -9,14 +9,21 @@ const repoRoot = path.resolve(__dirname, "..");
 
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_PLACES_API_KEY;
 const CENTER_QUERY = process.env.CENTER_QUERY || "台北市南京東路三段89巷附近";
-const CENTER_LAT = process.env.CENTER_LAT ? Number(process.env.CENTER_LAT) : null;
-const CENTER_LNG = process.env.CENTER_LNG ? Number(process.env.CENTER_LNG) : null;
+const DEFAULT_CENTER = { lat: 25.05265, lng: 121.5444 };
+const CENTER_LAT = process.env.CENTER_LAT ? Number(process.env.CENTER_LAT) : DEFAULT_CENTER.lat;
+const CENTER_LNG = process.env.CENTER_LNG ? Number(process.env.CENTER_LNG) : DEFAULT_CENTER.lng;
 const RADIUS_METERS = Number(process.env.RADIUS_METERS || 1200);
 const MIN_RATING = Number(process.env.MIN_RATING || 4.2);
 const MIN_REVIEWS = Number(process.env.MIN_REVIEWS || 100);
 const MAX_RESULTS = Number(process.env.MAX_RESULTS || 80);
 const OUTPUT_FILE = process.env.OUTPUT_FILE || path.join(repoRoot, "restaurant-google-places.js");
 const START_RANK = Number(process.env.START_RANK || 300);
+const OUTPUT_VARIABLE = process.env.OUTPUT_VARIABLE || "googlePlacesRestaurants";
+const SOURCE_TAG = process.env.SOURCE_TAG || "google";
+const INCLUDED_TYPES = (process.env.INCLUDED_TYPES || "restaurant,cafe,bar,bakery,meal_takeaway")
+  .split(",")
+  .map((item) => item.trim())
+  .filter(Boolean);
 
 const FIELD_MASK = [
   "places.id",
@@ -32,7 +39,7 @@ const FIELD_MASK = [
   "places.businessStatus"
 ].join(",");
 
-const TEXT_QUERIES = [
+const TEXT_QUERIES = process.env.TEXT_QUERIES ? process.env.TEXT_QUERIES.split("|").map((item) => item.trim()).filter(Boolean) : [
   "餐廳",
   "美食",
   "中價位餐廳",
@@ -59,6 +66,7 @@ const places = await searchPlaces(center);
 const restaurants = places
   .filter(isOpenOrUnknown)
   .filter(isRestaurantLike)
+  .filter(isSourceMatch)
   .filter((place) => (place.rating || 0) >= MIN_RATING)
   .filter((place) => (place.userRatingCount || 0) >= MIN_REVIEWS)
   .filter((place) => distanceMeters(center, place.location) <= RADIUS_METERS)
@@ -108,7 +116,7 @@ async function searchPlaces(center) {
 
 async function addNearbyResults(results, center) {
   const body = {
-    includedTypes: ["restaurant", "cafe", "bar", "bakery", "meal_takeaway"],
+    includedTypes: INCLUDED_TYPES,
     maxResultCount: 20,
     rankPreference: "POPULARITY",
     languageCode: "zh-TW",
@@ -171,12 +179,20 @@ async function loadExistingRestaurantNames() {
   const files = [
     "restaurant-data.js",
     "restaurant-extra-near.js",
-    "restaurant-more-local.js"
-  ];
+    "restaurant-more-local.js",
+    "restaurant-google-places.js",
+    "restaurant-bars.js",
+    "restaurant-threads.js"
+  ].filter((file) => path.resolve(repoRoot, file) !== path.resolve(OUTPUT_FILE));
   const names = new Set();
   for (const file of files) {
+    try {
+      await fs.access(path.join(repoRoot, file));
+    } catch {
+      continue;
+    }
     const text = await fs.readFile(path.join(repoRoot, file), "utf8");
-    for (const match of text.matchAll(/name:"([^"]+)"/g)) {
+    for (const match of text.matchAll(/(?:name:|"name":)"([^"]+)"/g)) {
       names.add(normalizeName(match[1]));
     }
   }
@@ -203,9 +219,9 @@ function toRestaurant(place, center, rank) {
     cuisine,
     price: tagLabel(priceTag),
     googleRating: `${rating} (${reviews} 則)`,
-    tags: [...new Set([distance, ...inferTags(place, cuisine), "google", priceTag])],
+    tags: [...new Set([distance, ...inferTags(place, cuisine), SOURCE_TAG, priceTag])],
     why: `Google Maps 高評分附近餐廳，評分 ${rating}、評論 ${reviews} 則；步行距離估約 ${meters} 公尺。`,
-    order: "以 Google Maps 最新照片、菜單與熱門評論挑選。",
+    order: SOURCE_TAG === "bar" ? "以招牌調酒、酒單、下酒菜與近期評論挑選。" : "以 Google Maps 最新照片、菜單與熱門評論挑選。",
     booking: "營業時間、訂位與臨時店休以 Google Maps 或店家公告為準。",
     destination: `${name} ${address}`.trim(),
     mapUrl: place.googleMapsUri || ""
@@ -220,6 +236,16 @@ function isRestaurantLike(place) {
   const types = new Set(place.types || []);
   if (types.has("lodging") || types.has("hotel")) return false;
   return ["restaurant", "cafe", "bar", "bakery", "meal_takeaway", "food"].some((type) => types.has(type));
+}
+
+function isSourceMatch(place) {
+  if (SOURCE_TAG !== "bar") return true;
+  const name = getName(place);
+  const text = `${name} ${(place.types || []).join(" ")} ${place.primaryType || ""}`.toLowerCase();
+  const clearlyBar = /bar|pub|cocktail|speakeasy|lounge|bistro|酒吧|調酒|威士忌|啤酒|啜飲|小酒館|餐酒|酒場|酒館|居酒/.test(text);
+  const clearlyCafeOnly = /cafe|coffee|咖啡/.test(text) && !/bar|lounge|酒吧|調酒|威士忌|啤酒|啜飲|小酒館|餐酒|酒場|酒館/.test(text);
+  const clearlyRestaurantOnly = /客家菜|飯店|茶餐廳|餐盒|火鍋|牛肉麵|甜點|蛋糕/.test(name) && !clearlyBar;
+  return clearlyBar && !clearlyCafeOnly && !clearlyRestaurantOnly;
 }
 
 function scorePlace(place) {
@@ -315,7 +341,7 @@ function tagLabel(tag) {
 function inferCuisine(place) {
   const text = [...(place.types || []), place.primaryType || "", getName(place)].join(" ").toLowerCase();
   if (/cafe|coffee|咖啡/.test(text)) return "咖啡/輕食";
-  if (/bar|pub|居酒|酒/.test(text)) return "餐酒/酒吧";
+  if (/bar|pub|cocktail|居酒|酒吧|酒場|酒館|小酒館|餐酒/.test(text)) return "餐酒/酒吧";
   if (/bakery|bread|甜點|蛋糕|麵包/.test(text)) return "甜點/烘焙";
   if (/japanese|sushi|ramen|壽司|拉麵|日式/.test(text)) return "日式料理";
   if (/hotpot|火鍋|麻辣/.test(text)) return "火鍋";
@@ -334,21 +360,21 @@ function inferTags(place, cuisine) {
   if (/中式/.test(cuisine)) tags.push("cn");
   if (/台式|海鮮|熱炒/.test(cuisine)) tags.push("tw");
   if (/咖啡|餐酒|酒吧|甜點|義式|排餐/.test(cuisine)) tags.push("west");
-  if (/餐酒|酒吧/.test(cuisine)) tags.push("bistro");
+  if (/餐酒|酒吧/.test(cuisine)) tags.push("bistro", "bar");
   if (/火鍋/.test(cuisine)) tags.push("hotpot");
   if ((place.userRatingCount || 0) >= 300) tags.push("popular");
   return tags;
 }
 
 function simplifyArea(address) {
-  const match = address.match(/台北市(.{2,3}區)([^,，]*)/);
+  const match = address.match(/(?:台北市|臺北市)(.{2,3}區)([^,，]*)/);
   if (!match) return "南京東路三段89巷附近";
   return `${match[1]}${match[2]}`.replace(/\d+樓.*/, "").slice(0, 18);
 }
 
 function renderJs(restaurants) {
   const lines = restaurants.map((item) => `  ${JSON.stringify(item)}`);
-  return `const googlePlacesRestaurants = [\n${lines.join(",\n")}\n];\n`;
+  return `const ${OUTPUT_VARIABLE} = [\n${lines.join(",\n")}\n];\n`;
 }
 
 function exitWithUsage(message) {

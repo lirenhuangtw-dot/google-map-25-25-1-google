@@ -15,6 +15,7 @@ const restaurantList = [
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
   ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : []),
+  ...(typeof googleBarsRestaurants !== "undefined" ? googleBarsRestaurants : []),
   ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
 ].map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
@@ -22,7 +23,10 @@ function normalizeRestaurant(item) {
   const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
   const price = tagLabel(priceTag);
   const tagsWithoutPrice = item.tags.filter((tag) => !/^p[1-4]$/.test(tag));
-  const categoryTags = isCafeRestaurant(item) ? ["cafe"] : [];
+  const categoryTags = [
+    ...(isCafeRestaurant(item) ? ["cafe"] : []),
+    ...(isBarRestaurant(item) ? ["bar"] : [])
+  ];
   return {
     ...item,
     price,
@@ -38,6 +42,11 @@ function overridePriceTag(item) {
 function isCafeRestaurant(item) {
   const text = `${item.name} ${item.cuisine || ""} ${item.destination || ""}`;
   return /咖啡|咖啡廳|Coffee|Cafe|Café|Kaffe|Roasting|Roasters|早午餐|輕食|brunch/i.test(text);
+}
+
+function isBarRestaurant(item) {
+  const text = `${item.name} ${item.cuisine || ""} ${item.destination || ""}`;
+  return /酒吧|酒場|酒館|餐酒|小酒館|居酒|Bar|Bistro|Pub|Cocktail|Speakeasy/i.test(text);
 }
 
 function inferPriceTag(item) {
@@ -158,6 +167,7 @@ function tagLabel(tag) {
     cn: "中式",
     west: "西式",
     cafe: "咖啡廳",
+    bar: "酒吧",
     bistro: "餐酒",
     hotpot: "火鍋",
     michelin: "米其林/必比登",
