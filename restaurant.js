@@ -4,8 +4,10 @@ let restaurantQuery = "";
 let restaurantSortMode = "recommended";
 const PRICE_OVERRIDES = [
   { pattern: /兄弟大飯店\s*梅花廳|兄弟梅花廳/, tag: "p2" },
+  { pattern: /頁小館|My灶|不葷主義茶餐廳|義大利米蘭手工窯烤披薩|333 Restaurant & Bar/, tag: "p2" },
+  { pattern: /陽明春天/, tag: "p3" },
   { pattern: /慶城海南雞|雙月食品社|阜杭豆漿|富霸王|梁記嘉義雞肉飯|家鴻燒鵝|勝利號蚵仔煎|客家自製湯圓|福德涼麵|五湖豆漿/, tag: "p1" },
-  { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線/, tag: "p1" }
+  { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線|山內雞肉|賣麵炎仔/, tag: "p1" }
 ];
 const restaurantList = [
   ...restaurants,
