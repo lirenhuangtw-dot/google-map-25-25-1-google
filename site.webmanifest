@@ -1,0 +1,24 @@
+{
+  "name": "LIREN 生活指南",
+  "short_name": "LIREN",
+  "description": "南京東路三段89巷附近的餐廳與寶寶放電指南。",
+  "start_url": "./restaurant.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14171a",
+  "theme_color": "#14171a",
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
