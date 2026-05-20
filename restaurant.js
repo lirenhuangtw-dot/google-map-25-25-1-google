@@ -55,7 +55,7 @@ function restaurantSortRank(item) {
 
 function restaurantDistanceRank(item) {
   const categoryBase = { near: 0, mid: 100000, far: 200000 }[item.distance] ?? 300000;
-  const meterMatch = `${item.why || ""} ${item.destination || ""}`.match(/距離中心約\s*([\d,]+)\s*公尺/);
+  const meterMatch = `${item.why || ""} ${item.destination || ""}`.match(/(?:距離中心約|步行距離估約)\s*([\d,]+)\s*公尺/);
   if (meterMatch) return categoryBase + Number(meterMatch[1].replace(/,/g, ""));
 
   const minutes = [...String(item.time || "").matchAll(/\d+/g)].map((match) => Number(match[0]));

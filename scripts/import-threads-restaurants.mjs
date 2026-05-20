@@ -354,7 +354,8 @@ function matchScore(candidate, place) {
 
 function toRestaurant(candidate, place, rank) {
   const name = cleanDisplayName(getName(place));
-  const meters = Math.round(distanceMeters(CENTER, place.location));
+  const straightLineMeters = Math.round(distanceMeters(CENTER, place.location));
+  const meters = estimatedWalkingMeters(straightLineMeters);
   const distance = walkingUpperMinutes(meters) <= 15 ? "near" : "mid";
   const priceTag = priceLevelToTag(place.priceLevel);
   const cuisine = inferCuisine(place, name);
@@ -371,7 +372,7 @@ function toRestaurant(candidate, place, rank) {
     price: tagLabel(priceTag),
     googleRating: place.rating ? `${rating} (${reviews} 則)` : "點 Google Maps 即時查看",
     tags: [...new Set([distance, ...inferTags(cuisine, name), "threads", priceTag])],
-    why: `Threads 貼文留言推薦，已用 Google Places 對到店家；距離中心約 ${meters} 公尺。`,
+    why: `Threads 貼文留言推薦，已用 Google Places 對到店家；步行距離估約 ${meters} 公尺。`,
     order: orderHint(candidate, cuisine),
     booking: "營業時間、訂位、排隊與臨時店休以 Google Maps 或店家公告為準。",
     destination: `${name} ${place.formattedAddress || ""}`.trim(),
@@ -420,6 +421,10 @@ function distanceMeters(center, location) {
     Math.sin(dLat / 2) ** 2 +
     Math.cos(toRad(center.lat)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
   return earth * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+function estimatedWalkingMeters(straightLineMeters) {
+  return Math.round(straightLineMeters * 1.4 + 50);
 }
 
 function toRad(value) {
