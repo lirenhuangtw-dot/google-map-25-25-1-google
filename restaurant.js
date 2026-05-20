@@ -41,7 +41,8 @@ function inferPriceTag(item) {
 }
 
 function restaurantSortRank(item) {
-  if (item.tags.includes("threads")) return item.rank - 360;
+  if (item.tags.includes("threads")) return item.rank - 10000;
+  if (item.tags.includes("wishlist")) return item.rank - 5000;
   return item.rank;
 }
 
