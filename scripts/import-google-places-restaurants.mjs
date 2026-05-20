@@ -9,7 +9,7 @@ const repoRoot = path.resolve(__dirname, "..");
 
 const API_KEY = process.env.GOOGLE_MAPS_API_KEY || process.env.GOOGLE_PLACES_API_KEY;
 const CENTER_QUERY = process.env.CENTER_QUERY || "台北市南京東路三段89巷附近";
-const DEFAULT_CENTER = { lat: 25.05265, lng: 121.5444 };
+const DEFAULT_CENTER = { lat: 25.052267, lng: 121.538824 };
 const CENTER_LAT = process.env.CENTER_LAT ? Number(process.env.CENTER_LAT) : DEFAULT_CENTER.lat;
 const CENTER_LNG = process.env.CENTER_LNG ? Number(process.env.CENTER_LNG) : DEFAULT_CENTER.lng;
 const RADIUS_METERS = Number(process.env.RADIUS_METERS || 1200);
