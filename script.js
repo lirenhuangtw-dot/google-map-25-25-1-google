@@ -471,14 +471,41 @@ const spots = [
   }
 ];
 
-const allSpots = [
+const allSpotsRaw = [
   ...spots,
   ...(typeof officialNearParks !== "undefined" ? officialNearParks : []),
-  ...(typeof googleBabyPlaces !== "undefined" ? googleBabyPlaces : [])
+  ...(typeof googleBabyPlaces !== "undefined" ? googleBabyPlaces : []),
+  ...(typeof userRecommendedBabyPlaces !== "undefined" ? userRecommendedBabyPlaces : [])
 ];
+
+const allSpots = mergeDuplicateSpots(allSpotsRaw);
 
 let activeFilters = new Set();
 let activeQuery = "";
+
+function normalizeSpotName(name) {
+  return String(name || "")
+    .replace(/\s+/g, "")
+    .replace(/[（(].*?[）)]/g, "")
+    .toLowerCase();
+}
+
+function mergeDuplicateSpots(spotsList) {
+  const merged = new Map();
+  for (const spot of spotsList) {
+    const key = normalizeSpotName(spot.name);
+    if (!merged.has(key)) {
+      merged.set(key, { ...spot, tags: [...(spot.tags || [])] });
+      continue;
+    }
+
+    const existing = merged.get(key);
+    existing.tags = [...new Set([...(existing.tags || []), ...(spot.tags || [])])];
+    existing.mapUrl = existing.mapUrl || spot.mapUrl;
+    existing.destination = existing.destination || spot.destination;
+  }
+  return [...merged.values()];
+}
 
 function mapUrl(destination, mode = "driving") {
   const params = new URLSearchParams({
@@ -532,6 +559,7 @@ function renderSpots() {
       if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙");
       if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
       if (filter === "google") return spot.tags.includes("Google高評分");
+      if (filter === "recommend") return spot.tags.includes("網友推薦");
       return spot.type === filter || spot.distance === filter;
     });
     return filterMatch && spotMatchesQuery(spot, activeQuery);
