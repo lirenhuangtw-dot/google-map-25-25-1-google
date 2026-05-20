@@ -3,6 +3,7 @@ let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
 let restaurantSortMode = "recommended";
 const PRICE_OVERRIDES = [
+  { pattern: /無一鮨/, tag: "p4" },
   { pattern: /兄弟大飯店\s*梅花廳|兄弟梅花廳/, tag: "p2" },
   { pattern: /頁小館|My灶|不葷主義茶餐廳|義大利米蘭手工窯烤披薩|333 Restaurant & Bar/, tag: "p2" },
   { pattern: /陽明春天/, tag: "p3" },
