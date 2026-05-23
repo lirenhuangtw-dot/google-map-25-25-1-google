@@ -213,6 +213,7 @@ function isKidPlaceLike(place) {
   if (types.has("lodging") || types.has("hotel") || types.has("night_club") || types.has("bar")) return false;
   if (types.has("train_station") || types.has("subway_station") || types.has("transit_station")) return false;
   if ((types.has("restaurant") || types.has("cafe")) && !/親子|兒童/.test(name)) return false;
+  if (/觀景台|冰上樂園|迪化街|京站|三創|購物中心|時尚廣場|裕隆城|OUTLET|百貨/.test(name) && !/親子|兒童|遊戲|樂園|Play/i.test(name)) return false;
   if (/成人|酒吧|夜店|酒店|旅館|汽車旅館|女生運動|捷運站|觀光夜市|夜市|疏散門|股份有限公司|郵筒/.test(text)) return false;
   if (/親子|兒童|遊戲場|公園|博物館|美術館|圖書館|樂園|科學|天文|河濱|草地|沙坑|共融|育兒/.test(text)) return true;
   return ["park", "museum", "library", "tourist_attraction", "amusement_park", "shopping_mall"].some((type) => types.has(type));
@@ -282,7 +283,7 @@ function inferTags(place, type) {
   if (type === "indoor") tags.push("雨天");
   if (/親子餐廳/.test(text)) tags.push("餐飲");
   if (/遊戲場|遊具|共融|playground|park/.test(text)) tags.push("遊具");
-  if (/沙坑|沙/.test(text)) tags.push("沙坑");
+  if (/沙坑|戲沙|砂坑|沙灘/.test(text)) tags.push("沙坑");
   if (/親子館|育兒|0-6/.test(text)) tags.push("0-6 歲");
   if (/圖書館|library/.test(text)) tags.push("閱讀");
   if (/博物館|美術館|科學|天文|museum/.test(text)) tags.push("展館");

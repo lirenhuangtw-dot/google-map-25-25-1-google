@@ -482,6 +482,7 @@ const allSpots = mergeDuplicateSpots(allSpotsRaw);
 
 let activeFilters = new Set();
 let activeQuery = "";
+let spotSortMode = "recommended";
 
 function normalizeSpotName(name) {
   return String(name || "")
@@ -550,20 +551,42 @@ function spotMatchesQuery(spot, query) {
   return haystack.includes(query.toLowerCase());
 }
 
+function spotDistanceRank(spot) {
+  const categoryBase = { near: 0, mid: 100000, far: 200000 }[spot.distance] ?? 300000;
+  const meterMatch = `${spot.why || ""} ${spot.traffic || ""}`.match(/距離中心約\s*([\d,.]+)\s*(公里|公尺)/);
+  if (meterMatch) {
+    const value = Number(meterMatch[1].replace(/,/g, ""));
+    return categoryBase + (meterMatch[2] === "公里" ? value * 1000 : value);
+  }
+
+  const minutes = [...String(spot.time || "").matchAll(/\d+/g)].map((match) => Number(match[0]));
+  if (minutes.length) return categoryBase + Math.max(...minutes) * 500;
+
+  return categoryBase + spot.rank;
+}
+
+function sortSpots(items) {
+  const sorted = [...items];
+  if (spotSortMode === "distance") {
+    return sorted.sort((a, b) => spotDistanceRank(a) - spotDistanceRank(b) || a.rank - b.rank);
+  }
+  return sorted.sort((a, b) => a.rank - b.rank);
+}
+
 function renderSpots() {
   const grid = document.querySelector("#spotGrid");
-  const filtered = allSpots.filter((spot) => {
+  const filtered = sortSpots(allSpots.filter((spot) => {
     const filterMatch = [...activeFilters].every((filter) => {
       if (filter === "rain") return spot.tags.includes("雨天");
       if (filter === "play") return spot.tags.includes("遊具") || spot.why.includes("遊樂設施");
-      if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙");
+      if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙坑") || spot.why.includes("戲沙");
       if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
       if (filter === "google") return spot.tags.includes("Google高評分");
       if (filter === "recommend") return spot.tags.includes("網友推薦");
       return spot.type === filter || spot.distance === filter;
     });
     return filterMatch && spotMatchesQuery(spot, activeQuery);
-  });
+  }));
 
   document.querySelector("#resultCount").textContent =
     `目前顯示 ${filtered.length} 個點位；完整資料 ${allSpots.length} 個，其中近距離 ${allSpots.filter((spot) => spot.distance === "near").length} 個。`;
@@ -622,6 +645,11 @@ document.querySelectorAll(".chip").forEach((button) => {
 
 document.querySelector("#spotSearch").addEventListener("input", (event) => {
   activeQuery = event.target.value.trim();
+  renderSpots();
+});
+
+document.querySelector("#spotSort").addEventListener("change", (event) => {
+  spotSortMode = event.target.value;
   renderSpots();
 });
 
