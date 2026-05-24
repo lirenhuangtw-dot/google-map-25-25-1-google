@@ -1,5 +1,26 @@
 const userRecommendedBabyPlaces = [
   {
+    "rank": 649,
+    "name": "和平實驗國小校園遊戲區（微笑夏綠地／藍天巨石陣）",
+    "area": "臺北市大安區",
+    "type": "outdoor",
+    "distance": "near",
+    "time": "車程約 10-25 分鐘",
+    "tags": [
+      "室外",
+      "網友推薦",
+      "遊具",
+      "免費",
+      "週末限定",
+      "近"
+    ],
+    "why": "Threads 網友推薦的隱藏版週末放電點；和平實驗國小校園內規劃兩個遊戲區：「微笑夏綠地」較適合 2-5 歲，「藍天巨石陣」較適合 5-12 歲。距離中心約 3.6 公里。",
+    "toddler": "僅週六、週日 08:30-15:30 開放；兩歲寶寶優先玩微笑夏綠地，出發前確認學校公告與天氣。",
+    "traffic": "距離中心約 3.6 公里，通常可列入近距離備案；實際時間以 Google Maps 為準。",
+    "destination": "臺北市大安區和平實驗國民小學 106臺北市大安區臥龍里敦南街76巷28號",
+    "mapUrl": "https://maps.google.com/?cid=139953753087146679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  },
+  {
     "rank": 650,
     "name": "夏慕尼新香榭鐵板燒 台北中山北店",
     "area": "臺北市中山區",
