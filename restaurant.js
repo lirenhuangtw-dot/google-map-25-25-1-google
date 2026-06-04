@@ -2,6 +2,8 @@ const RESTAURANT_ORIGIN = "台北市南京東路三段89巷附近";
 let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
 let restaurantSortMode = "recommended";
+const DISTANCE_ORDER = { near: 1, mid: 2, far: 3 };
+const SOURCE_FILTERS = new Set(["google", "threads", "online"]);
 const PRICE_OVERRIDES = [
   { pattern: /無一鮨/, tag: "p4" },
   { pattern: /兄弟大飯店\s*梅花廳|兄弟梅花廳/, tag: "p2" },
@@ -17,6 +19,7 @@ const restaurantList = [
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
   ...(typeof googlePlacesRestaurants !== "undefined" ? googlePlacesRestaurants : []),
   ...(typeof googleBarsRestaurants !== "undefined" ? googleBarsRestaurants : []),
+  ...(typeof taipeiGoogleRestaurants !== "undefined" ? taipeiGoogleRestaurants : []),
   ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
 ].map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
@@ -122,10 +125,7 @@ function matchesRestaurantQuery(item, query) {
 function renderRestaurants() {
   const grid = document.querySelector("#restaurantGrid");
   const filtered = sortRestaurants(restaurantList.filter((item) => {
-    const filterMatch = [...selectedRestaurantFilters].every((filter) => {
-      if (["near", "mid", "far"].includes(filter)) return item.distance === filter;
-      return item.tags.includes(filter);
-    });
+    const filterMatch = restaurantMatchesFilters(item);
     return filterMatch && matchesRestaurantQuery(item, restaurantQuery);
   }));
 
@@ -162,6 +162,22 @@ function renderRestaurants() {
   `).join("");
 }
 
+function restaurantMatchesFilters(item) {
+  const filters = [...selectedRestaurantFilters];
+  const selectedDistances = filters.filter((filter) => filter in DISTANCE_ORDER);
+  const selectedSources = filters.filter((filter) => SOURCE_FILTERS.has(filter));
+  const otherFilters = filters.filter((filter) => !(filter in DISTANCE_ORDER) && !SOURCE_FILTERS.has(filter));
+
+  if (selectedDistances.length) {
+    const maxDistance = Math.max(...selectedDistances.map((filter) => DISTANCE_ORDER[filter]));
+    if ((DISTANCE_ORDER[item.distance] || 99) > maxDistance) return false;
+  }
+
+  if (selectedSources.length && !selectedSources.some((filter) => item.tags.includes(filter))) return false;
+
+  return otherFilters.every((filter) => item.tags.includes(filter));
+}
+
 function tagLabel(tag) {
   return {
     tw: "台菜",
@@ -178,7 +194,22 @@ function tagLabel(tag) {
     wishlist: "想去",
     google: "Google高評分",
     threads: "Threads推薦",
+    online: "網路推薦",
     popular: "評論多",
+    rating46: "4.6+",
+    rating48: "4.8+",
+    date: "約會",
+    group: "聚餐",
+    queue: "常排隊",
+    korean: "韓式",
+    thai: "泰式",
+    indian: "印度",
+    veggie: "蔬食",
+    dessert: "甜點",
+    breakfast: "早午餐",
+    yakiniku: "燒肉",
+    seafood: "海鮮",
+    noodle: "麵食",
     p1: "$",
     p2: "$$",
     p3: "$$$",
