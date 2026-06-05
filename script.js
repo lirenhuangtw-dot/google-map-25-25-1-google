@@ -475,6 +475,7 @@ const allSpotsRaw = [
   ...spots,
   ...(typeof officialNearParks !== "undefined" ? officialNearParks : []),
   ...(typeof googleBabyPlaces !== "undefined" ? googleBabyPlaces : []),
+  ...(typeof taipeiGoogleBabyPlaces !== "undefined" ? taipeiGoogleBabyPlaces : []),
   ...(typeof userRecommendedBabyPlaces !== "undefined" ? userRecommendedBabyPlaces : [])
 ];
 
@@ -483,6 +484,8 @@ const allSpots = mergeDuplicateSpots(allSpotsRaw);
 let activeFilters = new Set();
 let activeQuery = "";
 let spotSortMode = "recommended";
+const SPOT_DISTANCE_ORDER = { near: 1, mid: 2, far: 3 };
+const SPOT_SOURCE_FILTERS = new Set(["google", "recommend", "online"]);
 
 function normalizeSpotName(name) {
   return String(name || "")
@@ -576,15 +579,7 @@ function sortSpots(items) {
 function renderSpots() {
   const grid = document.querySelector("#spotGrid");
   const filtered = sortSpots(allSpots.filter((spot) => {
-    const filterMatch = [...activeFilters].every((filter) => {
-      if (filter === "rain") return spot.tags.includes("雨天");
-      if (filter === "play") return spot.tags.includes("遊具") || spot.why.includes("遊樂設施");
-      if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙坑") || spot.why.includes("戲沙");
-      if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
-      if (filter === "google") return spot.tags.includes("Google高評分");
-      if (filter === "recommend") return spot.tags.includes("網友推薦");
-      return spot.type === filter || spot.distance === filter;
-    });
+    const filterMatch = spotMatchesFilters(spot);
     return filterMatch && spotMatchesQuery(spot, activeQuery);
   }));
 
@@ -617,6 +612,44 @@ function renderSpots() {
       </div>
     </article>
   `).join("");
+}
+
+function spotMatchesFilters(spot) {
+  const filters = [...activeFilters];
+  const selectedDistances = filters.filter((filter) => filter in SPOT_DISTANCE_ORDER);
+  const selectedSources = filters.filter((filter) => SPOT_SOURCE_FILTERS.has(filter));
+  const otherFilters = filters.filter((filter) => !(filter in SPOT_DISTANCE_ORDER) && !SPOT_SOURCE_FILTERS.has(filter));
+
+  if (selectedDistances.length) {
+    const maxDistance = Math.max(...selectedDistances.map((filter) => SPOT_DISTANCE_ORDER[filter]));
+    if ((SPOT_DISTANCE_ORDER[spot.distance] || 99) > maxDistance) return false;
+  }
+
+  if (selectedSources.length && !selectedSources.some((filter) => spotMatchesSource(spot, filter))) return false;
+
+  return otherFilters.every((filter) => spotMatchesFeature(spot, filter));
+}
+
+function spotMatchesSource(spot, filter) {
+  if (filter === "google") return spot.tags.includes("Google高評分");
+  if (filter === "recommend") return spot.tags.includes("網友推薦");
+  if (filter === "online") return spot.tags.includes("網路推薦");
+  return false;
+}
+
+function spotMatchesFeature(spot, filter) {
+  if (filter === "rain") return spot.tags.includes("雨天");
+  if (filter === "play") return spot.tags.includes("遊具") || spot.why.includes("遊樂設施");
+  if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙坑") || spot.why.includes("戲沙");
+  if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
+  if (filter === "rating45") return spot.tags.includes("4.5+");
+  if (filter === "grass") return spot.tags.includes("大草地");
+  if (filter === "stroller") return spot.tags.includes("推車");
+  if (filter === "exhibit") return spot.tags.includes("展館");
+  if (filter === "reading") return spot.tags.includes("閱讀");
+  if (filter === "animal") return spot.tags.includes("動物/農場");
+  if (filter === "toddler") return spot.tags.includes("0-6 歲");
+  return spot.type === filter;
 }
 
 document.querySelectorAll(".chip").forEach((button) => {
