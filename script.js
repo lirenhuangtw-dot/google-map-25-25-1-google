@@ -479,7 +479,7 @@ const allSpotsRaw = [
   ...(typeof userRecommendedBabyPlaces !== "undefined" ? userRecommendedBabyPlaces : [])
 ];
 
-const allSpots = mergeDuplicateSpots(allSpotsRaw);
+const allSpots = mergeDuplicateSpots(applyPlaceAudit(allSpotsRaw));
 
 let activeFilters = new Set();
 let activeQuery = "";
@@ -602,6 +602,8 @@ function renderSpots() {
       <p class="why">${spot.why}</p>
       <div class="tips">
         <span class="tip-line"><strong>區域</strong><span>${spot.area}</span></span>
+        ${spot.googleRating ? `<span class="tip-line"><strong>評分</strong><span>${spot.googleRating}</span></span>` : ""}
+        ${spot.businessStatus === "CLOSED_TEMPORARILY" ? '<span class="tip-line"><strong>注意</strong><span>Google 標示暫時停業，請先確認。</span></span>' : ""}
         <span class="tip-line"><strong>寶寶</strong><span>${spot.toddler}</span></span>
         <span class="tip-line"><strong>交通</strong><span>${spot.traffic}</span></span>
       </div>
@@ -627,7 +629,9 @@ function spotMatchesFilters(spot) {
 
   if (selectedSources.length && !selectedSources.some((filter) => spotMatchesSource(spot, filter))) return false;
 
-  return otherFilters.every((filter) => spotMatchesFeature(spot, filter));
+  const environments = otherFilters.filter(filter => ["indoor", "outdoor"].includes(filter));
+  if (environments.length && !environments.includes(spot.type)) return false;
+  return otherFilters.filter(filter => !environments.includes(filter)).every((filter) => spotMatchesFeature(spot, filter));
 }
 
 function spotMatchesSource(spot, filter) {
@@ -640,9 +644,9 @@ function spotMatchesSource(spot, filter) {
 function spotMatchesFeature(spot, filter) {
   if (filter === "rain") return spot.tags.includes("雨天");
   if (filter === "play") return spot.tags.includes("遊具") || spot.why.includes("遊樂設施");
-  if (filter === "sand") return spot.tags.includes("沙坑") || spot.why.includes("沙坑") || spot.why.includes("戲沙");
+  if (filter === "sand") return spot.tags.includes("沙坑");
   if (filter === "swing") return spot.tags.includes("鞦韆") || spot.why.includes("鞦");
-  if (filter === "rating45") return spot.tags.includes("4.5+");
+  if (filter === "rating45") return spot.rating != null ? spot.rating >= 4.5 : spot.tags.includes("4.5+");
   if (filter === "grass") return spot.tags.includes("大草地");
   if (filter === "stroller") return spot.tags.includes("推車");
   if (filter === "exhibit") return spot.tags.includes("展館");

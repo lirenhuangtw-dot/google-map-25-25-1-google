@@ -13,7 +13,7 @@ const PRICE_OVERRIDES = [
   { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線|山內雞肉|賣麵炎仔/, tag: "p1" }
 ];
 const BAR_EXCLUDE_PATTERNS = [/帥哥滷肉飯|Handsome Guy/i];
-const restaurantList = [
+const restaurantList = applyPlaceAudit([
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
@@ -21,7 +21,7 @@ const restaurantList = [
   ...(typeof googleBarsRestaurants !== "undefined" ? googleBarsRestaurants : []),
   ...(typeof taipeiGoogleRestaurants !== "undefined" ? taipeiGoogleRestaurants : []),
   ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
-].map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
+]).map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
 function normalizeRestaurant(item) {
   const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
@@ -175,7 +175,13 @@ function restaurantMatchesFilters(item) {
 
   if (selectedSources.length && !selectedSources.some((filter) => item.tags.includes(filter))) return false;
 
-  return otherFilters.every((filter) => item.tags.includes(filter));
+  const prices = otherFilters.filter(filter => /^p[1-4]$/.test(filter));
+  if (prices.length && !prices.some(filter => item.tags.includes(filter))) return false;
+  return otherFilters.filter(filter => !/^p[1-4]$/.test(filter)).every(filter => {
+    if (filter === "rating46" && item.rating != null) return item.rating >= 4.6;
+    if (filter === "rating48" && item.rating != null) return item.rating >= 4.8;
+    return item.tags.includes(filter);
+  });
 }
 
 function tagLabel(tag) {

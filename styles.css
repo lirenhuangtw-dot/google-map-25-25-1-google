@@ -493,7 +493,7 @@ footer {
 
 @media (max-width: 680px) {
   .hero {
-    min-height: 88vh;
+    min-height: 60vh;
     padding: 18px;
   }
 
