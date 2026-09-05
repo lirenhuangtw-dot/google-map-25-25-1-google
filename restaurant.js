@@ -24,6 +24,7 @@ const restaurantList = applyGourmetRecommendations(applyPlaceAudit([
 ])).map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
 function normalizeRestaurant(item) {
+  if (item.priceUnknown) return {...item,price:"價位待確認"};
   const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
   const price = tagLabel(priceTag);
   const tagsWithoutPrice = item.tags.filter((tag) => !/^p[1-4]$/.test(tag));
@@ -102,7 +103,7 @@ function restaurantSearchUrl(destination) {
 }
 
 function restaurantDistanceLabel(value) {
-  return { near: "近", mid: "中", far: "遠" }[value] || value;
+  return { near: "近", mid: "中", far: "遠", unknown: "距離待確認" }[value] || value;
 }
 
 function matchesRestaurantQuery(item, query) {
@@ -157,7 +158,7 @@ function renderRestaurants() {
       <div class="card__actions">
         <a href="${restaurantMapUrl(item.destination, "driving")}" target="_blank" rel="noreferrer">開車/計程車</a>
         <a class="secondary" href="${restaurantMapUrl(item.destination, "transit")}" target="_blank" rel="noreferrer">大眾運輸</a>
-        <a class="secondary" href="${item.mapUrl || restaurantSearchUrl(item.destination)}" target="_blank" rel="noreferrer">Google Maps</a>
+        <a class="secondary" href="${item.mapUrl || restaurantSearchUrl(item.destination)}" target="_blank" rel="noreferrer">${item.distance === "unknown" ? "Google Maps 地址搜尋" : "Google Maps"}</a>
       </div>
     </article>
   `).join("");
