@@ -3,7 +3,7 @@ let selectedRestaurantFilters = new Set();
 let restaurantQuery = "";
 let restaurantSortMode = "recommended";
 const DISTANCE_ORDER = { near: 1, mid: 2, far: 3 };
-const SOURCE_FILTERS = new Set(["google", "threads", "online"]);
+const SOURCE_FILTERS = new Set(["google", "threads", "online", "gourmet"]);
 const PRICE_OVERRIDES = [
   { pattern: /無一鮨/, tag: "p4" },
   { pattern: /兄弟大飯店\s*梅花廳|兄弟梅花廳/, tag: "p2" },
@@ -13,7 +13,7 @@ const PRICE_OVERRIDES = [
   { pattern: /四平街番茄牛肉麵|大膽牛腩麵|郭家川味牛肉麵|豬小寶台中可口豬腳大王|珍美味水餃|正豪季水餃|元記潤餅|南香排骨|甲霸油飯|阿維麵線|山內雞肉|賣麵炎仔/, tag: "p1" }
 ];
 const BAR_EXCLUDE_PATTERNS = [/帥哥滷肉飯|Handsome Guy/i];
-const restaurantList = applyPlaceAudit([
+const restaurantList = applyGourmetRecommendations(applyPlaceAudit([
   ...restaurants,
   ...(typeof extraNearRestaurants !== "undefined" ? extraNearRestaurants : []),
   ...(typeof moreLocalRestaurants !== "undefined" ? moreLocalRestaurants : []),
@@ -21,7 +21,7 @@ const restaurantList = applyPlaceAudit([
   ...(typeof googleBarsRestaurants !== "undefined" ? googleBarsRestaurants : []),
   ...(typeof taipeiGoogleRestaurants !== "undefined" ? taipeiGoogleRestaurants : []),
   ...(typeof threadsRestaurants !== "undefined" ? threadsRestaurants : [])
-]).map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
+])).map(normalizeRestaurant).sort((a, b) => restaurantSortRank(a) - restaurantSortRank(b) || a.rank - b.rank);
 
 function normalizeRestaurant(item) {
   const priceTag = overridePriceTag(item) || item.tags.find((tag) => /^p[1-4]$/.test(tag)) || inferPriceTag(item);
@@ -147,6 +147,7 @@ function renderRestaurants() {
         <span class="rank">${item.rank}</span>
       </div>
       <p class="why">${item.why}</p>
+      ${(item.recommendations || []).map(source => `<div class="gourmet-note"><strong>${source.author} · ${source.kind}</strong><p>${source.summary}</p><a href="${source.url}" target="_blank" rel="noopener noreferrer">閱讀推薦來源</a><small>${source.date}${source.note ? `｜${source.note}` : ""}</small></div>`).join("")}
       <div class="tips">
         <span class="tip-line"><strong>區域</strong><span>${item.area}</span></span>
         <span class="tip-line"><strong>評分</strong><span>${item.googleRating || "點 Google Maps 即時查看"}</span></span>
@@ -201,6 +202,7 @@ function tagLabel(tag) {
     google: "Google高評分",
     threads: "Threads推薦",
     online: "網路推薦",
+    gourmet: "網路老饕推薦",
     popular: "評論多",
     rating46: "4.6+",
     rating48: "4.8+",

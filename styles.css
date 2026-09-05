@@ -32,6 +32,15 @@ a {
   color: inherit;
 }
 
+.gourmet-note {
+  border-left: 3px solid #a34236;
+  padding: 8px 12px;
+  margin: 12px 0;
+  overflow-wrap: anywhere;
+}
+.gourmet-note p { margin: 6px 0; }
+.gourmet-note small { display: block; margin-top: 6px; color: #525252; }
+
 .hero {
   position: relative;
   min-height: 92vh;
