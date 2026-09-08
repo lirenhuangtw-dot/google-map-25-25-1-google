@@ -1,0 +1,43 @@
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || '/Users/li-renhuang/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const { pathToFileURL } = require('node:url');
+const path = require('node:path');
+const assert = require('node:assert/strict');
+(async()=>{
+  const browser = await chromium.launch({channel:'chrome',headless:true});
+  const page=await browser.newPage();
+  const errors=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto(pathToFileURL(path.resolve('restaurant.html')).href);
+  await page.waitForSelector('.spot-card');
+  assert.equal(await page.locator('.spot-card').count(),30);
+  await page.locator('#loadMoreRestaurants').click();
+  assert.equal(await page.locator('.spot-card').count(),60);
+  await page.locator('#restaurantSearch').fill('不存在的測試餐廳ABCDEFG');
+  assert.equal(await page.locator('.spot-card').count(),0);
+  assert.equal(await page.locator('.empty-state').count(),1);
+  await page.locator('#clearRestaurantFilters').click();
+  await page.locator('[data-filter="jp"]').click();
+  const japanese=await page.evaluate(()=>restaurantList.filter(p=>restaurantMatchesFilters(p)).length);
+  await page.locator('[data-filter="tw"]').click();
+  const union=await page.evaluate(()=>restaurantList.filter(p=>restaurantMatchesFilters(p)).length);
+  assert.ok(union>=japanese);
+  assert.equal(await page.locator('[data-filter="jp"]').getAttribute('aria-pressed'),'true');
+  await page.locator('#clearRestaurantFilters').click();
+  await page.locator('#reviewMinimum').selectOption('500');
+  await page.locator('#restaurantSort').selectOption('evidence');
+  const score=await page.evaluate(()=>({few:reviewWeightedScore({rating:5,reviewCount:5}),many:reviewWeightedScore({rating:4.6,reviewCount:1000})}));
+  assert.ok(score.many>score.few);
+  const closure=await page.evaluate(()=>restaurantList.some(p=>p.businessStatus==='CLOSED_PERMANENTLY'));
+  assert.equal(closure,false);
+  await page.locator('#clearRestaurantFilters').click();
+  await page.locator('[data-filter="gourmet"]').click();
+  assert.ok(await page.locator('.gourmet-note').count()>0);
+  for (const width of [390,1280]) {
+    await page.setViewportSize({width,height:900});
+    await page.locator('#rankings').scrollIntoViewIfNeeded();
+    await page.screenshot({path:`/tmp/restaurant-review-${width}.png`,fullPage:false});
+    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow at ${width}`);
+  }
+  assert.deepEqual(errors,[]);
+  console.log('PASS: render, pagination, empty/reset, cuisine OR, aria state, review weighting, closed exclusion, gourmet, mobile/desktop overflow');
+  await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

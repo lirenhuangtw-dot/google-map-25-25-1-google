@@ -7,8 +7,8 @@ function applyPlaceAudit(items) {
     if (update.status === "CLOSED_PERMANENTLY") return [];
     return [{ ...item, mapUrl: update.mapUrl, placeId: update.placeId,
       rating: update.rating, reviewCount: update.reviewCount,
-      googleRating: update.rating == null ? "Google 尚無評分" : `${update.rating} / 5（${update.reviewCount || 0} 則；${placeAudit.checkedAt.slice(0, 10)} 查核）`,
+      googleRating: update.rating == null ? "Google 尚無評分" : `${update.rating} / 5（${update.reviewCount || 0} 則；${(update.checkedAt || placeAudit.checkedAt).slice(0, 10)} 查核）`,
       booking: update.status === "CLOSED_TEMPORARILY" ? "Google 標示暫時停業，請確認恢復營業再出發。" : item.booking,
-      businessStatus: update.status, checkedAt: placeAudit.checkedAt }];
+      businessStatus: update.status, checkedAt: update.checkedAt || placeAudit.checkedAt }];
   });
 }

@@ -5,5110 +5,5503 @@ const placeAudit = {
       "name": "慶城海南雞飯",
       "destination": "慶城海南雞飯 台北市慶城街16巷8號",
       "placeId": "ChIJobbAd-erQjQRTyr_YtJbjOc",
-      "mapUrl": "https://maps.google.com/?cid=16684811678662994511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16684811678662994511&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 7999,
+      "reviewCount": 8002,
       "location": {
         "latitude": 25.0529129,
         "longitude": 121.545538
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:08.555Z"
     },
     "頁小館 台北市松山區民生東路三段113巷25弄": {
       "name": "頁小館",
       "destination": "頁小館 台北市松山區民生東路三段113巷25弄",
       "placeId": "ChIJyQU1ZgWsQjQR5kN2WtEzKtU",
-      "mapUrl": "https://maps.google.com/?cid=15360146453359379430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15360146453359379430&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 2331,
+      "reviewCount": 2332,
       "location": {
         "latitude": 25.08184,
         "longitude": 121.547774
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:09.247Z"
     },
     "富錦樹台菜香檳 敦北店": {
       "name": "富錦樹台菜香檳 敦北店",
       "destination": "富錦樹台菜香檳 敦北店",
       "placeId": "ChIJnaPPuO6rQjQRNZlSdw5Irik",
-      "mapUrl": "https://maps.google.com/?cid=3003417228471343413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3003417228471343413&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 2196,
       "location": {
         "latitude": 25.0565316,
         "longitude": 121.5527738
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:10.570Z"
     },
     "點水樓 南京店": {
       "name": "點水樓 南京店",
       "destination": "點水樓 南京店",
       "placeId": "ChIJo2PolemrQjQRIiNEI5luiAw",
-      "mapUrl": "https://maps.google.com/?cid=903093329288504098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=903093329288504098&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 2152,
       "location": {
         "latitude": 25.0519307,
         "longitude": 121.55277609999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:10.832Z"
     },
     "Bottless 非瓶 台北": {
       "name": "Bottless 非瓶",
       "destination": "Bottless 非瓶 台北",
       "placeId": "ChIJ0ZJhyjWrQjQRf2iXRmY0ZMI",
-      "mapUrl": "https://maps.google.com/?cid=14007378354904721535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14007378354904721535&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 2846,
+      "reviewCount": 2847,
       "location": {
         "latitude": 25.053815399999998,
         "longitude": 121.54589820000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:11.329Z"
     },
     "欣葉台菜 創始店": {
       "name": "欣葉台菜 創始店",
       "destination": "欣葉台菜 創始店",
       "placeId": "ChIJbamMQUWpQjQRiFWnBTPPj_Y",
-      "mapUrl": "https://maps.google.com/?cid=17766646873045030280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17766646873045030280&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 6457,
+      "reviewCount": 6458,
       "location": {
         "latitude": 25.066506,
         "longitude": 121.524184
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.280Z"
     },
     "阜杭豆漿": {
       "name": "阜杭豆漿",
       "destination": "阜杭豆漿",
       "placeId": "ChIJff6pZXCpQjQRHi3vcbjQip8",
-      "mapUrl": "https://maps.google.com/?cid=11496230489420672286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11496230489420672286&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
-      "reviewCount": 24202,
+      "reviewCount": 24217,
       "location": {
         "latitude": 25.0442333,
         "longitude": 121.5248433
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.507Z"
     },
     "雙月食品社 青島店": {
       "name": "雙月食品社 青島店",
       "destination": "雙月食品社 青島店",
       "placeId": "ChIJgbsfD3GpQjQR7z5ZO22KdVQ",
-      "mapUrl": "https://maps.google.com/?cid=6085922673212866287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6085922673212866287&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 25015,
+      "reviewCount": 25033,
       "location": {
         "latitude": 25.0437017,
         "longitude": 121.5220376
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.478Z"
     },
     "永康牛肉麵": {
       "name": "永康牛肉麵",
       "destination": "永康牛肉麵",
       "placeId": "ChIJgRdW94KpQjQRODiapkz_DB0",
-      "mapUrl": "https://maps.google.com/?cid=2093328631498160184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2093328631498160184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.7,
-      "reviewCount": 12012,
+      "reviewCount": 12016,
       "location": {
         "latitude": 25.0329382,
         "longitude": 121.52811109999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.714Z"
     },
     "金峰魯肉飯": {
       "name": "金峰魯肉飯",
       "destination": "金峰魯肉飯",
       "placeId": "ChIJ-6uctZ6pQjQRbOssmdGcz9k",
-      "mapUrl": "https://maps.google.com/?cid=15694935650441423724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15694935650441423724&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.7,
-      "reviewCount": 16570,
+      "reviewCount": 16572,
       "location": {
         "latitude": 25.0320911,
         "longitude": 121.5185362
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.784Z"
     },
     "鼎泰豐 信義店": {
       "name": "鼎泰豐 信義店",
       "destination": "鼎泰豐 信義店",
       "placeId": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
-      "mapUrl": "https://maps.google.com/?cid=10663098530229991004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10663098530229991004&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 13152,
+      "reviewCount": 13155,
       "location": {
         "latitude": 25.0335035,
         "longitude": 121.53011799999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.750Z"
     },
     "MUME 台北": {
       "name": "MUME",
       "destination": "MUME 台北",
       "placeId": "ChIJp6GC5NGrQjQRDuHabyIYADA",
-      "mapUrl": "https://maps.google.com/?cid=3458791050005111054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3458791050005111054&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 1785,
       "location": {
         "latitude": 25.036327999999997,
         "longitude": 121.54807100000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:12.811Z"
     },
     "大腕燒肉專門店": {
       "name": "大腕燒肉專門店",
       "destination": "大腕燒肉專門店",
       "placeId": "ChIJqX0G4sSrQjQRYjGrIB6PAcI",
-      "mapUrl": "https://maps.google.com/?cid=13979612077894611298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13979612077894611298&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 2452,
       "location": {
         "latitude": 25.0844095,
         "longitude": 121.55421079999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.017Z"
     },
     "橘色涮涮屋 一館": {
       "name": "橘色涮涮屋 一館",
       "destination": "橘色涮涮屋 一館",
       "placeId": "ChIJRZwXrdGrQjQRpyyG5z9_9yo",
-      "mapUrl": "https://maps.google.com/?cid=3096083181284502695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3096083181284502695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 4373,
+      "reviewCount": 4375,
       "location": {
         "latitude": 25.038739699999997,
         "longitude": 121.5462668
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.044Z"
     },
     "詹記麻辣火鍋 敦南店": {
       "name": "詹記麻辣火鍋 敦南店",
       "destination": "詹記麻辣火鍋 敦南店",
       "placeId": "ChIJU17RsmGpQjQRcy0N9M5XixY",
-      "mapUrl": "https://maps.google.com/?cid=1624488636966579571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1624488636966579571&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 6963,
+      "reviewCount": 6966,
       "location": {
         "latitude": 25.0243099,
         "longitude": 121.54908420000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.176Z"
     },
     "老乾杯 信義店": {
       "name": "老乾杯 信義店",
       "destination": "老乾杯 信義店",
       "placeId": "ChIJrSZypLCrQjQRJ2NhICGN2JA",
-      "mapUrl": "https://maps.google.com/?cid=10437247309847814951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10437247309847814951&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 2159,
+      "reviewCount": 2160,
       "location": {
         "latitude": 25.0365352,
         "longitude": 121.56671569999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.209Z"
     },
     "山海樓 台北": {
       "name": "山海樓",
       "destination": "山海樓 台北",
       "placeId": "ChIJRy7kxmipQjQRACw5aOpSyLI",
-      "mapUrl": "https://maps.google.com/?cid=12882637900817705984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12882637900817705984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
-      "reviewCount": 2469,
+      "reviewCount": 2470,
       "location": {
         "latitude": 25.0379808,
         "longitude": 121.5314068
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.240Z"
     },
     "Tableau by Craig Yang 台北": {
       "name": "Tableau by Craig Yang",
       "destination": "Tableau by Craig Yang 台北",
       "placeId": "ChIJs-r9gfWrQjQRlJBK9ImcCYI",
-      "mapUrl": "https://maps.google.com/?cid=9370192616044007572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9370192616044007572&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 191,
+      "reviewCount": 192,
       "location": {
         "latitude": 25.035113499999998,
         "longitude": 121.55034719999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.696Z"
     },
     "小小樹食 敦南店": {
       "name": "小小樹食 敦南店",
       "destination": "小小樹食 敦南店",
       "placeId": "ChIJeZf20F-rQjQRQTICfWIFhaU",
-      "mapUrl": "https://maps.google.com/?cid=11926945108722856513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11926945108722856513&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 2024,
       "location": {
         "latitude": 25.031597899999998,
         "longitude": 121.54921669999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:13.723Z"
     },
     "Ephernité 台北": {
       "name": "Ephernité",
       "destination": "Ephernité 台北",
       "placeId": "ChIJcRrEWsjWDRQRqtl-xgdjQ1M",
-      "mapUrl": "https://maps.google.com/?cid=5999748013633755562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5999748013633755562&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 524,
       "location": {
         "latitude": 25.025154999999998,
         "longitude": 121.5503615
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:14.341Z"
     },
     "賣麵炎仔": {
       "name": "賣麵炎仔",
       "destination": "賣麵炎仔",
       "placeId": "ChIJ93f2Fz6pQjQRm_xbWngyakM",
-      "mapUrl": "https://maps.google.com/?cid=4857750640565943451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4857750640565943451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 5905,
+      "reviewCount": 5908,
       "location": {
         "latitude": 25.061099300000002,
         "longitude": 121.50978609999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:14.749Z"
     },
     "蘭芳麵食館 遼寧街": {
       "name": "蘭芳麵食館",
       "destination": "蘭芳麵食館 遼寧街",
       "placeId": "ChIJ3yRwh96rQjQRoGRTOgMM_Dw",
-      "mapUrl": "https://maps.google.com/?cid=4394400544409740448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4394400544409740448&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
-      "reviewCount": 4868,
+      "reviewCount": 4871,
       "location": {
         "latitude": 25.0500246,
         "longitude": 121.5423125
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:15.483Z"
     },
     "教父牛排 Danny's Steakhouse": {
       "name": "教父牛排 Danny's Steakhouse",
       "destination": "教父牛排 Danny's Steakhouse",
       "placeId": "ChIJ26tEXRKsQjQR6zoJGtcMMvw",
-      "mapUrl": "https://maps.google.com/?cid=18172601564387687147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18172601564387687147&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 4711,
+      "reviewCount": 4712,
       "location": {
         "latitude": 25.0824363,
         "longitude": 121.55292159999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:15.669Z"
     },
     "香米泰國料理 復北店": {
       "name": "香米泰國料理 復北店",
       "destination": "香米泰國料理 復北店",
       "placeId": "ChIJBb1uIefQDRQRruEtbLcJqQc",
-      "mapUrl": "https://maps.google.com/?cid=551983112728207790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=551983112728207790&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1959,
       "location": {
         "latitude": 25.053955799999997,
         "longitude": 121.54387919999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:16.174Z"
     },
     "JB's Diner 台北": {
       "name": "JB's Diner",
       "destination": "JB's Diner 台北",
       "placeId": "ChIJpyXLkYCuQjQRWFAV7u5zS1o",
-      "mapUrl": "https://maps.google.com/?cid=6506421556700598360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6506421556700598360&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 2647,
       "location": {
         "latitude": 25.1199923,
         "longitude": 121.52956379999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:20.577Z"
     },
     "Campus Cafe 南京店": {
       "name": "Campus Cafe 南京店",
       "destination": "Campus Cafe 南京店",
       "placeId": "ChIJRU1KAZWrQjQRxMROE-4Jlnk",
-      "mapUrl": "https://maps.google.com/?cid=8761201043226674372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8761201043226674372&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.8,
       "reviewCount": 2567,
       "location": {
         "latitude": 25.050439800000003,
         "longitude": 121.56241720000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:20.613Z"
     },
     "樂子 the Diner 瑞安店": {
       "name": "樂子 the Diner 瑞安店",
       "destination": "樂子 the Diner 瑞安店",
       "placeId": "ChIJvU5mgSmqQjQR0WhA_Zruk5E",
-      "mapUrl": "https://maps.google.com/?cid=10489990306517248209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10489990306517248209&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 4296,
+      "reviewCount": 4298,
       "location": {
         "latitude": 25.0265894,
         "longitude": 121.5396576
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:20.873Z"
     },
     "東館牛麵食館 台北市南京東路三段109巷15號": {
       "name": "東館牛麵食館",
       "destination": "東館牛麵食館 台北市南京東路三段109巷15號",
       "placeId": "ChIJE2970YWrQjQRDbib6RUUrK4",
-      "mapUrl": "https://maps.google.com/?cid=12586457142939858957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12586457142939858957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1173,
       "location": {
         "latitude": 25.0530217,
         "longitude": 121.5400296
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:30.001Z"
     },
     "長壽三好庵 南京復興": {
       "name": "長壽三好庵",
       "destination": "長壽三好庵 南京復興",
       "placeId": "ChIJSYtMvd2rQjQRGDwEO1agj9I",
-      "mapUrl": "https://maps.google.com/?cid=15172521961852255256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15172521961852255256&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 786,
       "location": {
         "latitude": 25.050795899999997,
         "longitude": 121.54484
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:31.875Z"
     },
     "大戶屋 南京復興店 台北市南京東路三段258號": {
       "name": "大戶屋 南京復興店",
       "destination": "大戶屋 南京復興店 台北市南京東路三段258號",
       "placeId": "ChIJyZyMj92rQjQRvKKM1xMnRT4",
-      "mapUrl": "https://maps.google.com/?cid=4487035569918747324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4487035569918747324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 916,
       "location": {
         "latitude": 25.051586,
         "longitude": 121.5448305
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.517Z"
     },
     "郭家擔仔麵 遼寧街夜市": {
       "name": "郭家擔仔麵",
       "destination": "郭家擔仔麵 遼寧街夜市",
       "placeId": "ChIJRyrThN6rQjQRa97sbfot9UE",
-      "mapUrl": "https://maps.google.com/?cid=4752755535368740459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4752755535368740459&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.6,
       "reviewCount": 566,
       "location": {
         "latitude": 25.0494758,
         "longitude": 121.54211819999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.544Z"
     },
     "五湖豆漿 台北市興安街73號": {
       "name": "五湖豆漿",
       "destination": "五湖豆漿 台北市興安街73號",
       "placeId": "ChIJPU-tyearQjQRRklRFZIOZvA",
-      "mapUrl": "https://maps.google.com/?cid=17322549037312854342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17322549037312854342&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 1936,
+      "reviewCount": 1940,
       "location": {
         "latitude": 25.056207,
         "longitude": 121.54285029999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.607Z"
     },
     "福德涼麵 台北市興安街76號": {
       "name": "福德涼麵",
       "destination": "福德涼麵 台北市興安街76號",
       "placeId": "ChIJ5Y8jH-GrQjQRN_PHDHEd9Ns",
-      "mapUrl": "https://maps.google.com/?cid=15849325360006558519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15849325360006558519&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.5,
-      "reviewCount": 6713,
+      "reviewCount": 6714,
       "location": {
         "latitude": 25.056003099999998,
         "longitude": 121.5411541
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.580Z"
     },
     "鵝肉城活海鮮 遼寧街夜市": {
       "name": "鵝肉城活海鮮",
       "destination": "鵝肉城活海鮮 遼寧街夜市",
       "placeId": "ChIJrbwlm96rQjQRHdFK4am6En0",
-      "mapUrl": "https://maps.google.com/?cid=9012471043113799965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9012471043113799965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
-      "reviewCount": 2252,
+      "reviewCount": 2253,
       "location": {
         "latitude": 25.0494922,
         "longitude": 121.54219929999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.634Z"
     },
     "小張龜山島 遼寧街": {
       "name": "小張龜山島",
       "destination": "小張龜山島 遼寧街",
       "placeId": "ChIJC6cGm96rQjQRoWa4v3ZpgrE",
-      "mapUrl": "https://maps.google.com/?cid=12790901850429220513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12790901850429220513&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 659,
       "location": {
         "latitude": 25.0493529,
         "longitude": 121.54227030000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:33.063Z"
     },
     "清祥海產店 遼寧街": {
       "name": "清祥海產店",
       "destination": "清祥海產店 遼寧街",
       "placeId": "ChIJ02rTfd6rQjQRN3EOjaqqZAI",
-      "mapUrl": "https://maps.google.com/?cid=172450335234617655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=172450335234617655&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 1127,
       "location": {
         "latitude": 25.050137600000003,
         "longitude": 121.54210309999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:33.097Z"
     },
     "覺旅咖啡 Journey Kaffe 南京復興店 台北市南京東路三段303巷8弄7號": {
       "name": "覺旅咖啡 Journey Kaffe 南京復興店",
       "destination": "覺旅咖啡 Journey Kaffe 南京復興店 台北市南京東路三段303巷8弄7號",
       "placeId": "ChIJB0PpcUKrQjQRuJ-11m16YlU",
-      "mapUrl": "https://maps.google.com/?cid=6152614653113769912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6152614653113769912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
-      "reviewCount": 1716,
+      "reviewCount": 1717,
       "location": {
         "latitude": 25.0530552,
         "longitude": 121.54714750000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:33.525Z"
     },
     "有旬食事所 Shun Restaurant 台北市松山區中正里": {
       "name": "有旬食事所 Shun Restaurant",
       "destination": "有旬食事所 Shun Restaurant 台北市松山區中正里",
       "placeId": "ChIJv6l7EhSrQjQRveWB2g6bSaQ",
-      "mapUrl": "https://maps.google.com/?cid=11838163583617852861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11838163583617852861&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 96,
       "location": {
         "latitude": 25.0543513,
         "longitude": 121.5469972
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.574Z"
     },
     "香而廉小館 台北市中山區朱馥里": {
       "name": "香而廉小館",
       "destination": "香而廉小館 台北市中山區朱馥里",
       "placeId": "ChIJXdoi8OCrQjQRv7XFyS-_O0w",
-      "mapUrl": "https://maps.google.com/?cid=5493194382477997503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5493194382477997503&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 1799,
+      "reviewCount": 1800,
       "location": {
         "latitude": 25.0550562,
         "longitude": 121.5393166
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.634Z"
     },
     "昆明園 Kunming Islamic Restaurant 台北市松山區中正里": {
       "name": "昆明園 Kunming Islamic Restaurant",
       "destination": "昆明園 Kunming Islamic Restaurant 台北市松山區中正里",
       "placeId": "ChIJ2e1Smd2rQjQROkfxKBczXk0",
-      "mapUrl": "https://maps.google.com/?cid=5574949563295418170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5574949563295418170&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_TEMPORARILY",
       "rating": 4.4,
       "reviewCount": 862,
       "location": {
         "latitude": 25.051067300000003,
         "longitude": 121.545166
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.604Z"
     },
     "福海鮮屋 台北市中山區中央里": {
       "name": "福海鮮屋",
       "destination": "福海鮮屋 台北市中山區中央里",
       "placeId": "ChIJAQAAAGGpQjQRE1aMl7IHs3s",
-      "mapUrl": "https://maps.google.com/?cid=8913476551124473363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8913476551124473363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 688,
       "location": {
         "latitude": 25.053293999999998,
         "longitude": 121.5350737
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.664Z"
     },
     "天銅鐵板燒 台北市中山區朱馥里": {
       "name": "天銅鐵板燒",
       "destination": "天銅鐵板燒 台北市中山區朱馥里",
       "placeId": "ChIJ1aMTAuGrQjQRkYFThPI5Qxw",
-      "mapUrl": "https://maps.google.com/?cid=2036535170266530193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2036535170266530193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 1302,
+      "reviewCount": 1303,
       "location": {
         "latitude": 25.0559656,
         "longitude": 121.5403171
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.691Z"
     },
     "林美如 海鮮 熱炒 燒烤 酒場 104臺北市中山區埤頭里八德路二段300巷80號": {
       "name": "林美如 海鮮 熱炒 燒烤 酒場",
       "destination": "林美如 海鮮 熱炒 燒烤 酒場 104臺北市中山區埤頭里八德路二段300巷80號",
       "placeId": "ChIJ0XJmC8WrQjQRIj00MmTv7ZY",
-      "mapUrl": "https://maps.google.com/?cid=10875611888787668258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10875611888787668258&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 15999,
       "location": {
         "latitude": 25.044994,
         "longitude": 121.5427726
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.719Z"
     },
     "調味品串酒坊 106臺北市大安區誠安里忠孝東路三段251巷13弄6號1樓": {
       "name": "調味品串酒坊",
       "destination": "調味品串酒坊 106臺北市大安區誠安里忠孝東路三段251巷13弄6號1樓",
       "placeId": "ChIJB6sJ-R-rQjQRDqoY7n_dsBA",
-      "mapUrl": "https://maps.google.com/?cid=1202704642033101326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1202704642033101326&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
-      "reviewCount": 752,
+      "reviewCount": 753,
       "location": {
         "latitude": 25.0529188,
         "longitude": 121.5401168
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.779Z"
     },
     "不葷主義茶餐廳 台北店 105臺北市松山區中正里南京東路三段275號2樓": {
       "name": "不葷主義茶餐廳 台北店",
       "destination": "不葷主義茶餐廳 台北店 105臺北市松山區中正里南京東路三段275號2樓",
       "placeId": "ChIJZRnK2ferQjQR0tXt_reAwQc",
-      "mapUrl": "https://maps.google.com/?cid=558869356515022290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=558869356515022290&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 12831,
+      "reviewCount": 12833,
       "location": {
         "latitude": 25.0520392,
         "longitude": 121.54551690000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.750Z"
     },
     "柒號洋樓 104臺北市中山區復華里建國北路二段7號2樓": {
       "name": "柒號洋樓",
       "destination": "柒號洋樓 104臺北市中山區復華里建國北路二段7號2樓",
       "placeId": "ChIJs-Okg_mrQjQRTY4tXEZs8xI",
-      "mapUrl": "https://maps.google.com/?cid=1365554161473392205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1365554161473392205&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 2464,
+      "reviewCount": 2465,
       "location": {
         "latitude": 25.0527186,
         "longitude": 121.53726779999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.812Z"
     },
     "九鳥私館 9 BIRDS BISTRO 106臺北市大安區忠孝東路三段251巷7弄12號1樓": {
       "name": "九鳥私館 9 BIRDS BISTRO",
       "destination": "九鳥私館 9 BIRDS BISTRO 106臺北市大安區忠孝東路三段251巷7弄12號1樓",
       "placeId": "ChIJdSDp2FarQjQRzvifolV6pY0",
-      "mapUrl": "https://maps.google.com/?cid=10206698638724298958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10206698638724298958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 625,
       "location": {
         "latitude": 25.042933899999998,
         "longitude": 121.54235580000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.871Z"
     },
     "大河屋 燒肉丼 串燒-微風南京店 105臺北市松山區中正里南京東路三段337號B2": {
       "name": "大河屋 燒肉丼 串燒-微風南京店",
       "destination": "大河屋 燒肉丼 串燒-微風南京店 105臺北市松山區中正里南京東路三段337號B2",
       "placeId": "ChIJW_BJcU6rQjQR6VplDmU_wgk",
-      "mapUrl": "https://maps.google.com/?cid=703194195088988905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=703194195088988905&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1375,
       "location": {
         "latitude": 25.052142999999997,
         "longitude": 121.54840079999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.839Z"
     },
     "黑十餐酒館 Black Cross Bistro 104臺北市中山區中原里南京東路二段7號1樓": {
       "name": "黑十餐酒館 Black Cross Bistro",
       "destination": "黑十餐酒館 Black Cross Bistro 104臺北市中山區中原里南京東路二段7號1樓",
       "placeId": "ChIJ41QPaMupQjQR84FNIwlHdiM",
-      "mapUrl": "https://maps.google.com/?cid=2555307943151895027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2555307943151895027&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 282,
       "location": {
         "latitude": 25.0522738,
         "longitude": 121.5282193
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.899Z"
     },
     "藝奇 日式料理 台北南京東店 10457臺北市中山區中吉里南京東路二段67號2樓.3樓": {
       "name": "藝奇 日式料理 台北南京東店",
       "destination": "藝奇 日式料理 台北南京東店 10457臺北市中山區中吉里南京東路二段67號2樓.3樓",
       "placeId": "ChIJ4zDHcgCpQjQR0-Vng9VwhOI",
-      "mapUrl": "https://maps.google.com/?cid=16322295011832489427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16322295011832489427&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2845,
+      "reviewCount": 2861,
       "location": {
         "latitude": 25.052217600000002,
         "longitude": 121.53048980000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.929Z"
     },
     "綠色舞動 微風南京店 105臺北市松山區中正里南京東路三段335巷5-3號": {
       "name": "綠色舞動 微風南京店",
       "destination": "綠色舞動 微風南京店 105臺北市松山區中正里南京東路三段335巷5-3號",
       "placeId": "ChIJawiLIGGrQjQRXjfuz42WHf8",
-      "mapUrl": "https://maps.google.com/?cid=18383014789819283294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18383014789819283294&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 166,
       "location": {
         "latitude": 25.0525229,
         "longitude": 121.54750250000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.957Z"
     },
     "今日魚市-南京店-原丼賞和食 B1, No. 140號南京東路二段朱園里中山區臺北市10491": {
       "name": "今日魚市-南京店-原丼賞和食",
       "destination": "今日魚市-南京店-原丼賞和食 B1, No. 140號南京東路二段朱園里中山區臺北市10491",
       "placeId": "ChIJ9240AWGpQjQRYkqzSvuO47I",
-      "mapUrl": "https://maps.google.com/?cid=12890303768405690978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12890303768405690978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 15486,
+      "reviewCount": 15485,
       "location": {
         "latitude": 25.0517646,
         "longitude": 121.533861
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:35.985Z"
     },
     "大股熟成燒肉專門 104臺北市中山區復華里南京東路三段111號": {
       "name": "大股熟成燒肉專門",
       "destination": "大股熟成燒肉專門 104臺北市中山區復華里南京東路三段111號",
       "placeId": "ChIJnWlUyE-rQjQRx3s6jesrrDs",
-      "mapUrl": "https://maps.google.com/?cid=4299860034918710215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4299860034918710215&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1252,
       "location": {
         "latitude": 25.0520951,
         "longitude": 121.53984049999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.043Z"
     },
     "海底撈火鍋 慶城店 105臺北市松山區中正里慶城街1號3F": {
       "name": "海底撈火鍋 慶城店",
       "destination": "海底撈火鍋 慶城店 105臺北市松山區中正里慶城街1號3F",
       "placeId": "ChIJN9nYVMarQjQR0vHhz5cAmzI",
-      "mapUrl": "https://maps.google.com/?cid=3646508975314301394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3646508975314301394&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 12748,
+      "reviewCount": 12747,
       "location": {
         "latitude": 25.0527995,
         "longitude": 121.54443719999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.014Z"
     },
     "炭吉郎居酒屋-朱崙店 104臺北市中山區力行里朱崙街55號": {
       "name": "炭吉郎居酒屋-朱崙店",
       "destination": "炭吉郎居酒屋-朱崙店 104臺北市中山區力行里朱崙街55號",
       "placeId": "ChIJHRFwtdKrQjQRiBPYE-8dFV4",
-      "mapUrl": "https://maps.google.com/?cid=6779357726743466888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6779357726743466888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 520,
       "location": {
         "latitude": 25.050092,
         "longitude": 121.54150200000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.102Z"
     },
     "丰禾 台味風格料理 台北南京東店 104臺北市中山區朱園里南京東路二段146號2F": {
       "name": "丰禾 台味風格料理 台北南京東店",
       "destination": "丰禾 台味風格料理 台北南京東店 104臺北市中山區朱園里南京東路二段146號2F",
       "placeId": "ChIJ63TtzA2pQjQRYLTOoGVHw3g",
-      "mapUrl": "https://maps.google.com/?cid=8701877406825100384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8701877406825100384&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 11103,
+      "reviewCount": 11106,
       "location": {
         "latitude": 25.051757499999997,
         "longitude": 121.53402170000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.074Z"
     },
     "Tempo House Restaurant & Bar 10491臺北市中山區中央里建國北路二段12號": {
       "name": "Tempo House Restaurant & Bar",
       "destination": "Tempo House Restaurant & Bar 10491臺北市中山區中央里建國北路二段12號",
       "placeId": "ChIJXw8hJfSpQjQR_1di_nK_EX8",
-      "mapUrl": "https://maps.google.com/?cid=9156310018035963903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9156310018035963903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 542,
       "location": {
         "latitude": 25.0526627,
         "longitude": 121.5364559
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.164Z"
     },
     "和砌鐵板燒 105臺北市松山區中崙里復興南路一段39號B1樓": {
       "name": "和砌鐵板燒",
       "destination": "和砌鐵板燒 105臺北市松山區中崙里復興南路一段39號B1樓",
       "placeId": "ChIJr7BEKQCrQjQRgZ0y7jaHfgY",
-      "mapUrl": "https://maps.google.com/?cid=467960081287388545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=467960081287388545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 491,
       "location": {
         "latitude": 25.0461962,
         "longitude": 121.5442871
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.135Z"
     },
     "渣男 Taiwan Bistro 敦北三渣 105臺北市松山區中正里敦化北路120巷7弄13號": {
       "name": "渣男 Taiwan Bistro 敦北三渣",
       "destination": "渣男 Taiwan Bistro 敦北三渣 105臺北市松山區中正里敦化北路120巷7弄13號",
       "placeId": "ChIJ6bB8q-urQjQR1ylsOn148hg",
-      "mapUrl": "https://maps.google.com/?cid=1797631680520661463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1797631680520661463&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 3348,
       "location": {
         "latitude": 25.053680999999997,
         "longitude": 121.5480864
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.226Z"
     },
     "NEST巢TEPPANYAKI 104臺北市中山區伊通街87巷10之1號": {
       "name": "NEST巢TEPPANYAKI",
       "destination": "NEST巢TEPPANYAKI 104臺北市中山區伊通街87巷10之1號",
       "placeId": "ChIJCSfN9kupQjQRwCrso1QUGUU",
-      "mapUrl": "https://maps.google.com/?cid=4979033216794766016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4979033216794766016&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 242,
       "location": {
         "latitude": 25.0527882,
         "longitude": 121.5358192
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.280Z"
     },
     "好食肌•健康新飲食 南京 105臺北市松山區中正里南京東路三段256巷20弄2號": {
       "name": "好食肌•健康新飲食 南京",
       "destination": "好食肌•健康新飲食 南京 105臺北市松山區中正里南京東路三段256巷20弄2號",
       "placeId": "ChIJczjN8U6rQjQRzLS9CWDKhWk",
-      "mapUrl": "https://maps.google.com/?cid=7603706059714049228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7603706059714049228&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 355,
       "location": {
         "latitude": 25.0505887,
         "longitude": 121.54478870000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.199Z"
     },
     "樂芙健康餐盒 南京龍江店 104臺北市中山區復華里南京東路三段109巷12號": {
       "name": "樂芙健康餐盒 南京龍江店",
       "destination": "樂芙健康餐盒 南京龍江店 104臺北市中山區復華里南京東路三段109巷12號",
       "placeId": "ChIJLwNZDNSrQjQR_BqqSjzIKpk",
-      "mapUrl": "https://maps.google.com/?cid=11036853998101076732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11036853998101076732&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 289,
       "location": {
         "latitude": 25.0526414,
         "longitude": 121.53973510000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.251Z"
     },
     "MJ 餐酒館 10478臺北市中山區江山里建國北路二段121號": {
       "name": "MJ 餐酒館",
       "destination": "MJ 餐酒館 10478臺北市中山區江山里建國北路二段121號",
       "placeId": "ChIJbQdCfnyrQjQRoCTy-sMteqU",
-      "mapUrl": "https://maps.google.com/?cid=11923893283168855200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11923893283168855200&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 186,
       "location": {
         "latitude": 25.0596476,
         "longitude": 121.53729560000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.307Z"
     },
     "和十Shabu 日式鍋物 10491臺北市中山區復華里南京東路三段29號": {
       "name": "和十Shabu 日式鍋物",
       "destination": "和十Shabu 日式鍋物 10491臺北市中山區復華里南京東路三段29號",
       "placeId": "ChIJiRKdsAmrQjQRkVu2eSEgNoc",
-      "mapUrl": "https://maps.google.com/?cid=9743010172010650513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9743010172010650513&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 599,
       "location": {
         "latitude": 25.05222,
         "longitude": 121.5379823
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.390Z"
     },
     "Sky Cofi 咖啡館 105臺北市松山區中正里南京東路三段287號16樓": {
       "name": "Sky Cofi 咖啡館",
       "destination": "Sky Cofi 咖啡館 105臺北市松山區中正里南京東路三段287號16樓",
       "placeId": "ChIJx5pbLJCrQjQR-bUq5x-2j2s",
-      "mapUrl": "https://maps.google.com/?cid=7750613731866490361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7750613731866490361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 662,
       "location": {
         "latitude": 25.0520768,
         "longitude": 121.54620240000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.361Z"
     },
     "One Ok Coffee 104臺北市中山區復華里遼寧街135號": {
       "name": "One Ok Coffee",
       "destination": "One Ok Coffee 104臺北市中山區復華里遼寧街135號",
       "placeId": "ChIJmbaHu4WrQjQRnt5V9hlc5yQ",
-      "mapUrl": "https://maps.google.com/?cid=2659195371562327710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2659195371562327710&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 1044,
       "location": {
         "latitude": 25.0521584,
         "longitude": 121.54212459999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.336Z"
     },
     "香瓜咖啡 Melon Coffee 105臺北市松山區南京東路三段256巷21號僅有一樓": {
       "name": "香瓜咖啡 Melon Coffee",
       "destination": "香瓜咖啡 Melon Coffee 105臺北市松山區南京東路三段256巷21號僅有一樓",
       "placeId": "ChIJU44ddXirQjQRXl6nayWdmHI",
-      "mapUrl": "https://maps.google.com/?cid=8257522700829285982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8257522700829285982&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 286,
+      "reviewCount": 287,
       "location": {
         "latitude": 25.050885299999997,
         "longitude": 121.54466169999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.466Z"
     },
     "就饗鐵板燒 台北長安東店 10491臺北市中山區朱園里長安東路二段78之2號": {
       "name": "就饗鐵板燒 台北長安東店",
       "destination": "就饗鐵板燒 台北長安東店 10491臺北市中山區朱園里長安東路二段78之2號",
       "placeId": "ChIJgUO7_PGpQjQRmCcVOqwxWKs",
-      "mapUrl": "https://maps.google.com/?cid=12346672994214815640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12346672994214815640&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 4587,
+      "reviewCount": 4591,
       "location": {
         "latitude": 25.048338599999997,
         "longitude": 121.5339097
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.413Z"
     },
     "金喝呷熱炒-生猛海鮮、精緻熱炒、熱炒100 10491臺北市中山區中原里長春路119-9號": {
       "name": "金喝呷熱炒-生猛海鮮、精緻熱炒、熱炒100",
       "destination": "金喝呷熱炒-生猛海鮮、精緻熱炒、熱炒100 10491臺北市中山區中原里長春路119-9號",
       "placeId": "ChIJO3kaQ2epQjQR-F1iqcYKKw4",
-      "mapUrl": "https://maps.google.com/?cid=1020921588891147768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1020921588891147768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 2807,
       "location": {
         "latitude": 25.054949699999998,
         "longitude": 121.52996929999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.439Z"
     },
     "Oasis Coffee Roasters - Nanjing 105臺北市松山區中正里南京東路三段335巷13-1號": {
       "name": "Oasis Coffee Roasters - Nanjing",
       "destination": "Oasis Coffee Roasters - Nanjing 105臺北市松山區中正里南京東路三段335巷13-1號",
       "placeId": "ChIJgRbU1SKrQjQREeIz-NXP5_g",
-      "mapUrl": "https://maps.google.com/?cid=17935532558925423121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17935532558925423121&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_TEMPORARILY",
       "rating": 4.7,
       "reviewCount": 264,
       "location": {
         "latitude": 25.0529187,
         "longitude": 121.54746580000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.499Z"
     },
     "2Twenty Bistro 10491臺北市中山區朱馥里興安街34號": {
       "name": "2Twenty Bistro",
       "destination": "2Twenty Bistro 10491臺北市中山區朱馥里興安街34號",
       "placeId": "ChIJ_YycDQCrQjQRWVG6oExyvvY",
-      "mapUrl": "https://maps.google.com/?cid=17779774052344942937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17779774052344942937&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 135,
       "location": {
         "latitude": 25.0560792,
         "longitude": 121.53867189999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.626Z"
     },
     "無一鮨 10491臺北市中山區復華里長春路258巷26號": {
       "name": "無一鮨",
       "destination": "無一鮨 10491臺北市中山區復華里長春路258巷26號",
       "placeId": "ChIJyY5SBtCrQjQRKMkgklsN1Nw",
-      "mapUrl": "https://maps.google.com/?cid=15912358070351612200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15912358070351612200&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 191,
       "location": {
         "latitude": 25.0535765,
         "longitude": 121.5389305
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.525Z"
     },
     "A Train - A Cozy Vibe for You 10491臺北市中山區朱崙里八德路二段233號2樓": {
       "name": "A Train - A Cozy Vibe for You",
       "destination": "A Train - A Cozy Vibe for You 10491臺北市中山區朱崙里八德路二段233號2樓",
       "placeId": "ChIJ_YlXO9mrQjQRtrWmWeeFzsY",
-      "mapUrl": "https://maps.google.com/?cid=14325534693400163766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14325534693400163766&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 1476,
+      "reviewCount": 1477,
       "location": {
         "latitude": 25.0470239,
         "longitude": 121.5406153
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.588Z"
     },
     "爍場居酒屋復興店 10547臺北市松山區中正里復興北路141巷6弄6號1樓": {
       "name": "爍場居酒屋復興店",
       "destination": "爍場居酒屋復興店 10547臺北市松山區中正里復興北路141巷6弄6號1樓",
       "placeId": "ChIJW6QPBsyrQjQROjOta0fCB8I",
-      "mapUrl": "https://maps.google.com/?cid=13981357180199973690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13981357180199973690&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1664,
       "location": {
         "latitude": 25.053612899999997,
         "longitude": 121.544667
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.559Z"
     },
     "京炙鐵板燒 105臺北市松山區民有里民生東路三段113巷25弄12號": {
       "name": "京炙鐵板燒",
       "destination": "京炙鐵板燒 105臺北市松山區民有里民生東路三段113巷25弄12號",
       "placeId": "ChIJp-C8mOWrQjQRpv-sdo-_3UA",
-      "mapUrl": "https://maps.google.com/?cid=4674102611172720550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4674102611172720550&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 540,
       "location": {
         "latitude": 25.059213999999997,
         "longitude": 121.5470411
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.717Z"
     },
     "陶板屋 台北南京東店 104台北市中山区朱园里南京东路二段178號2F": {
       "name": "陶板屋 台北南京東店",
       "destination": "陶板屋 台北南京東店 104台北市中山区朱园里南京东路二段178號2F",
       "placeId": "ChIJsaCgs2GpQjQRtzFg7ZFwbnk",
-      "mapUrl": "https://maps.google.com/?cid=8750054898082525623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8750054898082525623&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 7209,
       "location": {
         "latitude": 25.051742899999997,
         "longitude": 121.5351397
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.689Z"
     },
     "鐵板燒 居酒屋TAKUMI /日式居酒屋 10491臺北市中山區正義里南京東路一段132巷14號1樓": {
       "name": "鐵板燒 居酒屋TAKUMI /日式居酒屋",
       "destination": "鐵板燒 居酒屋TAKUMI /日式居酒屋 10491臺北市中山區正義里南京東路一段132巷14號1樓",
       "placeId": "ChIJf1pKdWapQjQRZGVJGE5tvO4",
-      "mapUrl": "https://maps.google.com/?cid=17202744858830792036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17202744858830792036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 712,
+      "reviewCount": 711,
       "location": {
         "latitude": 25.051143999999997,
         "longitude": 121.5270221
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.659Z"
     },
     "空廚小棧 104107臺北市中山區復華里南京東路三段131號1 樓": {
       "name": "空廚小棧",
       "destination": "空廚小棧 104107臺北市中山區復華里南京東路三段131號1 樓",
       "placeId": "ChIJ2-kasiurQjQRpEfyyqM3UE4",
-      "mapUrl": "https://maps.google.com/?cid=5643071509719304100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5643071509719304100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 320,
       "location": {
         "latitude": 25.0521332,
         "longitude": 121.54064899999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.744Z"
     },
     "雙喜星海鮮 104臺北市中山區建國北路一段72號": {
       "name": "雙喜星海鮮",
       "destination": "雙喜星海鮮 104臺北市中山區建國北路一段72號",
       "placeId": "ChIJNwyJ6gupQjQRTHERui7fWc4",
-      "mapUrl": "https://maps.google.com/?cid=14869161036523598156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14869161036523598156&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 247,
+      "reviewCount": 248,
       "location": {
         "latitude": 25.0491794,
         "longitude": 121.53636429999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.804Z"
     },
     "卡賀廚房早午餐（巨蛋南京店） 105020臺北市松山區南京東路三段335巷13號": {
       "name": "卡賀廚房早午餐（巨蛋南京店）",
       "destination": "卡賀廚房早午餐（巨蛋南京店） 105020臺北市松山區南京東路三段335巷13號",
       "placeId": "ChIJbVX_de-rQjQR_GoMzPwOjNU",
-      "mapUrl": "https://maps.google.com/?cid=15387690505736055548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15387690505736055548&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 217,
       "location": {
         "latitude": 25.0529893,
         "longitude": 121.54746639999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.830Z"
     },
     "kaï bistro à vin 105臺北市松山區松基里民生東路三段130巷20號1樓": {
       "name": "kaï bistro à vin",
       "destination": "kaï bistro à vin 105臺北市松山區松基里民生東路三段130巷20號1樓",
       "placeId": "ChIJZb0W0n-rQjQRZ4BGgwoYfJ4",
-      "mapUrl": "https://maps.google.com/?cid=11420029188535910503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11420029188535910503&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 177,
       "location": {
         "latitude": 25.0565392,
         "longitude": 121.54608259999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.861Z"
     },
     "明水然無菜單鐵板燒 慶城店 105臺北市松山區中正里慶城街18之1號2樓": {
       "name": "明水然無菜單鐵板燒 慶城店",
       "destination": "明水然無菜單鐵板燒 慶城店 105臺北市松山區中正里慶城街18之1號2樓",
       "placeId": "ChIJH9tqdeerQjQR62qcF4FZxac",
-      "mapUrl": "https://maps.google.com/?cid=12089167185727744747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12089167185727744747&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 2963,
+      "reviewCount": 2964,
       "location": {
         "latitude": 25.053293999999998,
         "longitude": 121.545481
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.778Z"
     },
     "麋鹿祕密 104臺北市中山區中央里伊通街66巷3-2號": {
       "name": "麋鹿祕密",
       "destination": "麋鹿祕密 104臺北市中山區中央里伊通街66巷3-2號",
       "placeId": "ChIJ6Y9IWGCpQjQR_ca8Bpep1Ps",
-      "mapUrl": "https://maps.google.com/?cid=18146315264700761853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18146315264700761853&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1525,
       "location": {
         "latitude": 25.0526576,
         "longitude": 121.5343973
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.890Z"
     },
     "義意 105臺北市松山區中正里南京東路三段256巷20弄2號": {
       "name": "義意",
       "destination": "義意 105臺北市松山區中正里南京東路三段256巷20弄2號",
       "placeId": "ChIJ5QfnixSrQjQR6DGgi6nUJfg",
-      "mapUrl": "https://maps.google.com/?cid=17880931720201515496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17880931720201515496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 183,
+      "reviewCount": 182,
       "location": {
         "latitude": 25.0506054,
         "longitude": 121.54482039999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.918Z"
     },
     "爍場居酒屋伊通店 10486臺北市中山區朱園里伊通街50號": {
       "name": "爍場居酒屋伊通店",
       "destination": "爍場居酒屋伊通店 10486臺北市中山區朱園里伊通街50號",
       "placeId": "ChIJW044uyCpQjQRBkJE6MTxXc0",
-      "mapUrl": "https://maps.google.com/?cid=14798249778621989382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14798249778621989382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1214,
       "location": {
         "latitude": 25.051352899999998,
         "longitude": 121.53467479999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.945Z"
     },
     "玖尹-新派中式餐酒館 104臺北市中山區伊通街39號": {
       "name": "玖尹-新派中式餐酒館",
       "destination": "玖尹-新派中式餐酒館 104臺北市中山區伊通街39號",
       "placeId": "ChIJm3DQdtqpQjQRay4TpT37y1I",
-      "mapUrl": "https://maps.google.com/?cid=5966138373563428459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5966138373563428459&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1232,
       "location": {
         "latitude": 25.0507092,
         "longitude": 121.5349513
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:36.975Z"
     },
     "堤諾義大利比薩 Tino's Pizza 台北民生店 10491臺北市中山區江山里民生東路三段11號": {
       "name": "堤諾義大利比薩 Tino's Pizza 台北民生店",
       "destination": "堤諾義大利比薩 Tino's Pizza 台北民生店 10491臺北市中山區江山里民生東路三段11號",
       "placeId": "ChIJS-R5rb2rQjQReug97pzvbvc",
-      "mapUrl": "https://maps.google.com/?cid=17829451432097343610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17829451432097343610&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 907,
       "location": {
         "latitude": 25.058156999999998,
         "longitude": 121.53802429999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.001Z"
     },
     "疆毒串烤-南京店 10491臺北市中山區朱園里南京東路二段214巷4號": {
       "name": "疆毒串烤-南京店",
       "destination": "疆毒串烤-南京店 10491臺北市中山區朱園里南京東路二段214巷4號",
       "placeId": "ChIJRe6azGGpQjQRFcbUze7j7IU",
-      "mapUrl": "https://maps.google.com/?cid=9650338716343125525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9650338716343125525&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 813,
       "location": {
         "latitude": 25.051499,
         "longitude": 121.535967
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.033Z"
     },
     "滿滿厝台式創意料理餐廳 104臺北市中山區中央里建國北路二段6巷5號": {
       "name": "滿滿厝台式創意料理餐廳",
       "destination": "滿滿厝台式創意料理餐廳 104臺北市中山區中央里建國北路二段6巷5號",
       "placeId": "ChIJK_cYw9qpQjQRAxL5kZjMk_8",
-      "mapUrl": "https://maps.google.com/?cid=18416288256904204803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18416288256904204803&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 780,
       "location": {
         "latitude": 25.0526683,
         "longitude": 121.5360783
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.064Z"
     },
     "JR東日本大飯店台北-凱華樓 B1, No. 133號南京東路三段復華里中山區臺北市104": {
       "name": "JR東日本大飯店台北-凱華樓",
       "destination": "JR東日本大飯店台北-凱華樓 B1, No. 133號南京東路三段復華里中山區臺北市104",
       "placeId": "ChIJgS-8-MarQjQRXlT_kYMsdK4",
-      "mapUrl": "https://maps.google.com/?cid=12570721403499664478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12570721403499664478&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 615,
       "location": {
         "latitude": 25.052165199999997,
         "longitude": 121.54114849999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.100Z"
     },
     "Pasta & Co. 104臺北市中山區復華里南京東路三段9號": {
       "name": "Pasta & Co.",
       "destination": "Pasta & Co. 104臺北市中山區復華里南京東路三段9號",
       "placeId": "ChIJP10wpNmrQjQR4_EXiW2NOso",
-      "mapUrl": "https://maps.google.com/?cid=14572115045901660643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14572115045901660643&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 4183,
+      "reviewCount": 4187,
       "location": {
         "latitude": 25.0521288,
         "longitude": 121.53747170000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.124Z"
     },
     "basis coffee. 10491臺北市中山區復華里南京東路三段109巷16號": {
       "name": "basis coffee.",
       "destination": "basis coffee. 10491臺北市中山區復華里南京東路三段109巷16號",
       "placeId": "ChIJQVbL-uKrQjQRLO829XrxTRk",
-      "mapUrl": "https://maps.google.com/?cid=1823378934557241132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1823378934557241132&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 367,
       "location": {
         "latitude": 25.0527455,
         "longitude": 121.53969029999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.181Z"
     },
     "一隅 日式居酒屋 104臺北市中山區中吉里四平街20號1樓": {
       "name": "一隅 日式居酒屋",
       "destination": "一隅 日式居酒屋 104臺北市中山區中吉里四平街20號1樓",
       "placeId": "ChIJt_iRMWepQjQRVvk4vhoKjHc",
-      "mapUrl": "https://maps.google.com/?cid=8614271297229748566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8614271297229748566&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 384,
       "location": {
         "latitude": 25.0535785,
         "longitude": 121.5308881
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.154Z"
     },
     "萬客什鍋 長安東店 10491臺北市中山區朱園里長安東路二段81號": {
       "name": "萬客什鍋 長安東店",
       "destination": "萬客什鍋 長安東店 10491臺北市中山區朱園里長安東路二段81號",
       "placeId": "ChIJ50roTWepQjQR_G80AfkykOU",
-      "mapUrl": "https://maps.google.com/?cid=16541777476380291068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16541777476380291068&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 3447,
+      "reviewCount": 3448,
       "location": {
         "latitude": 25.048528899999997,
         "longitude": 121.5344669
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.208Z"
     },
     "8號極品海鮮餐廳 10491臺北市中山區興亞里一江街8號": {
       "name": "8號極品海鮮餐廳",
       "destination": "8號極品海鮮餐廳 10491臺北市中山區興亞里一江街8號",
       "placeId": "ChIJE_EfS2GpQjQRmAiwu1MgkCQ",
-      "mapUrl": "https://maps.google.com/?cid=2634641326014990488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2634641326014990488&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 326,
       "location": {
         "latitude": 25.0512159,
         "longitude": 121.53138000000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.240Z"
     },
     "双吉Teppanyaki 104台北市中山区中山區復華里遼寧街185巷7弄15號 1樓": {
       "name": "双吉Teppanyaki",
       "destination": "双吉Teppanyaki 104台北市中山区中山區復華里遼寧街185巷7弄15號 1樓",
       "placeId": "ChIJUe8LRZ-rQjQRTsJ0a_NaDLM",
-      "mapUrl": "https://maps.google.com/?cid=12901787034035995214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12901787034035995214&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 291,
       "location": {
         "latitude": 25.0536747,
         "longitude": 121.5433992
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.269Z"
     },
     "海九澎湖海鮮餐廳 104臺北市中山區朱崙里長安東路二段170號": {
       "name": "海九澎湖海鮮餐廳",
       "destination": "海九澎湖海鮮餐廳 104臺北市中山區朱崙里長安東路二段170號",
       "placeId": "ChIJC8Sm1d6rQjQRkybRsVasbvo",
-      "mapUrl": "https://maps.google.com/?cid=18045550245270595219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18045550245270595219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 2635,
       "location": {
         "latitude": 25.0481756,
         "longitude": 121.5399777
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.329Z"
     },
     "JR東日本大飯店台北-HAYASE日本料理 B1, No. 133號南京東路三段 Zhongshan District, 中山區臺北市104": {
       "name": "JR東日本大飯店台北-HAYASE日本料理",
       "destination": "JR東日本大飯店台北-HAYASE日本料理 B1, No. 133號南京東路三段 Zhongshan District, 中山區臺北市104",
       "placeId": "ChIJ_3bh4bKrQjQRVMFgct13RZM",
-      "mapUrl": "https://maps.google.com/?cid=10612019889958863188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10612019889958863188&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 275,
+      "reviewCount": 276,
       "location": {
         "latitude": 25.052165199999997,
         "longitude": 121.54114849999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.296Z"
     },
     "有有1969 104臺北市中山區力行里遼寧街48號": {
       "name": "有有1969",
       "destination": "有有1969 104臺北市中山區力行里遼寧街48號",
       "placeId": "ChIJUVfSk46rQjQRjSYEdTmKW8Q",
-      "mapUrl": "https://maps.google.com/?cid=14149054633695520397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14149054633695520397&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 1639,
       "location": {
         "latitude": 25.049029599999997,
         "longitude": 121.54207199999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.355Z"
     },
     "寶島曼波義大利麵 10491臺北市中山區江山里合江街71巷14號": {
       "name": "寶島曼波義大利麵",
       "destination": "寶島曼波義大利麵 10491臺北市中山區江山里合江街71巷14號",
       "placeId": "ChIJJaDmhuGrQjQRa49U5Cu_stg",
-      "mapUrl": "https://maps.google.com/?cid=15614753053282176875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15614753053282176875&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1452,
       "location": {
         "latitude": 25.058520299999998,
         "longitude": 121.53964069999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.383Z"
     },
     "又一間商行SPAGHETTI（無訂位服務，營業時間為最後點餐時間） 105臺北市松山區興安街192號": {
       "name": "又一間商行SPAGHETTI（無訂位服務，營業時間為最後點餐時間）",
       "destination": "又一間商行SPAGHETTI（無訂位服務，營業時間為最後點餐時間） 105臺北市松山區興安街192號",
       "placeId": "ChIJp7WiKXyrQjQRUaxE_f4nw0A",
-      "mapUrl": "https://maps.google.com/?cid=4666617615010278481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4666617615010278481&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1389,
       "location": {
         "latitude": 25.0559695,
         "longitude": 121.54527279999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.437Z"
     },
     "La Pavoni匠香房咖啡早餐簡餐 10491台北市中山区复华里南京東路三段89巷5弄2號轉角戶外座位區1樓": {
       "name": "La Pavoni匠香房咖啡早餐簡餐",
       "destination": "La Pavoni匠香房咖啡早餐簡餐 10491台北市中山区复华里南京東路三段89巷5弄2號轉角戶外座位區1樓",
       "placeId": "ChIJq8Ffxd-rQjQRi6YBgNb0kaQ",
-      "mapUrl": "https://maps.google.com/?cid=11858528495950997131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11858528495950997131&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 143,
       "location": {
         "latitude": 25.0527886,
         "longitude": 121.53913019999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.408Z"
     },
     "花香廳(鐵板燒)-兄弟大飯店 105臺北市松山區中正里南京東路三段255號13-14樓": {
       "name": "花香廳(鐵板燒)-兄弟大飯店",
       "destination": "花香廳(鐵板燒)-兄弟大飯店 105臺北市松山區中正里南京東路三段255號13-14樓",
       "placeId": "ChIJIWnhi92rQjQRtHDGsZsIreo",
-      "mapUrl": "https://maps.google.com/?cid=16910181640641605812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16910181640641605812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 1312,
+      "reviewCount": 1311,
       "location": {
         "latitude": 25.052028399999998,
         "longitude": 121.54460960000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.464Z"
     },
     "養心茶樓 蔬食飲茶 104臺北市中山區中吉里松江路128號": {
       "name": "養心茶樓 蔬食飲茶",
       "destination": "養心茶樓 蔬食飲茶 104臺北市中山區中吉里松江路128號",
       "placeId": "ChIJG9CYlmCpQjQRUPsSe31WS4I",
-      "mapUrl": "https://maps.google.com/?cid=9388692945119673168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9388692945119673168&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 8702,
+      "reviewCount": 8705,
       "location": {
         "latitude": 25.0527859,
         "longitude": 121.53279260000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.552Z"
     },
     "貝克宅 南京店 - Beckhome Roasting House 105臺北市松山區中正里南京東路三段303巷8弄1號": {
       "name": "貝克宅 南京店 - Beckhome Roasting House",
       "destination": "貝克宅 南京店 - Beckhome Roasting House 105臺北市松山區中正里南京東路三段303巷8弄1號",
       "placeId": "ChIJn3iMNqWpQjQRh7Npc_Irjxs",
-      "mapUrl": "https://maps.google.com/?cid=1985854281012065159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1985854281012065159&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1100,
       "location": {
         "latitude": 25.0529486,
         "longitude": 121.5468614
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.495Z"
     },
     "和民 手作廚房 微風南京店 105020臺北市松山區中正里南京東路三段337號B2": {
       "name": "和民 手作廚房 微風南京店",
       "destination": "和民 手作廚房 微風南京店 105020臺北市松山區中正里南京東路三段337號B2",
       "placeId": "ChIJFzhBXuqrQjQRKiVTprOajh8",
-      "mapUrl": "https://maps.google.com/?cid=2273924958248969514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2273924958248969514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 1072,
       "location": {
         "latitude": 25.0521371,
         "longitude": 121.54810520000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.520Z"
     },
     "吃肥義大利麵專門 104臺北市中山區合江街59號": {
       "name": "吃肥義大利麵專門",
       "destination": "吃肥義大利麵專門 104臺北市中山區合江街59號",
       "placeId": "ChIJtQBso-GrQjQRuBUIMqvOah0",
-      "mapUrl": "https://maps.google.com/?cid=2119733809305359800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2119733809305359800&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 779,
       "location": {
         "latitude": 25.057205,
         "longitude": 121.53925299999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.580Z"
     },
     "56 Teppanyaki 10491臺北市中山區民權東路三段56號": {
       "name": "56 Teppanyaki",
       "destination": "56 Teppanyaki 10491臺北市中山區民權東路三段56號",
       "placeId": "ChIJ_2OPVx-qQjQRKBmPXsO42Y8",
-      "mapUrl": "https://maps.google.com/?cid=10365519166614477096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10365519166614477096&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 722,
       "location": {
         "latitude": 25.0620828,
         "longitude": 121.5419857
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:37.604Z"
     },
     "真真庵 105臺北市松山區中正里南京東路三段303巷7弄5號": {
       "name": "真真庵",
       "destination": "真真庵 105臺北市松山區中正里南京東路三段303巷7弄5號",
       "placeId": "ChIJqVy8kOerQjQRIpLh1dN1IXk",
-      "mapUrl": "https://maps.google.com/?cid=8728387105507611170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8728387105507611170&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 635,
       "location": {
         "latitude": 25.052757699999997,
         "longitude": 121.5464644
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.002Z"
     },
     "Kanokwan 老麵攤 104臺北市中山區中吉里四平街21號1樓": {
       "name": "Kanokwan 老麵攤",
       "destination": "Kanokwan 老麵攤 104臺北市中山區中吉里四平街21號1樓",
       "placeId": "ChIJXWY6-WapQjQR7OxlqACxbw8",
-      "mapUrl": "https://maps.google.com/?cid=1112302249367170284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1112302249367170284&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 5762,
+      "reviewCount": 5763,
       "location": {
         "latitude": 25.0537296,
         "longitude": 121.5311627
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.035Z"
     },
     "一福IPPUKU串燒酒場 10458臺北市中山區中吉里四平街2號": {
       "name": "一福IPPUKU串燒酒場",
       "destination": "一福IPPUKU串燒酒場 10458臺北市中山區中吉里四平街2號",
       "placeId": "ChIJ-3k8CDWpQjQR_w1SoS3cC3g",
-      "mapUrl": "https://maps.google.com/?cid=8650249597833317887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8650249597833317887&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 556,
+      "reviewCount": 557,
       "location": {
         "latitude": 25.0535347,
         "longitude": 121.5302961
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.064Z"
     },
     "Cin Cin Osteria請請義大利餐廳 (慶城店) 105臺北市松山區中正里慶城街16巷16號1F": {
       "name": "Cin Cin Osteria請請義大利餐廳 (慶城店)",
       "destination": "Cin Cin Osteria請請義大利餐廳 (慶城店) 105臺北市松山區中正里慶城街16巷16號1F",
       "placeId": "ChIJcwBznOerQjQRw3kEBKhioPo",
-      "mapUrl": "https://maps.google.com/?cid=18059542979517118915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18059542979517118915&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 5292,
       "location": {
         "latitude": 25.052801700000003,
         "longitude": 121.54597290000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.091Z"
     },
     "輝葉台菜 10491臺北市中山區力行里長安東路二段169-5號": {
       "name": "輝葉台菜",
       "destination": "輝葉台菜 10491臺北市中山區力行里長安東路二段169-5號",
       "placeId": "ChIJaUrfNC-rQjQRVxQmSZzFKJ8",
-      "mapUrl": "https://maps.google.com/?cid=11468633726131770455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11468633726131770455&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 526,
+      "reviewCount": 528,
       "location": {
         "latitude": 25.048412199999998,
         "longitude": 121.5409884
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.147Z"
     },
     "台北犁記 104臺北市中山區朱園里長安東路二段67號": {
       "name": "台北犁記",
       "destination": "台北犁記 104臺北市中山區朱園里長安東路二段67號",
       "placeId": "ChIJIfjWzGOpQjQR85xiXimTS3k",
-      "mapUrl": "https://maps.google.com/?cid=8740241307729042675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8740241307729042675&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 4905,
+      "reviewCount": 4910,
       "location": {
         "latitude": 25.0485971,
         "longitude": 121.53403209999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.175Z"
     },
     "66巷鮮魚料理 104臺北市中山區中央里伊通街66巷3之3號": {
       "name": "66巷鮮魚料理",
       "destination": "66巷鮮魚料理 104臺北市中山區中央里伊通街66巷3之3號",
       "placeId": "ChIJoSbVWWCpQjQRTh4EQJ0SDOQ",
-      "mapUrl": "https://maps.google.com/?cid=16432529606961274446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16432529606961274446&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 517,
       "location": {
         "latitude": 25.0526938,
         "longitude": 121.5344303
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.120Z"
     },
     "糀日和 Kouji Wafu Pasta 10489臺北市中山區力行里龍江路79號": {
       "name": "糀日和 Kouji Wafu Pasta",
       "destination": "糀日和 Kouji Wafu Pasta 10489臺北市中山區力行里龍江路79號",
       "placeId": "ChIJkSOTUfKrQjQRmr6m00-3INA",
-      "mapUrl": "https://maps.google.com/?cid=14997188312624971418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14997188312624971418&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 476,
       "location": {
         "latitude": 25.0510342,
         "longitude": 121.54054269999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.207Z"
     },
     "嵐山咖啡 10491台北市中山区复华里龙江路114巷1號1樓": {
       "name": "嵐山咖啡",
       "destination": "嵐山咖啡 10491台北市中山区复华里龙江路114巷1號1樓",
       "placeId": "ChIJNfXsDd6rQjQRE_sflwrZjrM",
-      "mapUrl": "https://maps.google.com/?cid=12938517418990369555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12938517418990369555&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 351,
       "location": {
         "latitude": 25.053233400000003,
         "longitude": 121.54019620000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.298Z"
     },
     "田園海鮮餐廳 104臺北市中山區埤頭里八德路二段174巷5號": {
       "name": "田園海鮮餐廳",
       "destination": "田園海鮮餐廳 104臺北市中山區埤頭里八德路二段174巷5號",
       "placeId": "ChIJG-oEi9irQjQRe-BJfgoUMtw",
-      "mapUrl": "https://maps.google.com/?cid=15866766472480678011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15866766472480678011&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 3820,
+      "reviewCount": 3821,
       "location": {
         "latitude": 25.045949399999998,
         "longitude": 121.53828399999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.239Z"
     },
     "三花日式料理 10491臺北市中山區復華里建國北路二段9-2號": {
       "name": "三花日式料理",
       "destination": "三花日式料理 10491臺北市中山區復華里建國北路二段9-2號",
       "placeId": "ChIJLaro-d-rQjQRKSEcwjopnjc",
-      "mapUrl": "https://maps.google.com/?cid=4007686050747785513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4007686050747785513&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 359,
       "location": {
         "latitude": 25.0535185,
         "longitude": 121.5372399
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.267Z"
     },
     "高玉日本料理民生店 10491臺北市中山區朱馥里民生東路三段8號B1樓": {
       "name": "高玉日本料理民生店",
       "destination": "高玉日本料理民生店 10491臺北市中山區朱馥里民生東路三段8號B1樓",
       "placeId": "ChIJn07Wv-GrQjQRVAuUeOYIswg",
-      "mapUrl": "https://maps.google.com/?cid=626854559093099348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=626854559093099348&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 255,
       "location": {
         "latitude": 25.057619799999998,
         "longitude": 121.53858749999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.355Z"
     },
     "魚蝦蟹餐酒館 10491臺北市中山區江山里民生東路三段45號": {
       "name": "魚蝦蟹餐酒館",
       "destination": "魚蝦蟹餐酒館 10491臺北市中山區江山里民生東路三段45號",
       "placeId": "ChIJb5UzjA6rQjQRHQBjRDsEl9w",
-      "mapUrl": "https://maps.google.com/?cid=15895178062424375325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15895178062424375325&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 352,
       "location": {
         "latitude": 25.058099499999997,
         "longitude": 121.53970600000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.324Z"
     },
     "OriginBAR 源 105臺北市松山區東勢里南京東路四段133巷5弄31號": {
       "name": "OriginBAR 源",
       "destination": "OriginBAR 源 105臺北市松山區東勢里南京東路四段133巷5弄31號",
       "placeId": "ChIJx8pbTeqrQjQRIP5yMs2d9Ag",
-      "mapUrl": "https://maps.google.com/?cid=645314151261077024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=645314151261077024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 4421,
       "location": {
         "latitude": 25.0520665,
         "longitude": 121.55637650000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.380Z"
     },
     "啜 SUSURU ［日本/台灣 蒸餾酒·燒酎酒吧］ 105臺北市松山區中正里南京東路三段335巷19號": {
       "name": "啜 SUSURU ［日本/台灣 蒸餾酒·燒酎酒吧］",
       "destination": "啜 SUSURU ［日本/台灣 蒸餾酒·燒酎酒吧］ 105臺北市松山區中正里南京東路三段335巷19號",
       "placeId": "ChIJGW_KIQCrQjQR_GUr98QguII",
-      "mapUrl": "https://maps.google.com/?cid=9419314650977887740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9419314650977887740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
       "reviewCount": 61,
       "location": {
         "latitude": 25.0532056,
         "longitude": 121.5474851
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.409Z"
     },
     "fulbar 105臺北市松山區松基里復興北路183號1樓": {
       "name": "fulbar",
       "destination": "fulbar 105臺北市松山區松基里復興北路183號1樓",
       "placeId": "ChIJ4yPsYnyrQjQRIvWKH_EESgs",
-      "mapUrl": "https://maps.google.com/?cid=813468116356625698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=813468116356625698&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 271,
       "location": {
         "latitude": 25.0549373,
         "longitude": 121.5443229
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.499Z"
     },
     "Bar Yoshi 梄時 104臺北市中山區建國北路二段3巷2-1號": {
       "name": "Bar Yoshi 梄時",
       "destination": "Bar Yoshi 梄時 104臺北市中山區建國北路二段3巷2-1號",
       "placeId": "ChIJBSMUGSCrQjQRcXpyQAFIUaQ",
-      "mapUrl": "https://maps.google.com/?cid=11840324065547156081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11840324065547156081&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 445,
+      "reviewCount": 446,
       "location": {
         "latitude": 25.052398099999998,
         "longitude": 121.5376992
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.435Z"
     },
     "Book ing 東區 106臺北市大安區光武里敦化南路一段190巷45號1樓": {
       "name": "Book ing 東區",
       "destination": "Book ing 東區 106臺北市大安區光武里敦化南路一段190巷45號1樓",
       "placeId": "ChIJdQruf2irQjQR5LIOoB0hvLs",
-      "mapUrl": "https://maps.google.com/?cid=13527723791837213412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13527723791837213412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2836,
+      "reviewCount": 2838,
       "location": {
         "latitude": 25.042787699999998,
         "longitude": 121.54698099999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.468Z"
     },
     "異塵CELLAR LOUNGE BAR 105臺北市松山區中華里南京東路四段19號B1樓": {
       "name": "異塵CELLAR LOUNGE BAR",
       "destination": "異塵CELLAR LOUNGE BAR 105臺北市松山區中華里南京東路四段19號B1樓",
       "placeId": "ChIJYV9lOeirQjQRxBUCNkPV4EA",
-      "mapUrl": "https://maps.google.com/?cid=4674970897856206276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4674970897856206276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1772,
       "location": {
         "latitude": 25.0519446,
         "longitude": 121.55026299999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.526Z"
     },
     "故地 GOODY 104臺北市中山區龍江路213號": {
       "name": "故地 GOODY",
       "destination": "故地 GOODY 104臺北市中山區龍江路213號",
       "placeId": "ChIJnSS8h1qrQjQR3fQbpg0X61U",
-      "mapUrl": "https://maps.google.com/?cid=6191067460139742429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6191067460139742429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 181,
+      "reviewCount": 182,
       "location": {
         "latitude": 25.056688899999997,
         "longitude": 121.54073819999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.553Z"
     },
     "BAR OCEANUS 月洋 / 泰式船麵 / 南洋沙嗲烤串 10491臺北市中山區埤頭里八德路二段48號": {
       "name": "BAR OCEANUS 月洋 / 泰式船麵 / 南洋沙嗲烤串",
       "destination": "BAR OCEANUS 月洋 / 泰式船麵 / 南洋沙嗲烤串 10491臺北市中山區埤頭里八德路二段48號",
       "placeId": "ChIJdU5lhrWpQjQRRKKopF3Wgc4",
-      "mapUrl": "https://maps.google.com/?cid=14880410341491647044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14880410341491647044&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_TEMPORARILY",
       "rating": 4.8,
       "reviewCount": 822,
       "location": {
         "latitude": 25.045097499999997,
         "longitude": 121.53508500000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.580Z"
     },
     "7th Japanese Bar 104臺北市中山區正義里林森北路119巷47號2樓": {
       "name": "7th Japanese Bar",
       "destination": "7th Japanese Bar 104臺北市中山區正義里林森北路119巷47號2樓",
       "placeId": "ChIJyWSt6GWpQjQREdNYsx8z67E",
-      "mapUrl": "https://maps.google.com/?cid=12820396975486194449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12820396975486194449&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 452,
       "location": {
         "latitude": 25.0504668,
         "longitude": 121.52667439999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.640Z"
     },
     "Night 'n Day Bar & Bistro 104臺北市中山區八德路二段343號1樓": {
       "name": "Night 'n Day Bar & Bistro",
       "destination": "Night 'n Day Bar & Bistro 104臺北市中山區八德路二段343號1樓",
       "placeId": "ChIJXdV5X3KrQjQRjkC1VxajVOI",
-      "mapUrl": "https://maps.google.com/?cid=16308839466971512974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16308839466971512974&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 600,
       "location": {
         "latitude": 25.0476464,
         "longitude": 121.54359509999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.612Z"
     },
     "岩の食事酒場 104臺北市中山區正義里南京東路一段132巷18號1樓": {
       "name": "岩の食事酒場",
       "destination": "岩の食事酒場 104臺北市中山區正義里南京東路一段132巷18號1樓",
       "placeId": "ChIJS5xuNRmpQjQRTUQIMd9ju7w",
-      "mapUrl": "https://maps.google.com/?cid=13599573310026826829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13599573310026826829&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 442,
       "location": {
         "latitude": 25.0509994,
         "longitude": 121.52692239999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.666Z"
     },
     "NISEI・二世 Speakeasy 餐酒館・Bar-Bistro 106臺北市大安區 Da'an District, 復興南路一段107巷19-3號": {
       "name": "NISEI・二世 Speakeasy 餐酒館・Bar-Bistro",
       "destination": "NISEI・二世 Speakeasy 餐酒館・Bar-Bistro 106臺北市大安區 Da'an District, 復興南路一段107巷19-3號",
       "placeId": "ChIJo73Ku0WrQjQRkA1PdF85GRc",
-      "mapUrl": "https://maps.google.com/?cid=1664424619426123152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1664424619426123152&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 228,
       "location": {
         "latitude": 25.043783899999998,
         "longitude": 121.545207
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.693Z"
     },
     "Lounge Vino 104臺北市中山區力行里建國北路一段61號8樓": {
       "name": "Lounge Vino",
       "destination": "Lounge Vino 104臺北市中山區力行里建國北路一段61號8樓",
       "placeId": "ChIJB6MlnqurQjQRzQTRTV9yw1A",
-      "mapUrl": "https://maps.google.com/?cid=5819620897145816269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5819620897145816269&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 117,
       "location": {
         "latitude": 25.0506063,
         "longitude": 121.53712970000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.733Z"
     },
     "1516 Bistro 10491臺北市中山區埤頭里復興南路一段30巷4號": {
       "name": "1516 Bistro",
       "destination": "1516 Bistro 10491臺北市中山區埤頭里復興南路一段30巷4號",
       "placeId": "ChIJjYjU79urQjQRvkx2j38Lr_M",
-      "mapUrl": "https://maps.google.com/?cid=17559266114636500158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17559266114636500158&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 535,
       "location": {
         "latitude": 25.046549,
         "longitude": 121.5433869
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.785Z"
     },
     "噶瑪蘭威士忌酒吧 104臺北市中山區中原里南京東路二段1號新生北路口2樓": {
       "name": "噶瑪蘭威士忌酒吧",
       "destination": "噶瑪蘭威士忌酒吧 104臺北市中山區中原里南京東路二段1號新生北路口2樓",
       "placeId": "ChIJJWVXOCKpQjQRtkz2_8tap9o",
-      "mapUrl": "https://maps.google.com/?cid=15755661653598162102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15755661653598162102&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 660,
       "location": {
         "latitude": 25.052330299999998,
         "longitude": 121.5279494
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.758Z"
     },
     "博飛運動吧 104臺北市中山區復華里長春路258巷26之3號1樓": {
       "name": "博飛運動吧",
       "destination": "博飛運動吧 104臺北市中山區復華里長春路258巷26之3號1樓",
       "placeId": "ChIJzQEduRqrQjQR3kzlOC1iC-Y",
-      "mapUrl": "https://maps.google.com/?cid=16576450799834844382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16576450799834844382&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 45,
       "location": {
         "latitude": 25.053524,
         "longitude": 121.538932
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.814Z"
     },
     "IMBIBE Taipei 106臺北市大安區誠安里市民大道三段304號1 樓": {
       "name": "IMBIBE Taipei",
       "destination": "IMBIBE Taipei 106臺北市大安區誠安里市民大道三段304號1 樓",
       "placeId": "ChIJlQHOen6rQjQRUPqqCk8kdf8",
-      "mapUrl": "https://maps.google.com/?cid=18407658973846764112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18407658973846764112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 306,
       "location": {
         "latitude": 25.044547899999998,
         "longitude": 121.54319500000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.843Z"
     },
     "Honn Bar 酒吧 104臺北市中山區復華里長春路370號": {
       "name": "Honn Bar 酒吧",
       "destination": "Honn Bar 酒吧 104臺北市中山區復華里長春路370號",
       "placeId": "ChIJ21krMGOrQjQR-tu1eSdS9pU",
-      "mapUrl": "https://maps.google.com/?cid=10805914685421247482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10805914685421247482&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 274,
       "location": {
         "latitude": 25.0544284,
         "longitude": 121.54273800000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.872Z"
     },
     "Ｗonder bar 105臺北市松山區松基里復興北路183號": {
       "name": "Ｗonder bar",
       "destination": "Ｗonder bar 105臺北市松山區松基里復興北路183號",
       "placeId": "ChIJre-c_RWrQjQRmY9TDzLoiKc",
-      "mapUrl": "https://maps.google.com/?cid=12072154102869757849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12072154102869757849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 882,
       "location": {
         "latitude": 25.054932899999997,
         "longitude": 121.5443343
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.901Z"
     },
     "M O. Bar 10548台北市松山區松基里敦化北路158號": {
       "name": "M O. Bar",
       "destination": "M O. Bar 10548台北市松山區松基里敦化北路158號",
       "placeId": "ChIJF6s6nuirQjQRCVuUZ84JNc8",
-      "mapUrl": "https://maps.google.com/?cid=14930850921722436361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14930850921722436361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 557,
       "location": {
         "latitude": 25.055557999999998,
         "longitude": 121.548381
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.929Z"
     },
     "Wolfie Bar 10491臺北市中山區力行里朱崙街53巷10號": {
       "name": "Wolfie Bar",
       "destination": "Wolfie Bar 10491臺北市中山區力行里朱崙街53巷10號",
       "placeId": "ChIJm6mxit6rQjQRhFB-aXLCrXI",
-      "mapUrl": "https://maps.google.com/?cid=8263474687946674308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8263474687946674308&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 48,
       "location": {
         "latitude": 25.050329299999998,
         "longitude": 121.54133600000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.048Z"
     },
     "Drift Lounge Bar 10491臺北市中山區朱馥里民生東路三段6號14F": {
       "name": "Drift Lounge Bar",
       "destination": "Drift Lounge Bar 10491臺北市中山區朱馥里民生東路三段6號14F",
       "placeId": "ChIJt14Ta4GrQjQRULJY6Gsx2dg",
-      "mapUrl": "https://maps.google.com/?cid=15625574721668035152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15625574721668035152&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 88,
       "location": {
         "latitude": 25.057467199999998,
         "longitude": 121.53764090000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.989Z"
     },
     "THE Lounge 大廳酒吧 104511臺北市中山區朱馥里民生東路三段6號1樓": {
       "name": "THE Lounge 大廳酒吧",
       "destination": "THE Lounge 大廳酒吧 104511臺北市中山區朱馥里民生東路三段6號1樓",
       "placeId": "ChIJcSQXfNWrQjQRqWuNEKRyB68",
-      "mapUrl": "https://maps.google.com/?cid=12612175330452269993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12612175330452269993&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 53,
       "location": {
         "latitude": 25.0575729,
         "longitude": 121.537697
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.019Z"
     },
     "西班牙小酒館 105臺北市松山區松基里民生東路三段130巷18弄4號1樓": {
       "name": "西班牙小酒館",
       "destination": "西班牙小酒館 105臺北市松山區松基里民生東路三段130巷18弄4號1樓",
       "placeId": "ChIJMUhne-arQjQRl_C4g2xaGyY",
-      "mapUrl": "https://maps.google.com/?cid=2745887819925352599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2745887819925352599&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1068,
       "location": {
         "latitude": 25.0564383,
         "longitude": 121.5458347
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:38.957Z"
     },
     "南京會館 10491臺北市松山區中央里南京東路二段165號B1": {
       "name": "南京會館",
       "destination": "南京會館 10491臺北市松山區中央里南京東路二段165號B1",
       "placeId": "ChIJu_2PMGCpQjQRRMGJdqN3FIk",
-      "mapUrl": "https://maps.google.com/?cid=9877651426682454340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9877651426682454340&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 35,
       "location": {
         "latitude": 25.0522279,
         "longitude": 121.53610090000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.074Z"
     },
     "F Gallery by A Train 10551臺北市松山區南京東路三段276號2樓": {
       "name": "F Gallery by A Train",
       "destination": "F Gallery by A Train 10551臺北市松山區南京東路三段276號2樓",
       "placeId": "ChIJy7x6iV6rQjQRB0Pwxb0Xpzk",
-      "mapUrl": "https://maps.google.com/?cid=4154315285109687047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4154315285109687047&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 915,
       "location": {
         "latitude": 25.0515911,
         "longitude": 121.5455542
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.164Z"
     },
     "Bar ansleep Taipei No, No. 20-1號雙城街13巷恆安里中山區臺北市10491": {
       "name": "Bar ansleep Taipei",
       "destination": "Bar ansleep Taipei No, No. 20-1號雙城街13巷恆安里中山區臺北市10491",
       "placeId": "ChIJr2-OxESpQjQRgvtsp4Pk3c8",
-      "mapUrl": "https://maps.google.com/?cid=14978379189804923778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14978379189804923778&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
-      "reviewCount": 351,
+      "reviewCount": 352,
       "location": {
         "latitude": 25.064052399999998,
         "longitude": 121.5250286
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.101Z"
     },
     "WINESWEE 威士威 南京建國店 10491臺北市中山區中央里南京東路二段157號1樓": {
       "name": "WINESWEE 威士威 南京建國店",
       "destination": "WINESWEE 威士威 南京建國店 10491臺北市中山區中央里南京東路二段157號1樓",
       "placeId": "ChIJQTx4ePWpQjQRS2jLd7-3FmE",
-      "mapUrl": "https://maps.google.com/?cid=6995981104143099979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6995981104143099979&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 271,
+      "reviewCount": 273,
       "location": {
         "latitude": 25.052318,
         "longitude": 121.53590299999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.132Z"
     },
     "墨子 106臺北市大安區建倫里忠孝東路四段216巷32弄10號": {
       "name": "墨子",
       "destination": "墨子 106臺北市大安區建倫里忠孝東路四段216巷32弄10號",
       "placeId": "ChIJ6ZwqJEWrQjQRG6PYJHYx53I",
-      "mapUrl": "https://maps.google.com/?cid=8279640823438025499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8279640823438025499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 316,
       "location": {
         "latitude": 25.039775799999997,
         "longitude": 121.5524022
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.193Z"
     },
     "洞香春 105臺北市松山區民有里復興北路313巷36號1樓": {
       "name": "洞香春",
       "destination": "洞香春 105臺北市松山區民有里復興北路313巷36號1樓",
       "placeId": "ChIJJ5R_xVOrQjQRS-0PEA8Wdkk",
-      "mapUrl": "https://maps.google.com/?cid=5293442665970396491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5293442665970396491&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 272,
       "location": {
         "latitude": 25.0588114,
         "longitude": 121.54671289999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.223Z"
     },
     "二本松涮涮屋 本館 106臺北市大安區龍圖里瑞安街118號": {
       "name": "二本松涮涮屋 本館",
       "destination": "二本松涮涮屋 本館 106臺北市大安區龍圖里瑞安街118號",
       "placeId": "ChIJY3YUcaKrQjQRZ1OTdcQlbEo",
-      "mapUrl": "https://maps.google.com/?cid=5362702782007825255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5362702782007825255&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 12523,
+      "reviewCount": 12536,
       "location": {
         "latitude": 25.0296552,
         "longitude": 121.54253639999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.278Z"
     },
     "雙月食品社 森林公園店 106臺北市大安區龍門里和平東路二段52號": {
       "name": "雙月食品社 森林公園店",
       "destination": "雙月食品社 森林公園店 106臺北市大安區龍門里和平東路二段52號",
       "placeId": "ChIJFap94WarQjQR8xORzmAVd88",
-      "mapUrl": "https://maps.google.com/?cid=14949440993606308851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14949440993606308851&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 24434,
+      "reviewCount": 24486,
       "location": {
         "latitude": 25.0253639,
         "longitude": 121.5383336
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.255Z"
     },
     "竹苑shabu 106臺北市大安區光武里大安路一段31巷31號": {
       "name": "竹苑shabu",
       "destination": "竹苑shabu 106臺北市大安區光武里大安路一段31巷31號",
       "placeId": "ChIJj8r4e06rQjQRBFLxZ5OiyhA",
-      "mapUrl": "https://maps.google.com/?cid=1209958203890160132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1209958203890160132&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 4540,
+      "reviewCount": 4543,
       "location": {
         "latitude": 25.0441102,
         "longitude": 121.5475233
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.305Z"
     },
     "串燒殿 敦南本店 106臺北市大安區光武里敦化南路一段160巷24號": {
       "name": "串燒殿 敦南本店",
       "destination": "串燒殿 敦南本店 106臺北市大安區光武里敦化南路一段160巷24號",
       "placeId": "ChIJ_8FP2NqrQjQRQr9lM5dJ7QA",
-      "mapUrl": "https://maps.google.com/?cid=66790483231620930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=66790483231620930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 7515,
+      "reviewCount": 7519,
       "location": {
         "latitude": 25.043457399999998,
         "longitude": 121.5475563
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.337Z"
     },
     "地中海餐酒館 ABV Bar & Kitchen 台北光復店 106臺北市大安區正聲里光復南路260巷39號": {
       "name": "地中海餐酒館 ABV Bar & Kitchen 台北光復店",
       "destination": "地中海餐酒館 ABV Bar & Kitchen 台北光復店 106臺北市大安區正聲里光復南路260巷39號",
       "placeId": "ChIJhcpJPsarQjQR_r0Bmb_6zHg",
-      "mapUrl": "https://maps.google.com/?cid=8704607880613051902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8704607880613051902&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 5273,
       "location": {
         "latitude": 25.0401435,
         "longitude": 121.55568079999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.359Z"
     },
     "荷李活茶街 HOLLYWOOD STREET (SOGO忠孝店) 106臺北市大安區光武里忠孝東路四段45號2 樓": {
       "name": "荷李活茶街 HOLLYWOOD STREET (SOGO忠孝店)",
       "destination": "荷李活茶街 HOLLYWOOD STREET (SOGO忠孝店) 106臺北市大安區光武里忠孝東路四段45號2 樓",
       "placeId": "ChIJR_bdUyirQjQR7R3aP8zoHyo",
-      "mapUrl": "https://maps.google.com/?cid=3035400637813235181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3035400637813235181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 4437,
       "location": {
         "latitude": 25.0418698,
         "longitude": 121.5446329
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.389Z"
     },
     "倉廩 106臺北市大安區光武里大安路一段51巷17號": {
       "name": "倉廩",
       "destination": "倉廩 106臺北市大安區光武里大安路一段51巷17號",
       "placeId": "ChIJR3UdGwCrQjQRmXQJ6NDFykc",
-      "mapUrl": "https://maps.google.com/?cid=5173164623025239193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5173164623025239193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 242,
+      "reviewCount": 244,
       "location": {
         "latitude": 25.043190199999998,
         "longitude": 121.5469355
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.415Z"
     },
     "solo pasta 106臺北市大安區建倫里安和路一段29-1號": {
       "name": "solo pasta",
       "destination": "solo pasta 106臺北市大安區建倫里安和路一段29-1號",
       "placeId": "ChIJwQPcmc-rQjQRtXDQA__PPwg",
-      "mapUrl": "https://maps.google.com/?cid=594422370023796917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=594422370023796917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 13088,
+      "reviewCount": 13092,
       "location": {
         "latitude": 25.039196099999998,
         "longitude": 121.55065409999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.443Z"
     },
     "杯子裡的貓 A Cup of Cat 56號, 敦化南路一段233巷建倫里大安區臺北市106": {
       "name": "杯子裡的貓 A Cup of Cat",
       "destination": "杯子裡的貓 A Cup of Cat 56號, 敦化南路一段233巷建倫里大安區臺北市106",
       "placeId": "ChIJJVC-IgmrQjQRYM4QFDY_oJM",
-      "mapUrl": "https://maps.google.com/?cid=10637571821346541152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10637571821346541152&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 185,
       "location": {
         "latitude": 25.0402864,
         "longitude": 121.55216129999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.470Z"
     },
     "鍋之助日式鍋物-建北店 104臺北市中山區朱園里建國北路一段148號": {
       "name": "鍋之助日式鍋物-建北店",
       "destination": "鍋之助日式鍋物-建北店 104臺北市中山區朱園里建國北路一段148號",
       "placeId": "ChIJtQ4kX5SpQjQRillJ5SEk91I",
-      "mapUrl": "https://maps.google.com/?cid=5978286758356933002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5978286758356933002&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1868,
       "location": {
         "latitude": 25.0512521,
         "longitude": 121.5363839
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.524Z"
     },
     "三個傻瓜印度蔬食餐廳 104臺北市中山區復華里長春路318號": {
       "name": "三個傻瓜印度蔬食餐廳",
       "destination": "三個傻瓜印度蔬食餐廳 104臺北市中山區復華里長春路318號",
       "placeId": "ChIJ49Iz7eCrQjQRKpYv9Hvjptk",
-      "mapUrl": "https://maps.google.com/?cid=15683472873881572906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15683472873881572906&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 4629,
       "location": {
         "latitude": 25.054501,
         "longitude": 121.54069059999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.556Z"
     },
     "馬德拉斯魔法印度料理 1F. 235, Sec. 2, Bade Rd Dist, 1樓No. 235號八德路二段中山區臺北市104": {
       "name": "馬德拉斯魔法印度料理",
       "destination": "馬德拉斯魔法印度料理 1F. 235, Sec. 2, Bade Rd Dist, 1樓No. 235號八德路二段中山區臺北市104",
       "placeId": "ChIJjdUw4O-rQjQRrXuxuDLtCvI",
-      "mapUrl": "https://maps.google.com/?cid=17441013309048454061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17441013309048454061&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 1184,
+      "reviewCount": 1186,
       "location": {
         "latitude": 25.046895499999998,
         "longitude": 121.54070469999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.498Z"
     },
     "印渡風情Out of India 慶城店 105臺北市松山區中正里慶城街16巷6號": {
       "name": "印渡風情Out of India 慶城店",
       "destination": "印渡風情Out of India 慶城店 105臺北市松山區中正里慶城街16巷6號",
       "placeId": "ChIJ108OTzarQjQRmd7HFE-yUMY",
-      "mapUrl": "https://maps.google.com/?cid=14290117670367387289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14290117670367387289&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2137,
       "location": {
         "latitude": 25.052938599999997,
         "longitude": 121.5454975
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.583Z"
     },
     "Coffee Underwater 104臺北市中山區復華里龍江路106巷4號": {
       "name": "Coffee Underwater",
       "destination": "Coffee Underwater 104臺北市中山區復華里龍江路106巷4號",
       "placeId": "ChIJ_f4vTP2rQjQRtAW4s9KX-AY",
-      "mapUrl": "https://maps.google.com/?cid=502318289665918388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=502318289665918388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 792,
       "location": {
         "latitude": 25.0527704,
         "longitude": 121.540137
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.611Z"
     },
     "水沐燒肉 10491臺北市中山區朱園里伊通街47號1樓": {
       "name": "水沐燒肉",
       "destination": "水沐燒肉 10491臺北市中山區朱園里伊通街47號1樓",
       "placeId": "ChIJK6mILyypQjQRik5uLRJKIxE",
-      "mapUrl": "https://maps.google.com/?cid=1234912164761718410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1234912164761718410&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 354,
       "location": {
         "latitude": 25.051144999999998,
         "longitude": 121.53486149999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.636Z"
     },
     "勝鮨 壽司 生魚片 烤物 10491台北市中山区朱馥里兴安街47號47之1號": {
       "name": "勝鮨 壽司 生魚片 烤物",
       "destination": "勝鮨 壽司 生魚片 烤物 10491台北市中山区朱馥里兴安街47號47之1號",
       "placeId": "ChIJH_q60-arQjQRF6Hxvggikho",
-      "mapUrl": "https://maps.google.com/?cid=1914630212544471319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1914630212544471319&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1039,
       "location": {
         "latitude": 25.0562261,
         "longitude": 121.5409377
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.669Z"
     },
     "喆園餐廳 104臺北市中山區朱園里建國北路一段80號": {
       "name": "喆園餐廳",
       "destination": "喆園餐廳 104臺北市中山區朱園里建國北路一段80號",
       "placeId": "ChIJkVNb5WGpQjQRfbluIvrtnYY",
-      "mapUrl": "https://maps.google.com/?cid=9700170831001205117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9700170831001205117&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1081,
       "location": {
         "latitude": 25.049464000000004,
         "longitude": 121.53626759999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.749Z"
     },
     "ONE GOOD烤肉飯 （南京復興） 104臺北市中山區復華里遼寧街141號": {
       "name": "ONE GOOD烤肉飯 （南京復興）",
       "destination": "ONE GOOD烤肉飯 （南京復興） 104臺北市中山區復華里遼寧街141號",
       "placeId": "ChIJo-pXDaWrQjQR04oqXiwJ-xU",
-      "mapUrl": "https://maps.google.com/?cid=1583869780113918675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1583869780113918675&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 832,
       "location": {
         "latitude": 25.052198699999998,
         "longitude": 121.54214400000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.696Z"
     },
     "一期一會(鮨) 105臺北市松山區中正里長春路438號1樓": {
       "name": "一期一會(鮨)",
       "destination": "一期一會(鮨) 105臺北市松山區中正里長春路438號1樓",
       "placeId": "ChIJxTJ6BOerQjQR8o9rxgUHZQE",
-      "mapUrl": "https://maps.google.com/?cid=100494288070873074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=100494288070873074&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 1383,
+      "reviewCount": 1384,
       "location": {
         "latitude": 25.0544351,
         "longitude": 121.54507609999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.723Z"
     },
     "銀魚泰國料理 10491臺北市中山區朱園里建國北路一段138巷24號": {
       "name": "銀魚泰國料理",
       "destination": "銀魚泰國料理 10491臺北市中山區朱園里建國北路一段138巷24號",
       "placeId": "ChIJmzBkuWGpQjQRxlPaJLtudaM",
-      "mapUrl": "https://maps.google.com/?cid=11778442150513628102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11778442150513628102&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 580,
       "location": {
         "latitude": 25.0509028,
         "longitude": 121.5352655
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.777Z"
     },
     "京園坊．客家私房料理 104臺北市中山區江山里合江街69-4號": {
       "name": "京園坊．客家私房料理",
       "destination": "京園坊．客家私房料理 104臺北市中山區江山里合江街69-4號",
       "placeId": "ChIJdz5THC-tQjQRFaDw0R5VtSw",
-      "mapUrl": "https://maps.google.com/?cid=3221574699313045525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3221574699313045525&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 468,
       "location": {
         "latitude": 25.0585934,
         "longitude": 121.5393367
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.802Z"
     },
     "Le Beaujour 芃卓-高訂宴會服務 104臺北市中山區正義里南京東路二段118號": {
       "name": "Le Beaujour 芃卓-高訂宴會服務",
       "destination": "Le Beaujour 芃卓-高訂宴會服務 104臺北市中山區正義里南京東路二段118號",
       "placeId": "ChIJjWuf0E-pQjQRtOmXmAsdmb4",
-      "mapUrl": "https://maps.google.com/?cid=13734040474284976564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13734040474284976564&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 367,
       "location": {
         "latitude": 25.0518577,
         "longitude": 121.53258609999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.832Z"
     },
     "大老爺私房菜 10491臺北市中山區長春路348之6號1樓": {
       "name": "大老爺私房菜",
       "destination": "大老爺私房菜 10491臺北市中山區長春路348之6號1樓",
       "placeId": "ChIJ6cvqjn6rQjQR2HGtp-pIKbc",
-      "mapUrl": "https://maps.google.com/?cid=13198160355658658264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13198160355658658264&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 336,
       "location": {
         "latitude": 25.0544489,
         "longitude": 121.5416066
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.856Z"
     },
     "哦耶！旁遮普印度餐廳 106臺北市大安區華聲里延吉街137巷18號": {
       "name": "哦耶！旁遮普印度餐廳",
       "destination": "哦耶！旁遮普印度餐廳 106臺北市大安區華聲里延吉街137巷18號",
       "placeId": "ChIJNeFNHUSrQjQR2oenVm1oJ8k",
-      "mapUrl": "https://maps.google.com/?cid=14494668744529774554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14494668744529774554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
-      "reviewCount": 9213,
+      "reviewCount": 9223,
       "location": {
         "latitude": 25.041932,
         "longitude": 121.55518060000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.944Z"
     },
     "維傑 印度餐廳 104臺北市中山區下埤里復興北路432號1樓": {
       "name": "維傑 印度餐廳",
       "destination": "維傑 印度餐廳 104臺北市中山區下埤里復興北路432號1樓",
       "placeId": "ChIJG0xXygarQjQRuv4gcF2dZEQ",
-      "mapUrl": "https://maps.google.com/?cid=4928236916888895162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4928236916888895162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
-      "reviewCount": 14285,
+      "reviewCount": 14289,
       "location": {
         "latitude": 25.063426999999997,
         "longitude": 121.5440765
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.886Z"
     },
     "Cozy Taipei餐酒館 106臺北市大安區敦化南路一段190巷17號1樓19號2樓": {
       "name": "Cozy Taipei餐酒館",
       "destination": "Cozy Taipei餐酒館 106臺北市大安區敦化南路一段190巷17號1樓19號2樓",
       "placeId": "ChIJk4jCMEurQjQR3vnyZGQDQrY",
-      "mapUrl": "https://maps.google.com/?cid=13133063193091045854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13133063193091045854&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
-      "reviewCount": 9608,
+      "reviewCount": 9613,
       "location": {
         "latitude": 25.042708100000002,
         "longitude": 121.54782169999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.916Z"
     },
     "Jee Aayan Nu Indian Restaurant 吉阿亞努印度餐廳 104臺北市中山區下埤里龍江路331巷15號": {
       "name": "Jee Aayan Nu Indian Restaurant 吉阿亞努印度餐廳",
       "destination": "Jee Aayan Nu Indian Restaurant 吉阿亞努印度餐廳 104臺北市中山區下埤里龍江路331巷15號",
       "placeId": "ChIJv9BO7e6rQjQRzagRJUnB00g",
-      "mapUrl": "https://maps.google.com/?cid=5247750510715447501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5247750510715447501&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
       "reviewCount": 3290,
       "location": {
         "latitude": 25.0629092,
         "longitude": 121.54180939999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.000Z"
     },
     "大阪燒肉 燒魂Yakikon林森本店 10491臺北市中山區正義里新生北路一段132號": {
       "name": "大阪燒肉 燒魂Yakikon林森本店",
       "destination": "大阪燒肉 燒魂Yakikon林森本店 10491臺北市中山區正義里新生北路一段132號",
       "placeId": "ChIJST9oPd7QDRQR5tLR0z2wTWo",
-      "mapUrl": "https://maps.google.com/?cid=7659972320820318950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7659972320820318950&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 12844,
+      "reviewCount": 12849,
       "location": {
         "latitude": 25.050994,
         "longitude": 121.52767
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.053Z"
     },
     "巴雷巴雷印度餐廳 105臺北市松山區復勢里光復北路12號1樓": {
       "name": "巴雷巴雷印度餐廳",
       "destination": "巴雷巴雷印度餐廳 105臺北市松山區復勢里光復北路12號1樓",
       "placeId": "ChIJJ-1vL8CrQjQR5-OL_J-WxL8",
-      "mapUrl": "https://maps.google.com/?cid=13818335170560517095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13818335170560517095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 23920,
+      "reviewCount": 23934,
       "location": {
         "latitude": 25.0486993,
         "longitude": 121.55766340000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:39.971Z"
     },
     "四時輕燒肉概念屋 台北最強健康輕燒肉 105臺北市松山區敦化里八德路三段12巷16弄1號1樓": {
       "name": "四時輕燒肉概念屋 台北最強健康輕燒肉",
       "destination": "四時輕燒肉概念屋 台北最強健康輕燒肉 105臺北市松山區敦化里八德路三段12巷16弄1號1樓",
       "placeId": "ChIJCzcFoR2rQjQRghDlBqi2Hwo",
-      "mapUrl": "https://maps.google.com/?cid=729502497443745922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=729502497443745922&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 12904,
+      "reviewCount": 12903,
       "location": {
         "latitude": 25.0470899,
         "longitude": 121.55061699999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.026Z"
     },
     "金咕친구 韓式原塊烤肉 台北西門店 108003臺北市萬華區武昌街二段57號2、3樓": {
       "name": "金咕친구 韓式原塊烤肉 台北西門店",
       "destination": "金咕친구 韓式原塊烤肉 台北西門店 108003臺北市萬華區武昌街二段57號2、3樓",
       "placeId": "ChIJ6fj80s6pQjQRsJ6qmiJsGa0",
-      "mapUrl": "https://maps.google.com/?cid=12473119538858860208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12473119538858860208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 10606,
+      "reviewCount": 10619,
       "location": {
         "latitude": 25.0447708,
         "longitude": 121.50719089999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.132Z"
     },
     "老井極上燒肉 台北信義店 110台北市信义区安康里松仁路101號B1": {
       "name": "老井極上燒肉 台北信義店",
       "destination": "老井極上燒肉 台北信義店 110台北市信义区安康里松仁路101號B1",
       "placeId": "ChIJDRg6PQCrQjQRF5UBQT_vCSE",
-      "mapUrl": "https://maps.google.com/?cid=2380696932994618647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2380696932994618647&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 13204,
+      "reviewCount": 13241,
       "location": {
         "latitude": 25.0362324,
         "longitude": 121.5691896
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.076Z"
     },
     "聚 日式鍋物 台北士林中正店 111臺北市士林區福林里中正路179號": {
       "name": "聚 日式鍋物 台北士林中正店",
       "destination": "聚 日式鍋物 台北士林中正店 111臺北市士林區福林里中正路179號",
       "placeId": "ChIJA3txLQ-vQjQRfs0js-Ul7bs",
-      "mapUrl": "https://maps.google.com/?cid=13541521323056156030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13541521323056156030&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 8880,
+      "reviewCount": 8888,
       "location": {
         "latitude": 25.0955068,
         "longitude": 121.5275873
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.162Z"
     },
     "燒肉眾精緻炭火燒肉 台北西門店 108臺北市萬華區西門里成都路66號2.3樓": {
       "name": "燒肉眾精緻炭火燒肉 台北西門店",
       "destination": "燒肉眾精緻炭火燒肉 台北西門店 108臺北市萬華區西門里成都路66號2.3樓",
       "placeId": "ChIJLcKGwK6pQjQRj_pcPWhlTMQ",
-      "mapUrl": "https://maps.google.com/?cid=14144792028044393103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14144792028044393103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 11589,
       "location": {
         "latitude": 25.042821999999997,
         "longitude": 121.50529499999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.106Z"
     },
     "莎瓦迪卡海鮮.泰 10491臺北市中山區興亞里松江路8號": {
       "name": "莎瓦迪卡海鮮.泰",
       "destination": "莎瓦迪卡海鮮.泰 10491臺北市中山區興亞里松江路8號",
       "placeId": "ChIJOSE2gtGrQjQRELgaM9JC63U",
-      "mapUrl": "https://maps.google.com/?cid=8496958592532527120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8496958592532527120&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 8181,
       "location": {
         "latitude": 25.046497799999997,
         "longitude": 121.5327323
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.191Z"
     },
     "豆町村燒肉 10696臺北市大安區華聲里延吉街131巷27號1樓": {
       "name": "豆町村燒肉",
       "destination": "豆町村燒肉 10696臺北市大安區華聲里延吉街131巷27號1樓",
       "placeId": "ChIJz6YB9QirQjQRZQNP7V47Op0",
-      "mapUrl": "https://maps.google.com/?cid=11329433091498247013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11329433091498247013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_TEMPORARILY",
       "rating": 4.9,
-      "reviewCount": 1474,
+      "reviewCount": 1475,
       "location": {
         "latitude": 25.0428672,
         "longitude": 121.5553123
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.246Z"
     },
     "橋山.壽喜燒 すき焼き專門店 はしやま 106臺北市大安區龍圖里瑞安街120巷3弄1號": {
       "name": "橋山.壽喜燒 すき焼き專門店 はしやま",
       "destination": "橋山.壽喜燒 すき焼き專門店 はしやま 106臺北市大安區龍圖里瑞安街120巷3弄1號",
       "placeId": "ChIJeWGuwy2rQjQRIqIHy4T00wE",
-      "mapUrl": "https://maps.google.com/?cid=131717665303011874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=131717665303011874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 7080,
+      "reviewCount": 7085,
       "location": {
         "latitude": 25.0298882,
         "longitude": 121.54243679999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.217Z"
     },
     "雙月食品社 濟南店 100臺北市中正區幸福里濟南路一段7號1樓": {
       "name": "雙月食品社 濟南店",
       "destination": "雙月食品社 濟南店 100臺北市中正區幸福里濟南路一段7號1樓",
       "placeId": "ChIJu98loqipQjQRF3IXpB6aGI8",
-      "mapUrl": "https://maps.google.com/?cid=10311160803257446935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10311160803257446935&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 25465,
+      "reviewCount": 25470,
       "location": {
         "latitude": 25.042732899999997,
         "longitude": 121.52191270000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.275Z"
     },
     "岡心食堂 106臺北市大安區光武里敦化南路一段190巷43號1樓": {
       "name": "岡心食堂",
       "destination": "岡心食堂 106臺北市大安區光武里敦化南路一段190巷43號1樓",
       "placeId": "ChIJad0qbLarQjQROo8t5fAtfhE",
-      "mapUrl": "https://maps.google.com/?cid=1260495458370686778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1260495458370686778&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 4967,
       "location": {
         "latitude": 25.0427705,
         "longitude": 121.5470538
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.355Z"
     },
     "味擂家みらい家日式料理 士林店（無訂位服務） 111臺北市士林區舊佳里福壽街1號1樓": {
       "name": "味擂家みらい家日式料理 士林店（無訂位服務）",
       "destination": "味擂家みらい家日式料理 士林店（無訂位服務） 111臺北市士林區舊佳里福壽街1號1樓",
       "placeId": "ChIJWW34AmGvQjQRPpdckEU-j7Q",
-      "mapUrl": "https://maps.google.com/?cid=13010686316992304958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13010686316992304958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 5208,
+      "reviewCount": 5216,
       "location": {
         "latitude": 25.0955419,
         "longitude": 121.5256736
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.301Z"
     },
     "大鵬壽司 10561臺北市松山區吉祥里八德路四段245巷32弄49號": {
       "name": "大鵬壽司",
       "destination": "大鵬壽司 10561臺北市松山區吉祥里八德路四段245巷32弄49號",
       "placeId": "ChIJPxtqjXurQjQRVFC7Av8hfpg",
-      "mapUrl": "https://maps.google.com/?cid=10988257519976796244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10988257519976796244&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 5189,
+      "reviewCount": 5188,
       "location": {
         "latitude": 25.049785699999997,
         "longitude": 121.56317949999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.381Z"
     },
     "辣吉點正宗成都串串香林森條通店 104臺北市中山區正義里林森北路119巷2號": {
       "name": "辣吉點正宗成都串串香林森條通店",
       "destination": "辣吉點正宗成都串串香林森條通店 104臺北市中山區正義里林森北路119巷2號",
       "placeId": "ChIJc8djj5qpQjQRAGYWiEriv_w",
-      "mapUrl": "https://maps.google.com/?cid=18212524227848201728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18212524227848201728&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 5140,
+      "reviewCount": 5142,
       "location": {
         "latitude": 25.0506328,
         "longitude": 121.5253152
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.329Z"
     },
     "夜色Talking Bar 10694臺北市大安區正聲里光復南路308巷49號": {
       "name": "夜色Talking Bar",
       "destination": "夜色Talking Bar 10694臺北市大安區正聲里光復南路308巷49號",
       "placeId": "ChIJxwbLOEarQjQR2o3HR0Ev-Tk",
-      "mapUrl": "https://maps.google.com/?cid=4177422086786485722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4177422086786485722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
       "reviewCount": 1083,
       "location": {
         "latitude": 25.038795,
         "longitude": 121.5557103
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.410Z"
     },
     "山上走走 日式燒肉台北華山店 100臺北市中正區幸福里金山南路一段8號": {
       "name": "山上走走 日式燒肉台北華山店",
       "destination": "山上走走 日式燒肉台北華山店 100臺北市中正區幸福里金山南路一段8號",
       "placeId": "ChIJJ1Hcl7OpQjQR3Aj7-220DyA",
-      "mapUrl": "https://maps.google.com/?cid=2310263518336321756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2310263518336321756&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 14403,
+      "reviewCount": 14402,
       "location": {
         "latitude": 25.042295100000004,
         "longitude": 121.5293369
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.506Z"
     },
     "106HARBOR美式海鮮餐廳 106臺北市大安區敦煌里安和路一段127巷29弄13號1樓": {
       "name": "106HARBOR美式海鮮餐廳",
       "destination": "106HARBOR美式海鮮餐廳 106臺北市大安區敦煌里安和路一段127巷29弄13號1樓",
       "placeId": "ChIJi-wf3OCrQjQRqlPSWwyJzgA",
-      "mapUrl": "https://maps.google.com/?cid=58134531375518634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=58134531375518634&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 3471,
       "location": {
         "latitude": 25.035675299999998,
         "longitude": 121.55360719999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.475Z"
     },
     "發肉燒肉餐酒忠孝二店 106臺北市大安區建倫里忠孝東路四段170巷17弄12號1樓": {
       "name": "發肉燒肉餐酒忠孝二店",
       "destination": "發肉燒肉餐酒忠孝二店 106臺北市大安區建倫里忠孝東路四段170巷17弄12號1樓",
       "placeId": "ChIJj7X55harQjQRrPcjxgWOgDg",
-      "mapUrl": "https://maps.google.com/?cid=4071410218593154988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4071410218593154988&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 3723,
+      "reviewCount": 3724,
       "location": {
         "latitude": 25.0398269,
         "longitude": 121.551468
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.437Z"
     },
     "士林貳貳參丼飯 111臺北市士林區福林里中正路223巷11號": {
       "name": "士林貳貳參丼飯",
       "destination": "士林貳貳參丼飯 111臺北市士林區福林里中正路223巷11號",
       "placeId": "ChIJSxHVM_OvQjQRVXbGAenRppE",
-      "mapUrl": "https://maps.google.com/?cid=10495306780320888405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10495306780320888405&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 3186,
+      "reviewCount": 3185,
       "location": {
         "latitude": 25.0949137,
         "longitude": 121.52643189999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.533Z"
     },
     "來吧台北日式暢飲餐酒館 110臺北市信義區正和里光復南路415巷4號": {
       "name": "來吧台北日式暢飲餐酒館",
       "destination": "來吧台北日式暢飲餐酒館 110臺北市信義區正和里光復南路415巷4號",
       "placeId": "ChIJ-YN_QsirQjQRbdUKc_4n_cw",
-      "mapUrl": "https://maps.google.com/?cid=14771006326650361197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14771006326650361197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 2816,
       "location": {
         "latitude": 25.0371557,
         "longitude": 121.55793449999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.562Z"
     },
     "Echo Chamber Club 無心戒酒互助會 - 同溫層俱樂部 108臺北市萬華區成都路27巷4號": {
       "name": "Echo Chamber Club 無心戒酒互助會 - 同溫層俱樂部",
       "destination": "Echo Chamber Club 無心戒酒互助會 - 同溫層俱樂部 108臺北市萬華區成都路27巷4號",
       "placeId": "ChIJGc_mtbqpQjQRADEyywlMVzc",
-      "mapUrl": "https://maps.google.com/?cid=3987739600007344384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3987739600007344384&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 3031,
+      "reviewCount": 3038,
       "location": {
         "latitude": 25.042808299999997,
         "longitude": 121.506803
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.588Z"
     },
     "金春喜韓廚 10491臺北市中山區大直里大直街62巷2號": {
       "name": "金春喜韓廚",
       "destination": "金春喜韓廚 10491臺北市中山區大直里大直街62巷2號",
       "placeId": "ChIJb9xkl3WtQjQRrsHNVeLTx-8",
-      "mapUrl": "https://maps.google.com/?cid=17278011464485814702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17278011464485814702&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 2645,
+      "reviewCount": 2646,
       "location": {
         "latitude": 25.082832099999997,
         "longitude": 121.54623919999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.627Z"
     },
     "Book ing 中山 103臺北市大同區民生西路78號二樓之4 ～我們在2樓": {
       "name": "Book ing 中山",
       "destination": "Book ing 中山 103臺北市大同區民生西路78號二樓之4 ～我們在2樓",
       "placeId": "ChIJTccAEoupQjQRYFtsS1MLYsQ",
-      "mapUrl": "https://maps.google.com/?cid=14150885431527103328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14150885431527103328&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 1884,
       "location": {
         "latitude": 25.057482999999998,
         "longitude": 121.52035590000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.654Z"
     },
     "HELP Bar & Cafe 108臺北市萬華區萬壽里西寧南路50巷3號3樓": {
       "name": "HELP Bar & Cafe",
       "destination": "HELP Bar & Cafe 108臺北市萬華區萬壽里西寧南路50巷3號3樓",
       "placeId": "ChIJeQ2ZPcWpQjQR9CIDyjxAE3A",
-      "mapUrl": "https://maps.google.com/?cid=8075869186636849908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8075869186636849908&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 416,
       "location": {
         "latitude": 25.0444495,
         "longitude": 121.5058915
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.708Z"
     },
     "草原風蒙古火鍋 111臺北市士林區承德里後港街35號": {
       "name": "草原風蒙古火鍋",
       "destination": "草原風蒙古火鍋 111臺北市士林區承德里後港街35號",
       "placeId": "ChIJZzHJK7KuQjQR6HSBFpnqJHs",
-      "mapUrl": "https://maps.google.com/?cid=8873475109055198440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8873475109055198440&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 6311,
+      "reviewCount": 6312,
       "location": {
         "latitude": 25.0836582,
         "longitude": 121.5230213
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.735Z"
     },
     "魚擺擺重慶火鍋 10491臺北市中山區長安東路一段87號": {
       "name": "魚擺擺重慶火鍋",
       "destination": "魚擺擺重慶火鍋 10491臺北市中山區長安東路一段87號",
       "placeId": "ChIJqzq0M96pQjQR0eoJPJvpx18",
-      "mapUrl": "https://maps.google.com/?cid=6901741806905060049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6901741806905060049&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 1515,
+      "reviewCount": 1516,
       "location": {
         "latitude": 25.0483433,
         "longitude": 121.52870179999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.764Z"
     },
     "肉老大頂級肉品涮涮鍋 台北中山火鍋店 104臺北市中山區集英里錦西街11號": {
       "name": "肉老大頂級肉品涮涮鍋 台北中山火鍋店",
       "destination": "肉老大頂級肉品涮涮鍋 台北中山火鍋店 104臺北市中山區集英里錦西街11號",
       "placeId": "ChIJs0upykOpQjQRz3wj84Zundo",
-      "mapUrl": "https://maps.google.com/?cid=15752868597495725263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15752868597495725263&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 7592,
+      "reviewCount": 7594,
       "location": {
         "latitude": 25.0604096,
         "longitude": 121.52127809999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.682Z"
     },
     "小聚人x涮涮鍋 111臺北市士林區福佳里文林路527號1樓": {
       "name": "小聚人x涮涮鍋",
       "destination": "小聚人x涮涮鍋 111臺北市士林區福佳里文林路527號1樓",
       "placeId": "ChIJg10Jb_6vQjQRdk2voN26lqA",
-      "mapUrl": "https://maps.google.com/?cid=11571641753621450102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11571641753621450102&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 1345,
       "location": {
         "latitude": 25.097122000000002,
         "longitude": 121.52395279999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.846Z"
     },
     "癒所 108台北市万华区和平里双园街49巷7號1 樓": {
       "name": "癒所",
       "destination": "癒所 108台北市万华区和平里双园街49巷7號1 樓",
       "placeId": "ChIJZWe9OjWpQjQR0EQ3V1TwDvw",
-      "mapUrl": "https://maps.google.com/?cid=18162718592262948048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18162718592262948048&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 5,
       "reviewCount": 369,
       "location": {
         "latitude": 25.0299013,
         "longitude": 121.49459639999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.793Z"
     },
     "梨谷韓式鐵板烤肉 忠孝總店 110臺北市信義區永春里忠孝東路五段699號": {
       "name": "梨谷韓式鐵板烤肉 忠孝總店",
       "destination": "梨谷韓式鐵板烤肉 忠孝總店 110臺北市信義區永春里忠孝東路五段699號",
       "placeId": "ChIJeahVgUSrQjQRBv_WbkHfDRU",
-      "mapUrl": "https://maps.google.com/?cid=1517114121619177222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1517114121619177222&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 5938,
+      "reviewCount": 5944,
       "location": {
         "latitude": 25.0423518,
         "longitude": 121.580102
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.818Z"
     },
     "樂釜 Love Hot Pot 極上鍋物(芝山店) 111臺北市士林區德行里福國路42號": {
       "name": "樂釜 Love Hot Pot 極上鍋物(芝山店)",
       "destination": "樂釜 Love Hot Pot 極上鍋物(芝山店) 111臺北市士林區德行里福國路42號",
       "placeId": "ChIJZUcmN36pQjQRJW2uswqTQLw",
-      "mapUrl": "https://maps.google.com/?cid=13565003751813442853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13565003751813442853&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 1418,
+      "reviewCount": 1420,
       "location": {
         "latitude": 25.1022589,
         "longitude": 121.523992
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.876Z"
     },
     "君曜雞湯 110臺北市信義區中興里信義路四段393號": {
       "name": "君曜雞湯",
       "destination": "君曜雞湯 110臺北市信義區中興里信義路四段393號",
       "placeId": "ChIJD5nUagCrQjQRifr0hJF5Yio",
-      "mapUrl": "https://maps.google.com/?cid=3054137163218483849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3054137163218483849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 1368,
+      "reviewCount": 1374,
       "location": {
         "latitude": 25.033307999999998,
         "longitude": 121.55850729999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.983Z"
     },
     "URBAN PARADISE 信義店 110臺北市信義區興雅里松高路11號5樓": {
       "name": "URBAN PARADISE 信義店",
       "destination": "URBAN PARADISE 信義店 110臺北市信義區興雅里松高路11號5樓",
       "placeId": "ChIJnea3ei-rQjQRJJpRyMTUlEE",
-      "mapUrl": "https://maps.google.com/?cid=4725635850657962532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4725635850657962532&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 6749,
+      "reviewCount": 6770,
       "location": {
         "latitude": 25.0397197,
         "longitude": 121.5658739
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.930Z"
     },
     "馬友友印度快餐店 Dhaba by MIK 105臺北市松山區復勢里光復北路10號": {
       "name": "馬友友印度快餐店 Dhaba by MIK",
       "destination": "馬友友印度快餐店 Dhaba by MIK 105臺北市松山區復勢里光復北路10號",
       "placeId": "ChIJ_VhAK9GpQjQRgkQFRTEdgDE",
-      "mapUrl": "https://maps.google.com/?cid=3566883002326008962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3566883002326008962&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
-      "rating": 4.9,
-      "reviewCount": 1288,
+      "rating": 4.8,
+      "reviewCount": 1289,
       "location": {
         "latitude": 25.0486453,
         "longitude": 121.5576508
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.905Z"
     },
     "Twozzim韓國燉雞 110臺北市信義區西村里松壽路12號4 樓": {
       "name": "Twozzim韓國燉雞",
       "destination": "Twozzim韓國燉雞 110臺北市信義區西村里松壽路12號4 樓",
       "placeId": "ChIJJ4zWvACrQjQRfklXErrIHi0",
-      "mapUrl": "https://maps.google.com/?cid=3251256682505259390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3251256682505259390&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 1248,
       "location": {
         "latitude": 25.03531,
         "longitude": 121.5660665
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:40.957Z"
     },
     "高野家日本小料理 Japanese Cuisine 106臺北市大安區義安里敦化南路二段63巷57號": {
       "name": "高野家日本小料理 Japanese Cuisine",
       "destination": "高野家日本小料理 Japanese Cuisine 106臺北市大安區義安里敦化南路二段63巷57號",
       "placeId": "ChIJC7_SPDarQjQRfPfiDuE0EJg",
-      "mapUrl": "https://maps.google.com/?cid=10957316034614458236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10957316034614458236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 884,
+      "reviewCount": 885,
       "location": {
         "latitude": 25.0310667,
         "longitude": 121.55164870000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.099Z"
     },
     "天鍋宴芝山店 111臺北市士林區德行里中山北路六段35巷27號": {
       "name": "天鍋宴芝山店",
       "destination": "天鍋宴芝山店 111臺北市士林區德行里中山北路六段35巷27號",
       "placeId": "ChIJibGuaJeuQjQRdesDerAUGkE",
-      "mapUrl": "https://maps.google.com/?cid=4691084710053669749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4691084710053669749&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 4248,
+      "reviewCount": 4252,
       "location": {
         "latitude": 25.102995,
         "longitude": 121.52484399999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.071Z"
     },
     "仨弄砂鍋煲 106臺北市大安區昌隆里忠孝東路三段217巷3弄22號1樓": {
       "name": "仨弄砂鍋煲",
       "destination": "仨弄砂鍋煲 106臺北市大安區昌隆里忠孝東路三段217巷3弄22號1樓",
       "placeId": "ChIJf1onFgCrQjQRbMXYAbT7kqM",
-      "mapUrl": "https://maps.google.com/?cid=11786759925325677932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11786759925325677932&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 1067,
+      "reviewCount": 1070,
       "location": {
         "latitude": 25.04297,
         "longitude": 121.53856999999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.043Z"
     },
     "花嶼輕食館Flower Island Brunch 111臺北市士林區福林里中正路235巷9號": {
       "name": "花嶼輕食館Flower Island Brunch",
       "destination": "花嶼輕食館Flower Island Brunch 111臺北市士林區福林里中正路235巷9號",
       "placeId": "ChIJ45oJLh6vQjQRirxG0KgMRp8",
-      "mapUrl": "https://maps.google.com/?cid=11476874619588623498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11476874619588623498&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 1160,
       "location": {
         "latitude": 25.0948742,
         "longitude": 121.5261247
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.010Z"
     },
     "鍋老師 台式國民鍋 111臺北市士林區舊佳里美德街68號": {
       "name": "鍋老師 台式國民鍋",
       "destination": "鍋老師 台式國民鍋 111臺北市士林區舊佳里美德街68號",
       "placeId": "ChIJ3b4TCbKvQjQRZxPkGytvLmg",
-      "mapUrl": "https://maps.google.com/?cid=7507059859815404391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7507059859815404391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2033,
+      "reviewCount": 2039,
       "location": {
         "latitude": 25.095725299999998,
         "longitude": 121.52527159999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.182Z"
     },
     "石石鍋創 105臺北市松山區中華里敦化北路155巷12號": {
       "name": "石石鍋創",
       "destination": "石石鍋創 105臺北市松山區中華里敦化北路155巷12號",
       "placeId": "ChIJd0gn6emrQjQRE0y9wuH7rlM",
-      "mapUrl": "https://maps.google.com/?cid=6030033898149071891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6030033898149071891&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 3344,
       "location": {
         "latitude": 25.054412,
         "longitude": 121.55090799999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.127Z"
     },
     "來賓 印度餐廳和酒吧 106臺北市大安區虎嘯里和平東路三段34號": {
       "name": "來賓 印度餐廳和酒吧",
       "destination": "來賓 印度餐廳和酒吧 106臺北市大安區虎嘯里和平東路三段34號",
       "placeId": "ChIJaUYcX82rQjQRSvwF_TroImQ",
-      "mapUrl": "https://maps.google.com/?cid=7215584893051731018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7215584893051731018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 817,
       "location": {
         "latitude": 25.0243827,
         "longitude": 121.5475791
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.209Z"
     },
     "泰舍 泰式料理 104臺北市中山區正得里南京東路一段24號2樓": {
       "name": "泰舍 泰式料理",
       "destination": "泰舍 泰式料理 104臺北市中山區正得里南京東路一段24號2樓",
       "placeId": "ChIJl15-vK0BaDQRugXYZ7Bils8",
-      "mapUrl": "https://maps.google.com/?cid=14958251722153657786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14958251722153657786&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 3899,
+      "reviewCount": 3903,
       "location": {
         "latitude": 25.0519003,
         "longitude": 121.52367459999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.155Z"
     },
     "三分半海鮮鍋物 110臺北市信義區興雅里基隆路一段147巷5弄9號": {
       "name": "三分半海鮮鍋物",
       "destination": "三分半海鮮鍋物 110臺北市信義區興雅里基隆路一段147巷5弄9號",
       "placeId": "ChIJQfEpbRCrQjQRlmtmfIQ9kIk",
-      "mapUrl": "https://maps.google.com/?cid=9912490419074526102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9912490419074526102&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 779,
       "location": {
         "latitude": 25.042799499999997,
         "longitude": 121.56615029999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.237Z"
     },
     "VELA Thai Cuisine 泰式料理 110臺北市信義區興雅里忠孝東路五段71巷16號": {
       "name": "VELA Thai Cuisine 泰式料理",
       "destination": "VELA Thai Cuisine 泰式料理 110臺北市信義區興雅里忠孝東路五段71巷16號",
       "placeId": "ChIJm7V6ug2rQjQRKgElo4h1J-A",
-      "mapUrl": "https://maps.google.com/?cid=16152007818300686634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16152007818300686634&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1054,
+      "reviewCount": 1094,
       "location": {
         "latitude": 25.0420873,
         "longitude": 121.56723969999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.264Z"
     },
     "童裏心柑仔店 106臺北市大安區忠孝東路四段223巷20弄3號": {
       "name": "童裏心柑仔店",
       "destination": "童裏心柑仔店 106臺北市大安區忠孝東路四段223巷20弄3號",
       "placeId": "ChIJNzkXf0SrQjQREtl9gse8gfo",
-      "mapUrl": "https://maps.google.com/?cid=18050916346551458066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18050916346551458066&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 2971,
       "location": {
         "latitude": 25.0425816,
         "longitude": 121.55318940000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.293Z"
     },
     "八和和牛燒肉專門店 敦北二號店 10547台北市松山區中正里敦化北路100號": {
       "name": "八和和牛燒肉專門店 敦北二號店",
       "destination": "八和和牛燒肉專門店 敦北二號店 10547台北市松山區中正里敦化北路100號",
       "placeId": "ChIJOw7k4y6rQjQRyc4JtlLbAkQ",
-      "mapUrl": "https://maps.google.com/?cid=4900720492820418249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4900720492820418249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 730,
+      "reviewCount": 731,
       "location": {
         "latitude": 25.052405,
         "longitude": 121.5484522
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.308Z"
     },
     "林居sushi日本料理 永吉店 110臺北市信義區敦厚里永吉路30巷91號": {
       "name": "林居sushi日本料理 永吉店",
       "destination": "林居sushi日本料理 永吉店 110臺北市信義區敦厚里永吉路30巷91號",
       "placeId": "ChIJZSnJbYWrQjQRl8oNo7MZKg0",
-      "mapUrl": "https://maps.google.com/?cid=948598930840341143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=948598930840341143&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2952,
+      "reviewCount": 2954,
       "location": {
         "latitude": 25.0438187,
         "longitude": 121.5688902
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.337Z"
     },
     "享聚餐廳 106臺北市大安區民輝里新生南路一段1號2樓": {
       "name": "享聚餐廳",
       "destination": "享聚餐廳 106臺北市大安區民輝里新生南路一段1號2樓",
       "placeId": "ChIJ2coWQQCpQjQRZDRsLpEb9tw",
-      "mapUrl": "https://maps.google.com/?cid=15921943842978018404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15921943842978018404&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 645,
       "location": {
         "latitude": 25.044019,
         "longitude": 121.53322700000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.362Z"
     },
     "四月餐酒館 Fuzzy April Restaurant & Bar 105049臺北市松山區吉仁里市民大道四段213號1樓": {
       "name": "四月餐酒館 Fuzzy April Restaurant & Bar",
       "destination": "四月餐酒館 Fuzzy April Restaurant & Bar 105049臺北市松山區吉仁里市民大道四段213號1樓",
       "placeId": "ChIJG3WAX5irQjQRsO_PIrXPmuI",
-      "mapUrl": "https://maps.google.com/?cid=16328591775865237424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16328591775865237424&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 603,
+      "reviewCount": 604,
       "location": {
         "latitude": 25.0446928,
         "longitude": 121.55302920000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.392Z"
     },
     "許雪莉泰國時尚餐廳 10442臺北市中山區新生北路一段66號1樓": {
       "name": "許雪莉泰國時尚餐廳",
       "destination": "許雪莉泰國時尚餐廳 10442臺北市中山區新生北路一段66號1樓",
       "placeId": "ChIJYTYD2p6pQjQRnAnwEGs0XIE",
-      "mapUrl": "https://maps.google.com/?cid=9321382963200395676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9321382963200395676&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2339,
       "location": {
         "latitude": 25.0471409,
         "longitude": 121.5303009
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.417Z"
     },
     "如嬌 花膠雞．鍋物 民權一店 104臺北市中山區民權東路三段60巷9號1樓": {
       "name": "如嬌 花膠雞．鍋物 民權一店",
       "destination": "如嬌 花膠雞．鍋物 民權一店 104臺北市中山區民權東路三段60巷9號1樓",
       "placeId": "ChIJByLqV0urQjQRpIljRejAfus",
-      "mapUrl": "https://maps.google.com/?cid=16969212549807704484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16969212549807704484&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2271,
+      "reviewCount": 2272,
       "location": {
         "latitude": 25.0609117,
         "longitude": 121.5425029
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.451Z"
     },
     "上吉燒肉 106臺北市大安區華聲里延吉街131巷41號": {
       "name": "上吉燒肉",
       "destination": "上吉燒肉 106臺北市大安區華聲里延吉街131巷41號",
       "placeId": "ChIJB-t4jmirQjQRfoBtXcLxAEM",
-      "mapUrl": "https://maps.google.com/?cid=4828124617634578558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4828124617634578558&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2079,
+      "reviewCount": 2080,
       "location": {
         "latitude": 25.0429578,
         "longitude": 121.5558226
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.504Z"
     },
     "ATITHI INDIAN CUISINE  來賓 印度餐廳 （忠孝復興店 ） 106臺北市大安區光武里復興南路一段71號2樓": {
       "name": "ATITHI INDIAN CUISINE  來賓 印度餐廳 （忠孝復興店 ）",
       "destination": "ATITHI INDIAN CUISINE  來賓 印度餐廳 （忠孝復興店 ） 106臺北市大安區光武里復興南路一段71號2樓",
       "placeId": "ChIJ1cVOBUCrQjQRw-TNrUZqOqw",
-      "mapUrl": "https://maps.google.com/?cid=12410348574969029827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12410348574969029827&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 565,
       "location": {
         "latitude": 25.0446632,
         "longitude": 121.5441372
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.477Z"
     },
     "Moni咖哩 103臺北市大同區永樂里西寧北路63號1樓2樓": {
       "name": "Moni咖哩",
       "destination": "Moni咖哩 103臺北市大同區永樂里西寧北路63號1樓2樓",
       "placeId": "ChIJp6WvuNWpQjQRfupqxOY5xMk",
-      "mapUrl": "https://maps.google.com/?cid=14538809160359406206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14538809160359406206&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2231,
+      "reviewCount": 2237,
       "location": {
         "latitude": 25.054623799999998,
         "longitude": 121.50891449999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.535Z"
     },
     "ComingBistro 105臺北市松山區光復南路55號1樓": {
       "name": "ComingBistro",
       "destination": "ComingBistro 105臺北市松山區光復南路55號1樓",
       "placeId": "ChIJv0SiDuOrQjQREODIU_aG17Q",
-      "mapUrl": "https://maps.google.com/?cid=13031032439345569808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13031032439345569808&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 455,
       "location": {
         "latitude": 25.045903,
         "longitude": 121.55802670000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.567Z"
     },
     "一彤麻辣鴛鴦涮涮屋 11158臺北市士林區德行里福國路9號1樓": {
       "name": "一彤麻辣鴛鴦涮涮屋",
       "destination": "一彤麻辣鴛鴦涮涮屋 11158臺北市士林區德行里福國路9號1樓",
       "placeId": "ChIJ-2YFalOvQjQRdnjdVHtcwdY",
-      "mapUrl": "https://maps.google.com/?cid=15474751479396268150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15474751479396268150&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1818,
       "location": {
         "latitude": 25.1020884,
         "longitude": 121.52491839999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.594Z"
     },
     "采品軒 精緻鍋物·壽喜燒 111臺北市士林區蘭興里中山北路六段175號": {
       "name": "采品軒 精緻鍋物·壽喜燒",
       "destination": "采品軒 精緻鍋物·壽喜燒 111臺北市士林區蘭興里中山北路六段175號",
       "placeId": "ChIJf642pE6vQjQRp6CtMQys16U",
-      "mapUrl": "https://maps.google.com/?cid=11950209304623947943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11950209304623947943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 406,
       "location": {
         "latitude": 25.107501499999998,
         "longitude": 121.5248673
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.625Z"
     },
     "梁湯港式煲湯火鍋 105臺北市松山區中正里八德路二段451巷1號": {
       "name": "梁湯港式煲湯火鍋",
       "destination": "梁湯港式煲湯火鍋 105臺北市松山區中正里八德路二段451巷1號",
       "placeId": "ChIJ-7IznQOrQjQRpNFnuP75WpE",
-      "mapUrl": "https://maps.google.com/?cid=10473958755814330788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10473958755814330788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1712,
       "location": {
         "latitude": 25.0485585,
         "longitude": 121.54728069999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.653Z"
     },
     "ㄧ鍋小築 111臺北市士林區仁勇里福德路17號": {
       "name": "ㄧ鍋小築",
       "destination": "ㄧ鍋小築 111臺北市士林區仁勇里福德路17號",
       "placeId": "ChIJM5_m31OvQjQR9OfVxsDXq8U",
-      "mapUrl": "https://maps.google.com/?cid=14243715469458925556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14243715469458925556&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 445,
       "location": {
         "latitude": 25.0921946,
         "longitude": 121.52568380000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.682Z"
     },
     "Joiny Taipei 招台北餐酒館 106臺北市大安區大安路一段73號2樓": {
       "name": "Joiny Taipei 招台北餐酒館",
       "destination": "Joiny Taipei 招台北餐酒館 106臺北市大安區大安路一段73號2樓",
       "placeId": "ChIJL8XQG96rQjQR3Pefv2NemuQ",
-      "mapUrl": "https://maps.google.com/?cid=16472582369570715612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16472582369570715612&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1579,
+      "reviewCount": 1581,
       "location": {
         "latitude": 25.0423018,
         "longitude": 121.54631850000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.718Z"
     },
     "6 110臺北市信義區逸仙路50巷18號": {
       "name": "6",
       "destination": "6 110臺北市信義區逸仙路50巷18號",
       "placeId": "ChIJZVGPdlCrQjQRYQbyyBX7IaI",
-      "mapUrl": "https://maps.google.com/?cid=11682894979359966817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11682894979359966817&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1440,
+      "reviewCount": 1441,
       "location": {
         "latitude": 25.0405092,
         "longitude": 121.5626557
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.802Z"
     },
     "漢陽韓式陶盤烤肉 한양불고기전문점 106臺北市大安區建倫里仁愛路四段345巷4弄23號": {
       "name": "漢陽韓式陶盤烤肉 한양불고기전문점",
       "destination": "漢陽韓式陶盤烤肉 한양불고기전문점 106臺北市大安區建倫里仁愛路四段345巷4弄23號",
       "placeId": "ChIJX5WUMgCrQjQRuIJBSfVDolc",
-      "mapUrl": "https://maps.google.com/?cid=6314684348301935288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6314684348301935288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 405,
       "location": {
         "latitude": 25.0390996,
         "longitude": 121.5524155
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.753Z"
     },
     "八和和牛燒肉專門店-安和本店 106臺北市大安區敦安里安和路一段102巷4號": {
       "name": "八和和牛燒肉專門店-安和本店",
       "destination": "八和和牛燒肉專門店-安和本店 106臺北市大安區敦安里安和路一段102巷4號",
       "placeId": "ChIJE1LImuCrQjQRGSzP6ydyfZM",
-      "mapUrl": "https://maps.google.com/?cid=10627776211449752601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10627776211449752601&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1562,
+      "reviewCount": 1563,
       "location": {
         "latitude": 25.034156499999998,
         "longitude": 121.5519477
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.769Z"
     },
     "麵屋技庵 10491臺北市中山區大直里大直街18號": {
       "name": "麵屋技庵",
       "destination": "麵屋技庵 10491臺北市中山區大直里大直街18號",
       "placeId": "ChIJyZbq2WWtQjQRyfvDoL6CN6Q",
-      "mapUrl": "https://maps.google.com/?cid=11833070301191863241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11833070301191863241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1435,
       "location": {
         "latitude": 25.081288999999998,
         "longitude": 121.54628400000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.831Z"
     },
     "心丰御膳日式料理 108臺北市萬華區保德里長泰街139巷2-1號1樓": {
       "name": "心丰御膳日式料理",
       "destination": "心丰御膳日式料理 108臺北市萬華區保德里長泰街139巷2-1號1樓",
       "placeId": "ChIJKwrqFtKpQjQRDhIb7ij_8ks",
-      "mapUrl": "https://maps.google.com/?cid=5472717048467100174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5472717048467100174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 350,
       "location": {
         "latitude": 25.0220535,
         "longitude": 121.49742780000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.862Z"
     },
     "喫・東西 Cucina 111臺北市士林區德行里中山北路六段35巷25號": {
       "name": "喫・東西 Cucina",
       "destination": "喫・東西 Cucina 111臺北市士林區德行里中山北路六段35巷25號",
       "placeId": "ChIJy6kHWkavQjQRWAo3ix9rCWI",
-      "mapUrl": "https://maps.google.com/?cid=7064295273731131992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7064295273731131992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 314,
       "location": {
         "latitude": 25.1030569,
         "longitude": 121.52483099999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.890Z"
     },
     "本家BORNGA韓式燒肉 敦南店 106臺北市大安區建安里市民大道四段102號": {
       "name": "本家BORNGA韓式燒肉 敦南店",
       "destination": "本家BORNGA韓式燒肉 敦南店 106臺北市大安區建安里市民大道四段102號",
       "placeId": "ChIJaTF2eQerQjQRI260nTdySlg",
-      "mapUrl": "https://maps.google.com/?cid=6362023006808862243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6362023006808862243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 5847,
+      "reviewCount": 5858,
       "location": {
         "latitude": 25.044463,
         "longitude": 121.54997889999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.917Z"
     },
     "說故事黃金雞湯鍋 106臺北市大安區建安里忠孝東路四段181巷40弄13號": {
       "name": "說故事黃金雞湯鍋",
       "destination": "說故事黃金雞湯鍋 106臺北市大安區建安里忠孝東路四段181巷40弄13號",
       "placeId": "ChIJgTdWJZWrQjQRD85HeKVlE2w",
-      "mapUrl": "https://maps.google.com/?cid=7787679942015700495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7787679942015700495&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1362,
+      "reviewCount": 1364,
       "location": {
         "latitude": 25.0440741,
         "longitude": 121.54988010000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.944Z"
     },
     "印度蘭異國料理 104臺北市中山區正得里長安東路一段19號2樓": {
       "name": "印度蘭異國料理",
       "destination": "印度蘭異國料理 104臺北市中山區正得里長安東路一段19號2樓",
       "placeId": "ChIJVdcHlsmpQjQRNzhCR2lg4a8",
-      "mapUrl": "https://maps.google.com/?cid=12673516831680641079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12673516831680641079&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1354,
+      "reviewCount": 1357,
       "location": {
         "latitude": 25.049732799999997,
         "longitude": 121.52311669999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:41.973Z"
     },
     "燒肉中山 11051臺北市信義區松壽路12號10樓ATT4Fun": {
       "name": "燒肉中山",
       "destination": "燒肉中山 11051臺北市信義區松壽路12號10樓ATT4Fun",
       "placeId": "ChIJPTb63QurQjQR0im9oA2FXp4",
-      "mapUrl": "https://maps.google.com/?cid=11411704799381236178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11411704799381236178&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 5285,
+      "reviewCount": 5293,
       "location": {
         "latitude": 25.03531,
         "longitude": 121.5660665
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.002Z"
     },
     "長春亰華海鮮餐廳 10491臺北市中山區康樂里長春路26號": {
       "name": "長春亰華海鮮餐廳",
       "destination": "長春亰華海鮮餐廳 10491臺北市中山區康樂里長春路26號",
       "placeId": "ChIJ_QSp5uWpQjQRRuAnY7GgxAY",
-      "mapUrl": "https://maps.google.com/?cid=487691343396069446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=487691343396069446&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1421,
+      "reviewCount": 1427,
       "location": {
         "latitude": 25.054852,
         "longitude": 121.52446189999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.030Z"
     },
     "歡樂便所主題餐廳 111臺北市士林區仁勇里文林路173號2F": {
       "name": "歡樂便所主題餐廳",
       "destination": "歡樂便所主題餐廳 111臺北市士林區仁勇里文林路173號2F",
       "placeId": "ChIJd9QKFaWuQjQRLPGO-ltaXj4",
-      "mapUrl": "https://maps.google.com/?cid=4494128829254529324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4494128829254529324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 4731,
+      "reviewCount": 4733,
       "location": {
         "latitude": 25.089589099999998,
         "longitude": 121.52683329999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.056Z"
     },
     "La fossette 老法的酒窩 法式甜點 106臺北市大安區龍生里和平東路二段157號": {
       "name": "La fossette 老法的酒窩 法式甜點",
       "destination": "La fossette 老法的酒窩 法式甜點 106臺北市大安區龍生里和平東路二段157號",
       "placeId": "ChIJw0fmDzGrQjQRZoDOpRocr8c",
-      "mapUrl": "https://maps.google.com/?cid=14388750235248525414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14388750235248525414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1057,
       "location": {
         "latitude": 25.0253415,
         "longitude": 121.5413949
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.143Z"
     },
     "12:59早午餐Brunch.Pasta.Coffee.Dessert 108臺北市萬華區仁德里昆明街257巷14號1樓": {
       "name": "12:59早午餐Brunch.Pasta.Coffee.Dessert",
       "destination": "12:59早午餐Brunch.Pasta.Coffee.Dessert 108臺北市萬華區仁德里昆明街257巷14號1樓",
       "placeId": "ChIJSZ0SYPCrQjQR-T3_o5h0s9I",
-      "mapUrl": "https://maps.google.com/?cid=15182606967731338745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15182606967731338745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1056,
       "location": {
         "latitude": 25.037233699999998,
         "longitude": 121.50437060000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.086Z"
     },
     "羽樂歐陸創意料理 105臺北市松山區復勢里南京東路四段162號": {
       "name": "羽樂歐陸創意料理",
       "destination": "羽樂歐陸創意料理 105臺北市松山區復勢里南京東路四段162號",
       "placeId": "ChIJlVNfWeqrQjQRqO4OMZ0keZ4",
-      "mapUrl": "https://maps.google.com/?cid=11419198587726130856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11419198587726130856&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 4425,
+      "reviewCount": 4424,
       "location": {
         "latitude": 25.051355599999997,
         "longitude": 121.55648749999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.112Z"
     },
     "TAJ 泰姬印度餐廳 106臺北市大安區光武里市民大道四段48巷1號1樓": {
       "name": "TAJ 泰姬印度餐廳",
       "destination": "TAJ 泰姬印度餐廳 106臺北市大安區光武里市民大道四段48巷1號1樓",
       "placeId": "ChIJR8oqZMWrQjQR1ecGLvALNJM",
-      "mapUrl": "https://maps.google.com/?cid=10607116148556621781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10607116148556621781&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 4364,
+      "reviewCount": 4368,
       "location": {
         "latitude": 25.0447362,
         "longitude": 121.54584229999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.178Z"
     },
     "ChiaoDuo House巧哚洋房 106臺北市大安區車層里仁愛路四段345巷5弄17號": {
       "name": "ChiaoDuo House巧哚洋房",
       "destination": "ChiaoDuo House巧哚洋房 106臺北市大安區車層里仁愛路四段345巷5弄17號",
       "placeId": "ChIJcUINsMirQjQRjfEi_dCI_jU",
-      "mapUrl": "https://maps.google.com/?cid=3890697559276188045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3890697559276188045&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 937,
+      "reviewCount": 939,
       "location": {
         "latitude": 25.0385156,
         "longitude": 121.5548592
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.241Z"
     },
     "Casanova 義大利餐廳 1樓, No. 12號忠孝東路四段170巷6弄 Da'an District, 大安區臺北市10688": {
       "name": "Casanova 義大利餐廳",
       "destination": "Casanova 義大利餐廳 1樓, No. 12號忠孝東路四段170巷6弄 Da'an District, 大安區臺北市10688",
       "placeId": "ChIJXRs81GmrQjQRzAhgKrD7NOo",
-      "mapUrl": "https://maps.google.com/?cid=16876390437707843788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16876390437707843788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1016,
       "location": {
         "latitude": 25.040802799999998,
         "longitude": 121.55020440000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.209Z"
     },
     "金孫韓廚 義大利麵(士林店) 111臺北市士林區福林里中山北路五段505巷20號": {
       "name": "金孫韓廚 義大利麵(士林店)",
       "destination": "金孫韓廚 義大利麵(士林店) 111臺北市士林區福林里中山北路五段505巷20號",
       "placeId": "ChIJvZks39avQjQR3Vo7qkc23zY",
-      "mapUrl": "https://maps.google.com/?cid=3953938679281179357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3953938679281179357&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 3816,
       "location": {
         "latitude": 25.0932344,
         "longitude": 121.52720670000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.268Z"
     },
     "樂軒和牛專門店 106臺北市大安區仁愛里仁愛路四段91巷9號": {
       "name": "樂軒和牛專門店",
       "destination": "樂軒和牛專門店 106臺北市大安區仁愛里仁愛路四段91巷9號",
       "placeId": "ChIJbW3iLtCrQjQRD7Ci4t5cbKU",
-      "mapUrl": "https://maps.google.com/?cid=11920004426097668111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11920004426097668111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 3613,
       "location": {
         "latitude": 25.0386596,
         "longitude": 121.54767770000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.288Z"
     },
     "雙月食品社 北投店 112臺北市北投區長安里光明路228號": {
       "name": "雙月食品社 北投店",
       "destination": "雙月食品社 北投店 112臺北市北投區長安里光明路228號",
       "placeId": "ChIJA9_TFFmvQjQRA-tp1e3KJlo",
-      "mapUrl": "https://maps.google.com/?cid=6496102635365067523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6496102635365067523&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 11757,
+      "reviewCount": 11769,
       "location": {
         "latitude": 25.135909599999998,
         "longitude": 121.5057634
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.314Z"
     },
     "酒米食堂chumi_canteen 112臺北市北投區中庸里永興路一段47號": {
       "name": "酒米食堂chumi_canteen",
       "destination": "酒米食堂chumi_canteen 112臺北市北投區中庸里永興路一段47號",
       "placeId": "ChIJxT54hmKvQjQRyEf7KYJIkS8",
-      "mapUrl": "https://maps.google.com/?cid=3427600515292940232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3427600515292940232&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 3713,
+      "reviewCount": 3714,
       "location": {
         "latitude": 25.139529399999997,
         "longitude": 121.50047959999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.343Z"
     },
     "谷炭燒肉 11282臺北市北投區裕民里裕民六路114巷22號": {
       "name": "谷炭燒肉",
       "destination": "谷炭燒肉 11282臺北市北投區裕民里裕民六路114巷22號",
       "placeId": "ChIJw-RrmtKvQjQRsXrpHF7qSCQ",
-      "mapUrl": "https://maps.google.com/?cid=2614597273621461681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2614597273621461681&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 2418,
       "location": {
         "latitude": 25.114300000000004,
         "longitude": 121.51808369999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.401Z"
     },
     "四川龍府 114臺北市內湖區民權東路六段286號": {
       "name": "四川龍府",
       "destination": "四川龍府 114臺北市內湖區民權東路六段286號",
       "placeId": "ChIJ-_bMiiitQjQRVwXUA-8CaPs",
-      "mapUrl": "https://maps.google.com/?cid=18115732726682486103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18115732726682486103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 4424,
+      "reviewCount": 4425,
       "location": {
         "latitude": 25.0723058,
         "longitude": 121.60520760000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.429Z"
     },
     "大河牧場 漢堡排專売 115臺北市南港區新光里忠孝東路七段371號B1樓": {
       "name": "大河牧場 漢堡排專売",
       "destination": "大河牧場 漢堡排專売 115臺北市南港區新光里忠孝東路七段371號B1樓",
       "placeId": "ChIJ01YLW3-rQjQRzHtinzvbCJk",
-      "mapUrl": "https://maps.google.com/?cid=11027304736740244428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11027304736740244428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 3291,
       "location": {
         "latitude": 25.052735400000003,
         "longitude": 121.606437
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.460Z"
     },
     "三燔北投 Mihan Beitou 112臺北市北投區中心里泉源路19號北投晶泉丰旅2樓": {
       "name": "三燔北投 Mihan Beitou",
       "destination": "三燔北投 Mihan Beitou 112臺北市北投區中心里泉源路19號北投晶泉丰旅2樓",
       "placeId": "ChIJl7ziPQCvQjQRJyCcG50hMUo",
-      "mapUrl": "https://maps.google.com/?cid=5346091191322288167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5346091191322288167&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 2690,
       "location": {
         "latitude": 25.138150000000003,
         "longitude": 121.5044611
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.369Z"
     },
     "渣男TaiwanBistro 木柵二渣 116臺北市文山區萬芳里萬芳路9-1號": {
       "name": "渣男TaiwanBistro 木柵二渣",
       "destination": "渣男TaiwanBistro 木柵二渣 116臺北市文山區萬芳里萬芳路9-1號",
       "placeId": "ChIJ78KtsmiqQjQRQAFTAhWCTJk",
-      "mapUrl": "https://maps.google.com/?cid=11046347012777902400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11046347012777902400&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 2561,
       "location": {
         "latitude": 24.998480699999998,
         "longitude": 121.57049149999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.490Z"
     },
     "荷麵亭 HASUMENTEI 北投店 112臺北市北投區大同里育仁路45號": {
       "name": "荷麵亭 HASUMENTEI 北投店",
       "destination": "荷麵亭 HASUMENTEI 北投店 112臺北市北投區大同里育仁路45號",
       "placeId": "ChIJM_xungWvQjQRGekbrndOlXk",
-      "mapUrl": "https://maps.google.com/?cid=8760994926048307481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8760994926048307481&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2410,
+      "reviewCount": 2411,
       "location": {
         "latitude": 25.133433999999998,
         "longitude": 121.49799000000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.555Z"
     },
     "泉源閣 Bando Club 112臺北市北投區中心里泉源路19號北投晶泉丰旅3樓": {
       "name": "泉源閣 Bando Club",
       "destination": "泉源閣 Bando Club 112臺北市北投區中心里泉源路19號北投晶泉丰旅3樓",
       "placeId": "ChIJmUBgXZmvQjQReJDEy08D34c",
-      "mapUrl": "https://maps.google.com/?cid=9790547756182704248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9790547756182704248&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 670,
+      "reviewCount": 674,
       "location": {
         "latitude": 25.1382859,
         "longitude": 121.50467499999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.517Z"
     },
     "八藤家 111臺北市士林區天玉里天母西路41巷1弄2號": {
       "name": "八藤家",
       "destination": "八藤家 111臺北市士林區天玉里天母西路41巷1弄2號",
       "placeId": "ChIJZcgOlIeuQjQRutc16fs58Hg",
-      "mapUrl": "https://maps.google.com/?cid=8714529033074104250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8714529033074104250&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 2035,
+      "reviewCount": 2036,
       "location": {
         "latitude": 25.1189736,
         "longitude": 121.5272888
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.583Z"
     },
     "好吧 111臺北市士林區三玉里天母東路84號1樓": {
       "name": "好吧",
       "destination": "好吧 111臺北市士林區三玉里天母東路84號1樓",
       "placeId": "ChIJwYqqLCGvQjQRsTBPcxjXj7Y",
-      "mapUrl": "https://maps.google.com/?cid=13154969536586264753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13154969536586264753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 1731,
+      "reviewCount": 1732,
       "location": {
         "latitude": 25.117939300000003,
         "longitude": 121.5355752
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.637Z"
     },
     "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店 115臺北市南港區忠孝東路七段371號地址：115B1F (環球購物中心南港店）櫃位B116": {
       "name": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店",
       "destination": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店 115臺北市南港區忠孝東路七段371號地址：115B1F (環球購物中心南港店）櫃位B116",
       "placeId": "ChIJ7TAYfLyrQjQRysgf1KWfY2A",
-      "mapUrl": "https://maps.google.com/?cid=6945570584912709834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6945570584912709834&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 1707,
       "location": {
         "latitude": 25.052895499999998,
         "longitude": 121.6072597
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:42.609Z"
     },
     "紅窗咖啡 116臺北市文山區指南路三段6號": {
       "name": "紅窗咖啡",
       "destination": "紅窗咖啡 116臺北市文山區指南路三段6號",
       "placeId": "ChIJYxbEViCrQjQRSFR6Yu0P02c",
-      "mapUrl": "https://maps.google.com/?cid=7481340918226375752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7481340918226375752&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 374,
       "location": {
         "latitude": 24.9851837,
         "longitude": 121.57994239999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.073Z"
     },
     "蝸牛義大利餐廳 天母店 111臺北市士林區天玉里天母北路60號": {
       "name": "蝸牛義大利餐廳 天母店",
       "destination": "蝸牛義大利餐廳 天母店 111臺北市士林區天玉里天母北路60號",
       "placeId": "ChIJfWGyPn2uQjQR64K_LG8uJ8Y",
-      "mapUrl": "https://maps.google.com/?cid=14278432198628442859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14278432198628442859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 3744,
       "location": {
         "latitude": 25.1216133,
         "longitude": 121.52667239999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.120Z"
     },
     "李氏兄弟44號餐酒館(李氏餐坊) 116臺北市文山區萬興里新光路一段104號": {
       "name": "李氏兄弟44號餐酒館(李氏餐坊)",
       "destination": "李氏兄弟44號餐酒館(李氏餐坊) 116臺北市文山區萬興里新光路一段104號",
       "placeId": "ChIJIRtle5WfaDQR8lGiMHxFVMA",
-      "mapUrl": "https://maps.google.com/?cid=13858778353020064242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13858778353020064242&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 880,
       "location": {
         "latitude": 24.9914219,
         "longitude": 121.57352999999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.150Z"
     },
     "禾竹私房料理（預約制） 112臺北市北投區立農里西安街二段115號": {
       "name": "禾竹私房料理（預約制）",
       "destination": "禾竹私房料理（預約制） 112臺北市北投區立農里西安街二段115號",
       "placeId": "ChIJCVkZn_SuQjQRLWzrQk6rC-4",
-      "mapUrl": "https://maps.google.com/?cid=17152991958389189677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17152991958389189677&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 762,
       "location": {
         "latitude": 25.118391499999998,
         "longitude": 121.51243559999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.185Z"
     },
     "呼嚕小酒館 Purrson Bistro 116臺北市文山區木柵里木柵路三段103巷1號": {
       "name": "呼嚕小酒館 Purrson Bistro",
       "destination": "呼嚕小酒館 Purrson Bistro 116臺北市文山區木柵里木柵路三段103巷1號",
       "placeId": "ChIJURTE5n2rQjQRgj-n9IMohFU",
-      "mapUrl": "https://maps.google.com/?cid=6162094737360109442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6162094737360109442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2370,
+      "reviewCount": 2371,
       "location": {
         "latitude": 24.9890488,
         "longitude": 121.56793920000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.217Z"
     },
     "18精緻小館 116臺北市文山區樟樹里興隆路四段102號": {
       "name": "18精緻小館",
       "destination": "18精緻小館 116臺北市文山區樟樹里興隆路四段102號",
       "placeId": "ChIJRY5JmN8BaDQR3fElNvAA2yo",
-      "mapUrl": "https://maps.google.com/?cid=3088063001193214429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3088063001193214429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 827,
       "location": {
         "latitude": 24.983200600000004,
         "longitude": 121.5619727
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.301Z"
     },
     "山边咖啡 Brae Café 11241臺北市北投區林泉里溫泉路110-1號": {
       "name": "山边咖啡 Brae Café",
       "destination": "山边咖啡 Brae Café 11241臺北市北投區林泉里溫泉路110-1號",
       "placeId": "ChIJk7jbcxKvQjQR-HWxzlgfSLY",
-      "mapUrl": "https://maps.google.com/?cid=13134782779511371256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13134782779511371256&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 837,
       "location": {
         "latitude": 25.1362794,
         "longitude": 121.51101200000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.273Z"
     },
     "弘大一號出口 116臺北市文山區明義里木柵路二段70號": {
       "name": "弘大一號出口",
       "destination": "弘大一號出口 116臺北市文山區明義里木柵路二段70號",
       "placeId": "ChIJSSfUMwuqQjQR2pEY_9X3t5g",
-      "mapUrl": "https://maps.google.com/?cid=11004536712982991322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11004536712982991322&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 3429,
       "location": {
         "latitude": 24.98858,
         "longitude": 121.559493
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.330Z"
     },
     "饗泰多泰式風格餐廳 天母店 111027臺北市士林區三玉里忠誠路二段55號大葉高島屋 台北天母5樓": {
       "name": "饗泰多泰式風格餐廳 天母店",
       "destination": "饗泰多泰式風格餐廳 天母店 111027臺北市士林區三玉里忠誠路二段55號大葉高島屋 台北天母5樓",
       "placeId": "ChIJ-YL1tWavQjQRrB4xEvxl2sg",
-      "mapUrl": "https://maps.google.com/?cid=14472992485819883180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14472992485819883180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 1417,
+      "reviewCount": 1418,
       "location": {
         "latitude": 25.111852300000002,
         "longitude": 121.5314695
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.246Z"
     },
     "MaoInn Steak 錨隱廚牛排龍蝦餐酒館 111臺北市士林區蘭雅里忠誠路二段40巷16號": {
       "name": "MaoInn Steak 錨隱廚牛排龍蝦餐酒館",
       "destination": "MaoInn Steak 錨隱廚牛排龍蝦餐酒館 111臺北市士林區蘭雅里忠誠路二段40巷16號",
       "placeId": "ChIJDcQp3hSvQjQRHMzTwyVALwI",
-      "mapUrl": "https://maps.google.com/?cid=157415042924661788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=157415042924661788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 564,
       "location": {
         "latitude": 25.1103158,
         "longitude": 121.52939179999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.360Z"
     },
     "RUMAH Taipei 星國料理 Singapore Cuisine 112台北市北投区建民里文林北路221巷18號": {
       "name": "RUMAH Taipei 星國料理 Singapore Cuisine",
       "destination": "RUMAH Taipei 星國料理 Singapore Cuisine 112台北市北投区建民里文林北路221巷18號",
       "placeId": "ChIJCcB6EvGvQjQRu6tQnwbvT2Q",
-      "mapUrl": "https://maps.google.com/?cid=7228258738674641851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7228258738674641851&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 274,
       "location": {
         "latitude": 25.1083882,
         "longitude": 121.51256550000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.385Z"
     },
     "忠青商行 天母大葉高島屋店 111臺北市士林區三玉里忠誠路二段55號B1": {
       "name": "忠青商行 天母大葉高島屋店",
       "destination": "忠青商行 天母大葉高島屋店 111臺北市士林區三玉里忠誠路二段55號B1",
       "placeId": "ChIJrX8YU7yvQjQRciFBe_MMUhA",
-      "mapUrl": "https://maps.google.com/?cid=1176016692581572978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1176016692581572978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1958,
       "location": {
         "latitude": 25.111826399999998,
         "longitude": 121.5315215
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.439Z"
     },
     "自由·之丘 116臺北市文山區木新里木新路二段69巷1號1樓": {
       "name": "自由·之丘",
       "destination": "自由·之丘 116臺北市文山區木新里木新路二段69巷1號1樓",
       "placeId": "ChIJ_6pKpbSrQjQR1jF-we5DZtk",
-      "mapUrl": "https://maps.google.com/?cid=15665283046582399446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15665283046582399446&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 507,
       "location": {
         "latitude": 24.9858893,
         "longitude": 121.5709036
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.414Z"
     },
     "北投奇岩一號 112臺北市北投區溫泉里奇岩路1號": {
       "name": "北投奇岩一號",
       "destination": "北投奇岩一號 112臺北市北投區溫泉里奇岩路1號",
       "placeId": "ChIJqzV-SFuuQjQRIpnzP-xiypc",
-      "mapUrl": "https://maps.google.com/?cid=10937663411847403810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10937663411847403810&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 465,
+      "reviewCount": 467,
       "location": {
         "latitude": 25.1347904,
         "longitude": 121.5072708
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.467Z"
     },
     "糧田 112臺北市北投區裕民里懷德街77號": {
       "name": "糧田",
       "destination": "糧田 112臺北市北投區裕民里懷德街77號",
       "placeId": "ChIJ29oh1Y2uQjQRu781QHam1hA",
-      "mapUrl": "https://maps.google.com/?cid=1213340176436543419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1213340176436543419&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 353,
       "location": {
         "latitude": 25.1136698,
         "longitude": 121.5195883
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.496Z"
     },
     "漁噹家食堂（僅接受FB 112台北市北投区振华里裕民四路13號1樓": {
       "name": "漁噹家食堂（僅接受FB",
       "destination": "漁噹家食堂（僅接受FB 112台北市北投区振华里裕民四路13號1樓",
       "placeId": "ChIJ_fFccXivQjQRQrVr4JQoLsU",
-      "mapUrl": "https://maps.google.com/?cid=14208338494285919554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14208338494285919554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 324,
       "location": {
         "latitude": 25.115498,
         "longitude": 121.516249
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.526Z"
     },
     "上海鄉村 天母別館 111臺北市士林區三玉里忠誠路二段55號5樓": {
       "name": "上海鄉村 天母別館",
       "destination": "上海鄉村 天母別館 111臺北市士林區三玉里忠誠路二段55號5樓",
       "placeId": "ChIJxyTrz22vQjQRuZGRNkP9JOI",
-      "mapUrl": "https://maps.google.com/?cid=16295427816853443001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16295427816853443001&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 1117,
+      "reviewCount": 1116,
       "location": {
         "latitude": 25.111857,
         "longitude": 121.53136699999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.550Z"
     },
     "飲飽食醉 115臺北市南港區中研里研究院路二段25號": {
       "name": "飲飽食醉",
       "destination": "飲飽食醉 115臺北市南港區中研里研究院路二段25號",
       "placeId": "ChIJ3VFpylqrQjQREI5anFRCx-E",
-      "mapUrl": "https://maps.google.com/?cid=16269045110067072528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16269045110067072528&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_TEMPORARILY",
       "rating": 4.6,
       "reviewCount": 935,
       "location": {
         "latitude": 25.046271599999997,
         "longitude": 121.61534569999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.578Z"
     },
     "布娜飛小酒館南港店bravocafe draftdeer 11561臺北市南港區新光里忠孝東路七段371號": {
       "name": "布娜飛小酒館南港店bravocafe draftdeer",
       "destination": "布娜飛小酒館南港店bravocafe draftdeer 11561臺北市南港區新光里忠孝東路七段371號",
       "placeId": "ChIJbZT4cGerQjQRbnqoTY6Ikag",
-      "mapUrl": "https://maps.google.com/?cid=12146639814764558958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12146639814764558958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 803,
       "location": {
         "latitude": 25.052668999999998,
         "longitude": 121.607004
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.602Z"
     },
     "柚子花花青春客家菜(南港LalaPort) 115臺北市南港區環河里經貿二路131號6樓": {
       "name": "柚子花花青春客家菜(南港LalaPort)",
       "destination": "柚子花花青春客家菜(南港LalaPort) 115臺北市南港區環河里經貿二路131號6樓",
       "placeId": "ChIJOZb-_gWtQjQRXA4QgcB7KLE",
-      "mapUrl": "https://maps.google.com/?cid=12765589210510921308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12765589210510921308&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 830,
       "location": {
         "latitude": 25.0592558,
         "longitude": 121.61803099999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.633Z"
     },
     "莎諾西餐 112臺北市北投區永欣里天母西路105號": {
       "name": "莎諾西餐",
       "destination": "莎諾西餐 112臺北市北投區永欣里天母西路105號",
       "placeId": "ChIJka76UoiuQjQR4ZXn7u78VvE",
-      "mapUrl": "https://maps.google.com/?cid=17390365114278319585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17390365114278319585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 2673,
+      "reviewCount": 2674,
       "location": {
         "latitude": 25.1188304,
         "longitude": 121.52371260000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.693Z"
     },
     "等一個人咖啡 景美本店 116臺北市文山區樟新里一壽街44巷1號": {
       "name": "等一個人咖啡 景美本店",
       "destination": "等一個人咖啡 景美本店 116臺北市文山區樟新里一壽街44巷1號",
       "placeId": "ChIJEV853OYBaDQRBKEWFllq3K8",
-      "mapUrl": "https://maps.google.com/?cid=12672120382368948484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12672120382368948484&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 2740,
       "location": {
         "latitude": 24.979289599999998,
         "longitude": 121.556616
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.662Z"
     },
     "日森軒 和洋料理 115臺北市南港區環河里經貿二路131號": {
       "name": "日森軒 和洋料理",
       "destination": "日森軒 和洋料理 115臺北市南港區環河里經貿二路131號",
       "placeId": "ChIJuTb8XQCtQjQRVwH92PTeyKU",
-      "mapUrl": "https://maps.google.com/?cid=11946043154794086743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11946043154794086743&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 823,
+      "reviewCount": 825,
       "location": {
         "latitude": 25.0593449,
         "longitude": 121.61758249999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.723Z"
     },
     "尾田家オダヤ 112臺北市北投區大同里大同街21號1樓": {
       "name": "尾田家オダヤ",
       "destination": "尾田家オダヤ 112臺北市北投區大同里大同街21號1樓",
       "placeId": "ChIJFfUnrQivQjQRK0wmMZkCGEs",
-      "mapUrl": "https://maps.google.com/?cid=5411077809263496235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5411077809263496235&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 604,
+      "reviewCount": 605,
       "location": {
         "latitude": 25.132856999999998,
         "longitude": 121.49912800000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.751Z"
     },
     "武侍酒 日式居酒屋 115臺北市南港區南港里南港路一段111號": {
       "name": "武侍酒 日式居酒屋",
       "destination": "武侍酒 日式居酒屋 115臺北市南港區南港里南港路一段111號",
       "placeId": "ChIJI0ufUFirQjQRz254cAjj26M",
-      "mapUrl": "https://maps.google.com/?cid=11807280473468071631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11807280473468071631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 2111,
       "location": {
         "latitude": 25.0550085,
         "longitude": 121.61457050000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.778Z"
     },
     "大為廚坊 111臺北市士林區天玉里天玉街38巷9-1號": {
       "name": "大為廚坊",
       "destination": "大為廚坊 111臺北市士林區天玉里天玉街38巷9-1號",
       "placeId": "ChIJr_Ztmn2uQjQRvLHz4FTo-_Q",
-      "mapUrl": "https://maps.google.com/?cid=17652958615657755068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17652958615657755068&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 480,
+      "reviewCount": 481,
       "location": {
         "latitude": 25.1204321,
         "longitude": 121.52910409999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.810Z"
     },
     "Ikinari Steak 115臺北市南港區中南里忠孝東路七段369號1樓B棟": {
       "name": "Ikinari Steak",
       "destination": "Ikinari Steak 115臺北市南港區中南里忠孝東路七段369號1樓B棟",
       "placeId": "ChIJryl46v2rQjQRJC1TWIzC0JU",
-      "mapUrl": "https://maps.google.com/?cid=10795342214840134948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10795342214840134948&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 1752,
       "location": {
         "latitude": 25.052779200000003,
         "longitude": 121.60601009999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.888Z"
     },
     "陶膳日式料理 115臺北市南港區三重里園區街20號1樓": {
       "name": "陶膳日式料理",
       "destination": "陶膳日式料理 115臺北市南港區三重里園區街20號1樓",
       "placeId": "ChIJM1vsVaasQjQRxvbBWANa3qY",
-      "mapUrl": "https://maps.google.com/?cid=12024147025546311366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12024147025546311366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1933,
       "location": {
         "latitude": 25.059179999999998,
         "longitude": 121.6132675
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.834Z"
     },
     "苗栗客家菜館 112臺北市北投區中和里中和街457-8號": {
       "name": "苗栗客家菜館",
       "destination": "苗栗客家菜館 112臺北市北投區中和里中和街457-8號",
       "placeId": "ChIJH49Bw0uuQjQRtDcz8k2U_QU",
-      "mapUrl": "https://maps.google.com/?cid=431664201794271156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=431664201794271156&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1457,
       "location": {
         "latitude": 25.144793999999997,
         "longitude": 121.49623399999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.918Z"
     },
     "PRESERVE LaLaport 南港店 115臺北市南港區環河里經貿二路131號1樓": {
       "name": "PRESERVE LaLaport 南港店",
       "destination": "PRESERVE LaLaport 南港店 115臺北市南港區環河里經貿二路131號1樓",
       "placeId": "ChIJkxT1bgCtQjQROnIN-CoDhYg",
-      "mapUrl": "https://maps.google.com/?cid=9837272444145857082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9837272444145857082&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 1936,
+      "reviewCount": 1938,
       "location": {
         "latitude": 25.0593449,
         "longitude": 121.61758249999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.862Z"
     },
     "小廢墟咖啡 116臺北市文山區木新里木柵路三段242號": {
       "name": "小廢墟咖啡",
       "destination": "小廢墟咖啡 116臺北市文山區木新里木柵路三段242號",
       "placeId": "ChIJP-0cf3CqQjQRsbQ6ztBT8VY",
-      "mapUrl": "https://maps.google.com/?cid=6264880712927327409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6264880712927327409&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 1366,
       "location": {
         "latitude": 24.990745399999998,
         "longitude": 121.5710489
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.975Z"
     },
     "FACILE 法斯樂 114臺北市內湖區大湖里大湖山莊街209號": {
       "name": "FACILE 法斯樂",
       "destination": "FACILE 法斯樂 114臺北市內湖區大湖里大湖山莊街209號",
       "placeId": "ChIJsUmIIBJTXTQRT3jCnWh3OQI",
-      "mapUrl": "https://maps.google.com/?cid=160290552955435087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=160290552955435087&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 342,
       "location": {
         "latitude": 25.0883799,
         "longitude": 121.60023860000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:43.946Z"
     },
     "德意事歐式美食屋 116臺北市文山區樟腳里木新路三段97號": {
       "name": "德意事歐式美食屋",
       "destination": "德意事歐式美食屋 116臺北市文山區樟腳里木新路三段97號",
       "placeId": "ChIJKX8_B98BaDQRNv-wGZXLk7U",
-      "mapUrl": "https://maps.google.com/?cid=13084025183683018550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13084025183683018550&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 872,
       "location": {
         "latitude": 24.981944400000003,
         "longitude": 121.56277779999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.033Z"
     },
     "徙巷小餐酒x徙巷早午餐 116臺北市文山區木柵里木柵路三段49巷12號": {
       "name": "徙巷小餐酒x徙巷早午餐",
       "destination": "徙巷小餐酒x徙巷早午餐 116臺北市文山區木柵里木柵路三段49巷12號",
       "placeId": "ChIJiRDpRsurQjQRcHk6v2b4YPM",
-      "mapUrl": "https://maps.google.com/?cid=17537290069159344496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17537290069159344496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 691,
       "location": {
         "latitude": 24.9890729,
         "longitude": 121.56612399999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.093Z"
     },
     "SALT&STONE LaLaport 南港餐廳 11568臺北市南港區三重里經貿二路131號1樓": {
       "name": "SALT&STONE LaLaport 南港餐廳",
       "destination": "SALT&STONE LaLaport 南港餐廳 11568臺北市南港區三重里經貿二路131號1樓",
       "placeId": "ChIJO1lQbwCtQjQRHSxoPz3smt0",
-      "mapUrl": "https://maps.google.com/?cid=15968335176596466717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15968335176596466717&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
-      "rating": 4.5,
-      "reviewCount": 1020,
+      "rating": 4.6,
+      "reviewCount": 1028,
       "location": {
         "latitude": 25.0592619,
         "longitude": 121.61754359999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.063Z"
     },
     "CBC SPACE 景美咖啡圖書館 Cafe Boven Co-working 116臺北市文山區景興路193號": {
       "name": "CBC SPACE 景美咖啡圖書館 Cafe Boven Co-working",
       "destination": "CBC SPACE 景美咖啡圖書館 Cafe Boven Co-working 116臺北市文山區景興路193號",
       "placeId": "ChIJrfpxNCyrQjQR8vXq80fN1Y8",
-      "mapUrl": "https://maps.google.com/?cid=10364415826381698546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10364415826381698546&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 549,
       "location": {
         "latitude": 24.992387100000002,
         "longitude": 121.54425889999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.150Z"
     },
     "享鮮餐廳南港分店 115臺北市南港區三重里經貿二路188號2樓": {
       "name": "享鮮餐廳南港分店",
       "destination": "享鮮餐廳南港分店 115臺北市南港區三重里經貿二路188號2樓",
       "placeId": "ChIJ_WJhTf6tQjQRzjrZmrFJ-dM",
-      "mapUrl": "https://maps.google.com/?cid=15274320638359714510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15274320638359714510&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 621,
       "location": {
         "latitude": 25.0593109,
         "longitude": 121.6150741
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.122Z"
     },
     "嬌嬌咖啡 116臺北市文山區景行里景後街149巷3號1樓": {
       "name": "嬌嬌咖啡",
       "destination": "嬌嬌咖啡 116臺北市文山區景行里景後街149巷3號1樓",
       "placeId": "ChIJxa4z6o-rQjQRlbZWAUVMj_g",
-      "mapUrl": "https://maps.google.com/?cid=17910618102334666389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17910618102334666389&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 344,
+      "reviewCount": 345,
       "location": {
         "latitude": 24.990191,
         "longitude": 121.5422981
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.189Z"
     },
     "𝗦𝗵𝗼𝘂 𝗦𝗵𝗼𝘂 𝗖𝗼𝗳𝗳𝗲𝗲 惜惜咖啡 116臺北市文山區萬興里秀明路二段112巷19號": {
       "name": "𝗦𝗵𝗼𝘂 𝗦𝗵𝗼𝘂 𝗖𝗼𝗳𝗳𝗲𝗲 惜惜咖啡",
       "destination": "𝗦𝗵𝗼𝘂 𝗦𝗵𝗼𝘂 𝗖𝗼𝗳𝗳𝗲𝗲 惜惜咖啡 116臺北市文山區萬興里秀明路二段112巷19號",
       "placeId": "ChIJB8RCKNarQjQRqwi4T2kptV0",
-      "mapUrl": "https://maps.google.com/?cid=6752348748597692587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6752348748597692587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 312,
       "location": {
         "latitude": 24.9901566,
         "longitude": 121.57517779999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.249Z"
     },
     "御神烹-原香日式私廚 116臺北市文山區木柵里木柵路三段48巷1弄9號": {
       "name": "御神烹-原香日式私廚",
       "destination": "御神烹-原香日式私廚 116臺北市文山區木柵里木柵路三段48巷1弄9號",
       "placeId": "ChIJjeYFGHSqQjQR2lF22e6zzLM",
-      "mapUrl": "https://maps.google.com/?cid=12955928066470072794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12955928066470072794&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 325,
       "location": {
         "latitude": 24.987823799999997,
         "longitude": 121.56487999999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.218Z"
     },
     "東方樓 台北漢來店 115臺北市南港區三重里經貿一路168號3F": {
       "name": "東方樓 台北漢來店",
       "destination": "東方樓 台北漢來店 115臺北市南港區三重里經貿一路168號3F",
       "placeId": "ChIJPUX9iw6tQjQRE-UwkTLnci4",
-      "mapUrl": "https://maps.google.com/?cid=3346991677459981587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3346991677459981587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
-      "reviewCount": 531,
+      "reviewCount": 533,
       "location": {
         "latitude": 25.0584427,
         "longitude": 121.61919150000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.164Z"
     },
     "忻殿堂火鍋 Xin HOT POT 106臺北市大安區光武里敦化南路一段160巷12號": {
       "name": "忻殿堂火鍋 Xin HOT POT",
       "destination": "忻殿堂火鍋 Xin HOT POT 106臺北市大安區光武里敦化南路一段160巷12號",
       "placeId": "ChIJN5Uw1tqrQjQRHkuaIqP6VKU",
-      "mapUrl": "https://maps.google.com/?cid=11913422492868954910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11913422492868954910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 3580,
+      "reviewCount": 3581,
       "location": {
         "latitude": 25.043448599999998,
         "longitude": 121.5479034
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.280Z"
     },
     "東京廚房 116臺北市文山區景華里景華街24號": {
       "name": "東京廚房",
       "destination": "東京廚房 116臺北市文山區景華里景華街24號",
       "placeId": "ChIJ4SfdAdmrQjQRJ5tqyD-nHGI",
-      "mapUrl": "https://maps.google.com/?cid=7069709407452044071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7069709407452044071&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 816,
       "location": {
         "latitude": 24.9948691,
         "longitude": 121.54241970000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.310Z"
     },
     "三重奏加蚋 Trio kitchen 108臺北市萬華區保德里東園街114號": {
       "name": "三重奏加蚋 Trio kitchen",
       "destination": "三重奏加蚋 Trio kitchen 108臺北市萬華區保德里東園街114號",
       "placeId": "ChIJyyNcAlypQjQR9eK2YpdBP44",
-      "mapUrl": "https://maps.google.com/?cid=10249983395370558197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10249983395370558197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 734,
       "location": {
         "latitude": 25.024129,
         "longitude": 121.49719999999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.340Z"
     },
     "村民食堂廚窗港點 士林官邸店 111臺北市士林區福林里福林路188號": {
       "name": "村民食堂廚窗港點 士林官邸店",
       "destination": "村民食堂廚窗港點 士林官邸店 111臺北市士林區福林里福林路188號",
       "placeId": "ChIJ7wNaysSvQjQR_SXHqoILp1k",
-      "mapUrl": "https://maps.google.com/?cid=6460144846325097981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6460144846325097981&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 13191,
+      "reviewCount": 13194,
       "location": {
         "latitude": 25.0966784,
         "longitude": 121.53282289999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.367Z"
     },
     "馬友友印度餐廳酒吧+水煙館 10491臺北市中山區朱園里松江路1-1號": {
       "name": "馬友友印度餐廳酒吧+水煙館",
       "destination": "馬友友印度餐廳酒吧+水煙館 10491臺北市中山區朱園里松江路1-1號",
       "placeId": "ChIJJXnO0barQjQR0ZJz1JGJ8v4",
-      "mapUrl": "https://maps.google.com/?cid=18370897089425281745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18370897089425281745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2932,
       "location": {
         "latitude": 25.045820199999998,
         "longitude": 121.53326249999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.428Z"
     },
     "川邸鍋物 劍潭店 111臺北市士林區承德里承德路四段79號1樓": {
       "name": "川邸鍋物 劍潭店",
       "destination": "川邸鍋物 劍潭店 111臺北市士林區承德里承德路四段79號1樓",
       "placeId": "ChIJLSdhBV-pQjQR5M-h5180Ys4",
-      "mapUrl": "https://maps.google.com/?cid=14871506506043477988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14871506506043477988&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2985,
       "location": {
         "latitude": 25.0822899,
         "longitude": 121.5234821
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.394Z"
     },
     "HU’s Restaurant 互餐廳 103臺北市大同區延平里重慶北路二段172號2樓": {
       "name": "HU’s Restaurant 互餐廳",
       "destination": "HU’s Restaurant 互餐廳 103臺北市大同區延平里重慶北路二段172號2樓",
       "placeId": "ChIJlWk-Gx6pQjQR8iwdYDURin8",
-      "mapUrl": "https://maps.google.com/?cid=9190176910546382066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9190176910546382066&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 690,
       "location": {
         "latitude": 25.059345,
         "longitude": 121.513398
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.455Z"
     },
     "禧太炭火燒肉店 106臺北市大安區華聲里延吉街131巷1弄50號": {
       "name": "禧太炭火燒肉店",
       "destination": "禧太炭火燒肉店 106臺北市大安區華聲里延吉街131巷1弄50號",
       "placeId": "ChIJ9ZqRvMarQjQRzGLqoYWh-mY",
-      "mapUrl": "https://maps.google.com/?cid=7420420931365528268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7420420931365528268&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2858,
       "location": {
         "latitude": 25.043415,
         "longitude": 121.5549605
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.488Z"
     },
     "青樓中式餐酒館 105047臺北市松山區慈祐里八德路四段512-1號": {
       "name": "青樓中式餐酒館",
       "destination": "青樓中式餐酒館 105047臺北市松山區慈祐里八德路四段512-1號",
       "placeId": "ChIJjSj3KvarQjQRhQiXuwVdvwc",
-      "mapUrl": "https://maps.google.com/?cid=558267158020688005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=558267158020688005&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2698,
+      "reviewCount": 2699,
       "location": {
         "latitude": 25.0496774,
         "longitude": 121.57088979999997
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.541Z"
     },
     "三十三間堂 108臺北市萬華區菜園里康定路116號": {
       "name": "三十三間堂",
       "destination": "三十三間堂 108臺北市萬華區菜園里康定路116號",
       "placeId": "ChIJ1UFLHaipQjQRC5ZDFnm8bpo",
-      "mapUrl": "https://maps.google.com/?cid=11128038957529667083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11128038957529667083&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2317,
+      "reviewCount": 2320,
       "location": {
         "latitude": 25.040979,
         "longitude": 121.50206
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.599Z"
     },
     "明水然・樂 110臺北市信義區西村里松仁路58號遠百A13店14樓": {
       "name": "明水然・樂",
       "destination": "明水然・樂 110臺北市信義區西村里松仁路58號遠百A13店14樓",
       "placeId": "ChIJtSr-hrqrQjQR2-oMPU9LoDc",
-      "mapUrl": "https://maps.google.com/?cid=4008286472058497755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4008286472058497755&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2746,
+      "reviewCount": 2750,
       "location": {
         "latitude": 25.036800099999997,
         "longitude": 121.5681278
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.513Z"
     },
     "馬友友印度餐廳 106臺北市大安區建倫里忠孝東路四段146巷1號2 樓": {
       "name": "馬友友印度餐廳",
       "destination": "馬友友印度餐廳 106臺北市大安區建倫里忠孝東路四段146巷1號2 樓",
       "placeId": "ChIJaU_-FyqrQjQRbLmzDXFaj5E",
-      "mapUrl": "https://maps.google.com/?cid=10488701498776861036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10488701498776861036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
       "reviewCount": 2598,
       "location": {
         "latitude": 25.041022599999998,
         "longitude": 121.54971969999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.569Z"
     },
     "Mingle Bar&Bistro 104臺北市中山區正得里林森北路138巷26號1樓": {
       "name": "Mingle Bar&Bistro",
       "destination": "Mingle Bar&Bistro 104臺北市中山區正得里林森北路138巷26號1樓",
       "placeId": "ChIJI0awtiepQjQRS7RZxl0R8fA",
-      "mapUrl": "https://maps.google.com/?cid=17361677132947371083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17361677132947371083&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 526,
       "location": {
         "latitude": 25.0515951,
         "longitude": 121.52444619999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.655Z"
     },
     "不二煮藝 106臺北市大安區敦安里仁愛路四段112巷9弄5號1樓": {
       "name": "不二煮藝",
       "destination": "不二煮藝 106臺北市大安區敦安里仁愛路四段112巷9弄5號1樓",
       "placeId": "ChIJV_RfoperQjQRit9_MVtVUps",
-      "mapUrl": "https://maps.google.com/?cid=11192101874129952650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11192101874129952650&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 2176,
+      "reviewCount": 2174,
       "location": {
         "latitude": 25.0368323,
         "longitude": 121.5500021
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.680Z"
     },
     "台北凱達大飯店 家宴中餐廳 108台北市万华区富福里艋舺大道167號3 樓": {
       "name": "台北凱達大飯店 家宴中餐廳",
       "destination": "台北凱達大飯店 家宴中餐廳 108台北市万华区富福里艋舺大道167號3 樓",
       "placeId": "ChIJoUCeU66pQjQRfM0ZEYp4JiM",
-      "mapUrl": "https://maps.google.com/?cid=2532844374830206332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2532844374830206332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 2272,
       "location": {
         "latitude": 25.033468499999998,
         "longitude": 121.50008600000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.626Z"
     },
     "三亞米售完提早打烊，最後點菜16:30 11075臺北市信義區國業里松德路119號1樓": {
       "name": "三亞米售完提早打烊，最後點菜16:30",
       "destination": "三亞米售完提早打烊，最後點菜16:30 11075臺北市信義區國業里松德路119號1樓",
       "placeId": "ChIJSWJDv_SrQjQR5qvn_mwEjwU",
-      "mapUrl": "https://maps.google.com/?cid=400543758038838246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=400543758038838246&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
-      "reviewCount": 521,
+      "reviewCount": 522,
       "location": {
         "latitude": 25.0375865,
         "longitude": 121.57549829999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.707Z"
     },
     "萬花 OneFlower 104臺北市中山區復華里長春路258巷16號": {
       "name": "萬花 OneFlower",
       "destination": "萬花 OneFlower 104臺北市中山區復華里長春路258巷16號",
       "placeId": "ChIJHfeBTW-rQjQRoUxDuSZJ29M",
-      "mapUrl": "https://maps.google.com/?cid=15265875792568208545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15265875792568208545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 103,
       "location": {
         "latitude": 25.053817199999997,
         "longitude": 121.5388513
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.736Z"
     },
     "魯旦川鍋 104臺北市中山區中央里建國北路二段16號": {
       "name": "魯旦川鍋",
       "destination": "魯旦川鍋 104臺北市中山區中央里建國北路二段16號",
       "placeId": "ChIJ3UIO9dWrQjQRm3Ouo3x0PSg",
-      "mapUrl": "https://maps.google.com/?cid=2899601813767353243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2899601813767353243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 1053,
       "location": {
         "latitude": 25.052872699999998,
         "longitude": 121.5364176
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.771Z"
     },
     "TWATUTIAN Coffee & Co. 104臺北市中山區朱園里建國北路一段136號": {
       "name": "TWATUTIAN Coffee & Co.",
       "destination": "TWATUTIAN Coffee & Co. 104臺北市中山區朱園里建國北路一段136號",
       "placeId": "ChIJzf7RSMGpQjQRHo5NlOYGPIQ",
-      "mapUrl": "https://maps.google.com/?cid=9528498499009482270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9528498499009482270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 321,
       "location": {
         "latitude": 25.050943699999998,
         "longitude": 121.536383
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.829Z"
     },
     "火鍋106-粵式豬肚雞煲鍋總店(原南京總店) 104臺北市中山區復華里長春路218號": {
       "name": "火鍋106-粵式豬肚雞煲鍋總店(原南京總店)",
       "destination": "火鍋106-粵式豬肚雞煲鍋總店(原南京總店) 104臺北市中山區復華里長春路218號",
       "placeId": "ChIJOZ7Jhd-rQjQRWn0UcHeas2k",
-      "mapUrl": "https://maps.google.com/?cid=7616601232585817434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7616601232585817434&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 1595,
       "location": {
         "latitude": 25.054515,
         "longitude": 121.53768199999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.798Z"
     },
     "威爾貝克咖啡南方公園店-WILBECK 104臺北市中山區復華里遼寧街116巷4號": {
       "name": "威爾貝克咖啡南方公園店-WILBECK",
       "destination": "威爾貝克咖啡南方公園店-WILBECK 104臺北市中山區復華里遼寧街116巷4號",
       "placeId": "ChIJJT-_PTqrQjQRivs9P6KDNtw",
-      "mapUrl": "https://maps.google.com/?cid=15868015069955488650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15868015069955488650&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
       "reviewCount": 146,
       "location": {
         "latitude": 25.052664099999998,
         "longitude": 121.54176950000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.854Z"
     },
     "驛站慢功出好菜 10491臺北市中山區遼寧街128巷1號": {
       "name": "驛站慢功出好菜",
       "destination": "驛站慢功出好菜 10491臺北市中山區遼寧街128巷1號",
       "placeId": "ChIJlbsipeCrQjQRpYAa7YTXwy4",
-      "mapUrl": "https://maps.google.com/?cid=3369773912116854949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3369773912116854949&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 219,
       "location": {
         "latitude": 25.053459699999998,
         "longitude": 121.541885
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.881Z"
     },
     "灰鍋 104臺北市中山區朱馥里長春路261號": {
       "name": "灰鍋",
       "destination": "灰鍋 104臺北市中山區朱馥里長春路261號",
       "placeId": "ChIJTxdXSbOrQjQR9diq2oesOd4",
-      "mapUrl": "https://maps.google.com/?cid=16013019649581701365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16013019649581701365&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 978,
+      "reviewCount": 979,
       "location": {
         "latitude": 25.054813,
         "longitude": 121.54104110000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.939Z"
     },
     "鬧蟬咖啡Now Chance Coffee (Fuxing) 10491臺北市中山區復華里遼寧街136號": {
       "name": "鬧蟬咖啡Now Chance Coffee (Fuxing)",
       "destination": "鬧蟬咖啡Now Chance Coffee (Fuxing) 10491臺北市中山區復華里遼寧街136號",
       "placeId": "ChIJr-X4jTWrQjQRKlfrtZRLy5c",
-      "mapUrl": "https://maps.google.com/?cid=10937919222078723882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10937919222078723882&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 397,
       "location": {
         "latitude": 25.0535952,
         "longitude": 121.54198939999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.909Z"
     },
     "南香排骨飯 10485臺北市中山區中央里四平街122號一樓": {
       "name": "南香排骨飯",
       "destination": "南香排骨飯 10485臺北市中山區中央里四平街122號一樓",
       "placeId": "ChIJhUM90mCpQjQR9Xe9l8FI7lo",
-      "mapUrl": "https://maps.google.com/?cid=6552254504182314997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6552254504182314997&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
       "reviewCount": 274,
       "location": {
         "latitude": 25.0535395,
         "longitude": 121.5355211
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.963Z"
     },
     "四平街番茄牛肉麵 10491臺北市中山區中央里四平街93號": {
       "name": "四平街番茄牛肉麵",
       "destination": "四平街番茄牛肉麵 10491臺北市中山區中央里四平街93號",
       "placeId": "ChIJZzvvbWCpQjQR9M4RShcKW5U",
-      "mapUrl": "https://maps.google.com/?cid=10762206829675138804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10762206829675138804&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
-      "reviewCount": 2466,
+      "reviewCount": 2467,
       "location": {
         "latitude": 25.053740299999998,
         "longitude": 121.5352037
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.045Z"
     },
     "男朋友•家/男朋友餐盒 10491臺北市中山區中央里建國北路二段64巷15號": {
       "name": "男朋友•家/男朋友餐盒",
       "destination": "男朋友•家/男朋友餐盒 10491臺北市中山區中央里建國北路二段64巷15號",
       "placeId": "ChIJ2_5gJ4GsQjQRfEJOU1tLqjE",
-      "mapUrl": "https://maps.google.com/?cid=3578755709511025276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3578755709511025276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 449,
       "location": {
         "latitude": 25.0543899,
         "longitude": 121.5356276
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.017Z"
     },
     "泰滾 Rolling Thai 泰式火鍋(南京店） 10491臺北市中山區朱園里南京東路二段178號B1, No": {
       "name": "泰滾 Rolling Thai 泰式火鍋(南京店）",
       "destination": "泰滾 Rolling Thai 泰式火鍋(南京店） 10491臺北市中山區朱園里南京東路二段178號B1, No",
       "placeId": "ChIJjav5Hi2pQjQRiFVpwOl7kps",
-      "mapUrl": "https://maps.google.com/?cid=11210158666364310920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11210158666364310920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 6284,
+      "reviewCount": 6285,
       "location": {
         "latitude": 25.051805400000003,
         "longitude": 121.53507929999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.991Z"
     },
     "京簡康 台北伊通店 104臺北市中山區伊通街109-2號": {
       "name": "京簡康 台北伊通店",
       "destination": "京簡康 台北伊通店 104臺北市中山區伊通街109-2號",
       "placeId": "ChIJPbbc-BmpQjQR32DoNV4NJpQ",
-      "mapUrl": "https://maps.google.com/?cid=10675234665010847967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10675234665010847967&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
       "reviewCount": 258,
       "location": {
         "latitude": 25.053483999999997,
         "longitude": 121.534988
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.071Z"
     },
     "伊通韓國料理館 10491臺北市中山區朱園里伊通街41-1號": {
       "name": "伊通韓國料理館",
       "destination": "伊通韓國料理館 10491臺北市中山區朱園里伊通街41-1號",
       "placeId": "ChIJG6O-vGGpQjQRHxd32l7ySg0",
-      "mapUrl": "https://maps.google.com/?cid=957844359975737119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=957844359975737119&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.8,
       "reviewCount": 280,
       "location": {
         "latitude": 25.0508027,
         "longitude": 121.53494479999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.131Z"
     },
     "種福園 104臺北市中山區中央里松江路123巷12之1號": {
       "name": "種福園",
       "destination": "種福園 104臺北市中山區中央里松江路123巷12之1號",
       "placeId": "ChIJLReaWWCpQjQRVcQhBlfTOZs",
-      "mapUrl": "https://maps.google.com/?cid=11185203520269829205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11185203520269829205&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 1865,
       "location": {
         "latitude": 25.0527882,
         "longitude": 121.53446159999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.160Z"
     },
     "正豪季水餃專賣店(伊通店) 10491臺北市中山區中央里伊通街125巷4號": {
       "name": "正豪季水餃專賣店(伊通店)",
       "destination": "正豪季水餃專賣店(伊通店) 10491臺北市中山區中央里伊通街125巷4號",
       "placeId": "ChIJ50qVcWCpQjQR_xSldIk7zsE",
-      "mapUrl": "https://maps.google.com/?cid=13965164956076020991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13965164956076020991&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 507,
       "location": {
         "latitude": 25.0538859,
         "longitude": 121.5351336
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.101Z"
     },
     "珍美味水餃餛飩專賣店 10491臺北市中山區中央里四平街102號": {
       "name": "珍美味水餃餛飩專賣店",
       "destination": "珍美味水餃餛飩專賣店 10491臺北市中山區中央里四平街102號",
       "placeId": "ChIJb3LztAqpQjQRX44hklVcdUg",
-      "mapUrl": "https://maps.google.com/?cid=5221180865599606367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5221180865599606367&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 128,
       "location": {
         "latitude": 25.0535772,
         "longitude": 121.53466209999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.187Z"
     },
     "阿維麵線 104臺北市中山區中央里四平街87號": {
       "name": "阿維麵線",
       "destination": "阿維麵線 104臺北市中山區中央里四平街87號",
       "placeId": "ChIJg4R4HC-pQjQRTW03E9dqOT8",
-      "mapUrl": "https://maps.google.com/?cid=4555789970034879821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4555789970034879821&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 79,
       "location": {
         "latitude": 25.053780399999997,
         "longitude": 121.53461100000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.214Z"
     },
     "一味入魂 10491臺北市中山區中央里長春路188號": {
       "name": "一味入魂",
       "destination": "一味入魂 10491臺北市中山區中央里長春路188號",
       "placeId": "ChIJNdMLeGCpQjQRx0zq0IX4Cyg",
-      "mapUrl": "https://maps.google.com/?cid=2885673239880289479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2885673239880289479&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 332,
       "location": {
         "latitude": 25.054692499999998,
         "longitude": 121.5350945
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.241Z"
     },
     "客家自製湯圓 10491臺北市中山區力行里遼寧街69號對面 遼寧夜市": {
       "name": "客家自製湯圓",
       "destination": "客家自製湯圓 10491臺北市中山區力行里遼寧街69號對面 遼寧夜市",
       "placeId": "ChIJ4yUwm96rQjQRIB6YJKJvcmY",
-      "mapUrl": "https://maps.google.com/?cid=7382085481402998304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7382085481402998304&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
       "reviewCount": 726,
       "location": {
         "latitude": 25.049340899999997,
         "longitude": 121.5421145
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.271Z"
     },
     "勝利號蚵仔煎 104台北市中山区力行里辽宁街65號對面": {
       "name": "勝利號蚵仔煎",
       "destination": "勝利號蚵仔煎 104台北市中山区力行里辽宁街65號對面",
       "placeId": "ChIJOWaOot6rQjQR5fzZJ6qGAOQ",
-      "mapUrl": "https://maps.google.com/?cid=16429279506018729189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16429279506018729189&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.7,
       "reviewCount": 304,
       "location": {
         "latitude": 25.049238199999998,
         "longitude": 121.54211649999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.304Z"
     },
     "SAPORI 義品味小餐屋 10491臺北市中山區長春路376號": {
       "name": "SAPORI 義品味小餐屋",
       "destination": "SAPORI 義品味小餐屋 10491臺北市中山區長春路376號",
       "placeId": "ChIJBZtom3erQjQRYvJrJ_-fPVU",
-      "mapUrl": "https://maps.google.com/?cid=6142241385030087266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6142241385030087266&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 582,
       "location": {
         "latitude": 25.054397899999998,
         "longitude": 121.543044
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.362Z"
     },
     "韓食村 104臺北市中山區中央里南京東路二段115巷3弄6號": {
       "name": "韓食村",
       "destination": "韓食村 104臺北市中山區中央里南京東路二段115巷3弄6號",
       "placeId": "ChIJDwWD9WCpQjQR2gzDHn8h7ho",
-      "mapUrl": "https://maps.google.com/?cid=1940525319303924954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1940525319303924954&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 1798,
       "location": {
         "latitude": 25.0531553,
         "longitude": 121.53409730000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.335Z"
     },
     "北倉洞韓式料理 104臺北市中山區朱崙里長安東路二段169-7號": {
       "name": "北倉洞韓式料理",
       "destination": "北倉洞韓式料理 104臺北市中山區朱崙里長安東路二段169-7號",
       "placeId": "ChIJ51jTx96rQjQRhbZzuqgTg0s",
-      "mapUrl": "https://maps.google.com/?cid=5441214390197270149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5441214390197270149&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 1224,
       "location": {
         "latitude": 25.0483835,
         "longitude": 121.54112509999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.395Z"
     },
     "GIVE ME PIE 10491臺北市中山區朱園里松江路97巷12號": {
       "name": "GIVE ME PIE",
       "destination": "GIVE ME PIE 10491臺北市中山區朱園里松江路97巷12號",
       "placeId": "ChIJMUCICmGpQjQR266OmpSXaBU",
-      "mapUrl": "https://maps.google.com/?cid=1542649536878391003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1542649536878391003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 521,
       "location": {
         "latitude": 25.050871599999997,
         "longitude": 121.53413160000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.485Z"
     },
     "Tony’s BBQ Smokehouse 104074臺北市中山區中央里伊通街106巷5之一號": {
       "name": "Tony’s BBQ Smokehouse",
       "destination": "Tony’s BBQ Smokehouse 104074臺北市中山區中央里伊通街106巷5之一號",
       "placeId": "ChIJGVraMpusQjQRWUq0Jyx_dgw",
-      "mapUrl": "https://maps.google.com/?cid=898045003328408153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=898045003328408153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 999,
       "location": {
         "latitude": 25.0540642,
         "longitude": 121.5343521
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.457Z"
     },
     "郭家川味牛肉麵 104臺北市中山區力行里南京東路三段216巷19號": {
       "name": "郭家川味牛肉麵",
       "destination": "郭家川味牛肉麵 104臺北市中山區力行里南京東路三段216巷19號",
       "placeId": "ChIJQfC6wt2rQjQRVpMiYTfM7yk",
-      "mapUrl": "https://maps.google.com/?cid=3021858413213815638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3021858413213815638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.5,
       "reviewCount": 314,
       "location": {
         "latitude": 25.051121799999997,
         "longitude": 121.5435258
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.426Z"
     },
     "花茶大師 四平店 10491臺北市中山區中央里四平街71號": {
       "name": "花茶大師 四平店",
       "destination": "花茶大師 四平店 10491臺北市中山區中央里四平街71號",
       "placeId": "ChIJMcXbCrepQjQRtkYw5goWBtM",
-      "mapUrl": "https://maps.google.com/?cid=15205865427930465974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15205865427930465974&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 318,
       "location": {
         "latitude": 25.0536904,
         "longitude": 121.53409099999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.514Z"
     },
     "OLiA 吃飯 104臺北市中山區中央里伊通街106巷8號": {
       "name": "OLiA 吃飯",
       "destination": "OLiA 吃飯 104臺北市中山區中央里伊通街106巷8號",
       "placeId": "ChIJBQq1VWipQjQRRxOZChaKog0",
-      "mapUrl": "https://maps.google.com/?cid=982499495991907143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=982499495991907143&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 354,
       "location": {
         "latitude": 25.0539396,
         "longitude": 121.5340399
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.600Z"
     },
     "陶然亭餐廳 104臺北市中山區力行里復興北路86號2F": {
       "name": "陶然亭餐廳",
       "destination": "陶然亭餐廳 104臺北市中山區力行里復興北路86號2F",
       "placeId": "ChIJaQ8k6t2rQjQRVtLrJLovvp4",
-      "mapUrl": "https://maps.google.com/?cid=11438632580097495638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11438632580097495638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 4596,
+      "reviewCount": 4597,
       "location": {
         "latitude": 25.051202,
         "longitude": 121.543805
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.574Z"
     },
     "東嘉祥 丼飯 10491臺北市中山區中央里南京東路二段115巷3弄1-3號": {
       "name": "東嘉祥 丼飯",
       "destination": "東嘉祥 丼飯 10491臺北市中山區中央里南京東路二段115巷3弄1-3號",
       "placeId": "ChIJucoX82CpQjQRt24hLpslY50",
-      "mapUrl": "https://maps.google.com/?cid=11340949635073142455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11340949635073142455&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
-      "reviewCount": 684,
+      "reviewCount": 685,
       "location": {
         "latitude": 25.053309499999997,
         "longitude": 121.533978
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.545Z"
     },
     "家鴻燒鵝 10491臺北市中山區朱馥里興安街53-4號": {
       "name": "家鴻燒鵝",
       "destination": "家鴻燒鵝 10491臺北市中山區朱馥里興安街53-4號",
       "placeId": "ChIJZ1M6O-GrQjQRv7y_X2_LUo4",
-      "mapUrl": "https://maps.google.com/?cid=10255482980684250303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=10255482980684250303&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
-      "reviewCount": 4571,
+      "reviewCount": 4572,
       "location": {
         "latitude": 25.0561834,
         "longitude": 121.5418064
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.628Z"
     },
     "慶州館 10491臺北市中山區力行里復興北路62號": {
       "name": "慶州館",
       "destination": "慶州館 10491臺北市中山區力行里復興北路62號",
       "placeId": "ChIJU_lUz92rQjQRkNmu7yYftDM",
-      "mapUrl": "https://maps.google.com/?cid=3725637043832674704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3725637043832674704&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.8,
       "reviewCount": 1087,
       "location": {
         "latitude": 25.0505322,
         "longitude": 121.5437829
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.684Z"
     },
     "帥哥滷肉飯 A Handsome Guy 10479臺北市中山區龍洲里長春路321之2號": {
       "name": "帥哥滷肉飯 A Handsome Guy",
       "destination": "帥哥滷肉飯 A Handsome Guy 10479臺北市中山區龍洲里長春路321之2號",
       "placeId": "ChIJ39M2o4OrQjQRyMsMYL6UL0g",
-      "mapUrl": "https://maps.google.com/?cid=5201539640012360648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5201539640012360648&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 790,
       "location": {
         "latitude": 25.0548044,
         "longitude": 121.5432807
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.655Z"
     },
     "麵大廚 四平店 104臺北市中山區中央里南京東路二段115巷18-1號": {
       "name": "麵大廚 四平店",
       "destination": "麵大廚 四平店 104臺北市中山區中央里南京東路二段115巷18-1號",
       "placeId": "ChIJdbNKqt6pQjQRXAWAoy6md-c",
-      "mapUrl": "https://maps.google.com/?cid=16678982464231703900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16678982464231703900&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 1668,
       "location": {
         "latitude": 25.0531963,
         "longitude": 121.5335529
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.710Z"
     },
     "富霸王豬腳 10491臺北市中山區中央里南京東路二段115巷20號": {
       "name": "富霸王豬腳",
       "destination": "富霸王豬腳 10491臺北市中山區中央里南京東路二段115巷20號",
       "placeId": "ChIJO2QW8mCpQjQRyMjgSoG-j7o",
-      "mapUrl": "https://maps.google.com/?cid=13443172875240523976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13443172875240523976&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
-      "reviewCount": 6428,
+      "reviewCount": 6426,
       "location": {
         "latitude": 25.053318599999997,
         "longitude": 121.533574
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.785Z"
     },
     "甲霸油飯 10491臺北市中山區中央里南京東路二段115巷26號": {
       "name": "甲霸油飯",
       "destination": "甲霸油飯 10491臺北市中山區中央里南京東路二段115巷26號",
       "placeId": "ChIJy5g0jWCpQjQRljf8IyUck5k",
-      "mapUrl": "https://maps.google.com/?cid=11066219655222540182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11066219655222540182&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 30,
       "location": {
         "latitude": 25.053473500000003,
         "longitude": 121.53356099999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.814Z"
     },
     "元記潤餅捲 10491臺北市中山區中央里南京東路二段115巷32號": {
       "name": "元記潤餅捲",
       "destination": "元記潤餅捲 10491臺北市中山區中央里南京東路二段115巷32號",
       "placeId": "ChIJxXUohXOpQjQRmLTDzqFjX8M",
-      "mapUrl": "https://maps.google.com/?cid=14078080506793276568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14078080506793276568&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 96,
       "location": {
         "latitude": 25.053525699999998,
         "longitude": 121.5335604
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.841Z"
     },
     "大膽牛腩麵 10478臺北市中山區朱馥里遼寧街222號": {
       "name": "大膽牛腩麵",
       "destination": "大膽牛腩麵 10478臺北市中山區朱馥里遼寧街222號",
       "placeId": "ChIJo--aBuurQjQRyN89ig3p_vM",
-      "mapUrl": "https://maps.google.com/?cid=17581746239664152520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17581746239664152520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
-      "reviewCount": 1127,
+      "reviewCount": 1129,
       "location": {
         "latitude": 25.056355,
         "longitude": 121.5420226
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.869Z"
     },
     "義大利米蘭手工窯烤披薩 台北中山店 10491臺北市中山區中央里四平街55號2樓": {
       "name": "義大利米蘭手工窯烤披薩 台北中山店",
       "destination": "義大利米蘭手工窯烤披薩 台北中山店 10491臺北市中山區中央里四平街55號2樓",
       "placeId": "ChIJ_daWjWCpQjQR07ZxjRhveNE",
-      "mapUrl": "https://maps.google.com/?cid=15093936302375155411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15093936302375155411&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 2261,
       "location": {
         "latitude": 25.0537685,
         "longitude": 121.5335221
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.924Z"
     },
     "BANCO棒可 窯烤PIZZA . 自製生麵 長安店 10491臺北市中山區朱園里長安東路二段106號": {
       "name": "BANCO棒可 窯烤PIZZA . 自製生麵 長安店",
       "destination": "BANCO棒可 窯烤PIZZA . 自製生麵 長安店 10491臺北市中山區朱園里長安東路二段106號",
       "placeId": "ChIJW5thyWOpQjQRU5JJgEIIVl0",
-      "mapUrl": "https://maps.google.com/?cid=6725572175237583443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6725572175237583443&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
-      "reviewCount": 1015,
+      "reviewCount": 1016,
       "location": {
         "latitude": 25.048301799999997,
         "longitude": 121.53512599999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.018Z"
     },
     "石‧撈麻辣鴛鴦鍋 104臺北市中山區朱園里松江路95-1號3樓": {
       "name": "石‧撈麻辣鴛鴦鍋",
       "destination": "石‧撈麻辣鴛鴦鍋 104臺北市中山區朱園里松江路95-1號3樓",
       "placeId": "ChIJvUczfyqpQjQRGvnvbSSNyD0",
-      "mapUrl": "https://maps.google.com/?cid=4451963419258517786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4451963419258517786&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 1722,
       "location": {
         "latitude": 25.0508864,
         "longitude": 121.5333484
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.986Z"
     },
     "京都御握丸ONIMARU 台北長春店 104台北市中山区中央里长春路172號1樓": {
       "name": "京都御握丸ONIMARU 台北長春店",
       "destination": "京都御握丸ONIMARU 台北長春店 104台北市中山区中央里长春路172號1樓",
       "placeId": "ChIJ9ZO-olCpQjQRsmtmgMEamFU",
-      "mapUrl": "https://maps.google.com/?cid=6167709108069100466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6167709108069100466&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
       "reviewCount": 628,
       "location": {
         "latitude": 25.0546988,
         "longitude": 121.53388379999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:45.952Z"
     },
     "善菓屋 Sharing Nature 台北松江店 10491臺北市中山區朱園里松江路99號": {
       "name": "善菓屋 Sharing Nature 台北松江店",
       "destination": "善菓屋 Sharing Nature 台北松江店 10491臺北市中山區朱園里松江路99號",
       "placeId": "ChIJtVFom6CpQjQR9W_GDlpUb80",
-      "mapUrl": "https://maps.google.com/?cid=14803143245961785333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14803143245961785333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
       "reviewCount": 560,
       "location": {
         "latitude": 25.0510457,
         "longitude": 121.5332405
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.055Z"
     },
     "豬小寶台中可口豬腳大王 10491臺北市中山區龍洲里興安街118號": {
       "name": "豬小寶台中可口豬腳大王",
       "destination": "豬小寶台中可口豬腳大王 10491臺北市中山區龍洲里興安街118號",
       "placeId": "ChIJbcfpz-arQjQRGTNXmbKjtWA",
-      "mapUrl": "https://maps.google.com/?cid=6968655985897845529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6968655985897845529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.8,
       "reviewCount": 406,
       "location": {
         "latitude": 25.055954699999997,
         "longitude": 121.5433503
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.111Z"
     },
     "薔薇廳 - 兄弟大飯店 105臺北市松山區中正里南京東路三段255號號13樓": {
       "name": "薔薇廳 - 兄弟大飯店",
       "destination": "薔薇廳 - 兄弟大飯店 105臺北市松山區中正里南京東路三段255號號13樓",
       "placeId": "ChIJIWnhi92rQjQRTqkBPYUSQXQ",
-      "mapUrl": "https://maps.google.com/?cid=8376997145349302606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=8376997145349302606&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 1066,
       "location": {
         "latitude": 25.0520507,
         "longitude": 121.5445961
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.080Z"
     },
     "發肉燒肉餐酒敦北一店 105臺北市松山區中正里敦化北路4巷56號": {
       "name": "發肉燒肉餐酒敦北一店",
       "destination": "發肉燒肉餐酒敦北一店 105臺北市松山區中正里敦化北路4巷56號",
       "placeId": "ChIJHzjQYSOrQjQRNrlobfVx5A0",
-      "mapUrl": "https://maps.google.com/?cid=1001050316099598646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1001050316099598646&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.9,
-      "reviewCount": 5245,
+      "reviewCount": 5246,
       "location": {
         "latitude": 25.0502917,
         "longitude": 121.54483119999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.139Z"
     },
     "四平小館 10491臺北市中山區中吉里四平街45號": {
       "name": "四平小館",
       "destination": "四平小館 10491臺北市中山區中吉里四平街45號",
       "placeId": "ChIJPUaCx2CpQjQR1WHoOgjHAJ0",
-      "mapUrl": "https://maps.google.com/?cid=11313261102116659669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11313261102116659669&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
-      "reviewCount": 3875,
+      "reviewCount": 3876,
       "location": {
         "latitude": 25.0537431,
         "longitude": 121.53230809999998
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.165Z"
     },
     "Haritts 甜甜圈 (台北） 105臺北市松山區中正里復興北路81巷33號": {
       "name": "Haritts 甜甜圈 (台北）",
       "destination": "Haritts 甜甜圈 (台北） 105臺北市松山區中正里復興北路81巷33號",
       "placeId": "ChIJdaNNnd2rQjQRtDveSaYcHsM",
-      "mapUrl": "https://maps.google.com/?cid=14059706587226717108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14059706587226717108&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 2044,
       "location": {
         "latitude": 25.0512408,
         "longitude": 121.54547420000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.193Z"
     },
     "My灶 10491臺北市中山區興亞里松江路100巷9-1號": {
       "name": "My灶",
       "destination": "My灶 10491臺北市中山區興亞里松江路100巷9-1號",
       "placeId": "ChIJGdWkSWGpQjQRrEfM4OiT1-U",
-      "mapUrl": "https://maps.google.com/?cid=16561868783091468204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=16561868783091468204&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
-      "reviewCount": 2136,
+      "reviewCount": 2137,
       "location": {
         "latitude": 25.0510791,
         "longitude": 121.53176950000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.274Z"
     },
     "小巷子清燉牛肉麵四平店 104472臺北市中山區中吉里四平街40號": {
       "name": "小巷子清燉牛肉麵四平店",
       "destination": "小巷子清燉牛肉麵四平店 104472臺北市中山區中吉里四平街40號",
       "placeId": "ChIJt_-mmfOpQjQRxCF22lb5vsU",
-      "mapUrl": "https://maps.google.com/?cid=14249100422474506692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=14249100422474506692&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 1450,
+      "reviewCount": 1451,
       "location": {
         "latitude": 25.0535994,
         "longitude": 121.5321189
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.245Z"
     },
     "野毛洋食屋 『日式咖哩/漢堡排/蛋包飯』 10491臺北市中山區朱崙里八德路二段327號1樓": {
       "name": "野毛洋食屋 『日式咖哩/漢堡排/蛋包飯』",
       "destination": "野毛洋食屋 『日式咖哩/漢堡排/蛋包飯』 10491臺北市中山區朱崙里八德路二段327號1樓",
       "placeId": "ChIJi9NtMlmrQjQRFL4EwoG-KmY",
-      "mapUrl": "https://maps.google.com/?cid=7361906005405646356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=7361906005405646356&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.8,
       "reviewCount": 483,
       "location": {
         "latitude": 25.047504999999997,
         "longitude": 121.54318420000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.219Z"
     },
     "蜀國麻辣鴛鴦火鍋 104臺北市中山區興亞里松江路64巷5號": {
       "name": "蜀國麻辣鴛鴦火鍋",
       "destination": "蜀國麻辣鴛鴦火鍋 104臺北市中山區興亞里松江路64巷5號",
       "placeId": "ChIJB4gX72OpQjQRtItVvEtCtbw",
-      "mapUrl": "https://maps.google.com/?cid=13597847542964784052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13597847542964784052&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.6,
       "reviewCount": 402,
       "location": {
         "latitude": 25.0491128,
         "longitude": 121.53227489999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.332Z"
     },
     "鑫爺食堂 104臺北市中山區中吉里一江街38號": {
       "name": "鑫爺食堂",
       "destination": "鑫爺食堂 104臺北市中山區中吉里一江街38號",
       "placeId": "ChIJd0gdjOepQjQRybse7kYgZT0",
-      "mapUrl": "https://maps.google.com/?cid=4423977697976171465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4423977697976171465&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 91,
       "location": {
         "latitude": 25.053841600000002,
         "longitude": 121.5314281
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.359Z"
     },
     "滿上仙草茶飲專賣店台北松江店 104臺北市中山區興亞里松江路58號": {
       "name": "滿上仙草茶飲專賣店台北松江店",
       "destination": "滿上仙草茶飲專賣店台北松江店 104臺北市中山區興亞里松江路58號",
       "placeId": "ChIJlw9PyBWpQjQRX7SQci9irLg",
-      "mapUrl": "https://maps.google.com/?cid=13307118954898043999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13307118954898043999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
       "reviewCount": 423,
       "location": {
         "latitude": 25.0487859,
         "longitude": 121.5327458
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.303Z"
     },
     "炸雞大叔 104臺北市中山區中吉里一江街42號1樓": {
       "name": "炸雞大叔",
       "destination": "炸雞大叔 104臺北市中山區中吉里一江街42號1樓",
       "placeId": "ChIJLWnpdQCpQjQRxcU1UTWE7LI",
-      "mapUrl": "https://maps.google.com/?cid=12892825197785499077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12892825197785499077&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.5,
       "reviewCount": 40,
       "location": {
         "latitude": 25.053946,
         "longitude": 121.53134460000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.387Z"
     },
     "慶陳雞 105臺北市松山區中正里長春路474號": {
       "name": "慶陳雞",
       "destination": "慶陳雞 105臺北市松山區中正里長春路474號",
       "placeId": "ChIJ8SyvAOerQjQRcxPFae8aGqc",
-      "mapUrl": "https://maps.google.com/?cid=12040966169302471539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=12040966169302471539&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 582,
       "location": {
         "latitude": 25.054379899999997,
         "longitude": 121.5464171
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.502Z"
     },
     "台越越南美食 104臺北市中山區中吉里一江街52號": {
       "name": "台越越南美食",
       "destination": "台越越南美食 104臺北市中山區中吉里一江街52號",
       "placeId": "ChIJQQBgymCpQjQR60P2MJgvcVA",
-      "mapUrl": "https://maps.google.com/?cid=5796466526105519083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=5796466526105519083&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.4,
       "reviewCount": 336,
       "location": {
         "latitude": 25.054222,
         "longitude": 121.5313534
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.418Z"
     },
     "食朝 早午餐 104臺北市中山區松江路132巷22-2號": {
       "name": "食朝 早午餐",
       "destination": "食朝 早午餐 104臺北市中山區松江路132巷22-2號",
       "placeId": "ChIJKeGCQ0qpQjQRZejvSTWWybg",
-      "mapUrl": "https://maps.google.com/?cid=13315338928915474533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=13315338928915474533&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4,
       "reviewCount": 453,
       "location": {
         "latitude": 25.052875699999998,
         "longitude": 121.5309358
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.475Z"
     },
     "普莉斯咖啡館 please CAFE 10491臺北市中山區中吉里松江路132巷17號": {
       "name": "普莉斯咖啡館 please CAFE",
       "destination": "普莉斯咖啡館 please CAFE 10491臺北市中山區中吉里松江路132巷17號",
       "placeId": "ChIJ-83o02CpQjQRIGwCuy_3VRU",
-      "mapUrl": "https://maps.google.com/?cid=1537406632189914144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=1537406632189914144&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.2,
       "reviewCount": 407,
       "location": {
         "latitude": 25.053012799999998,
         "longitude": 121.53100110000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.447Z"
     },
     "香港永興堂 105臺北市松山區福成里八德路二段412號": {
       "name": "香港永興堂",
       "destination": "香港永興堂 105臺北市松山區福成里八德路二段412號",
       "placeId": "ChIJq6Hv6dyrQjQRWd9aXYdy61g",
-      "mapUrl": "https://maps.google.com/?cid=6407340820577050457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=6407340820577050457&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 413,
       "location": {
         "latitude": 25.0480688,
         "longitude": 121.54692610000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.618Z"
     },
     "春美冰菓室慶城本店 105臺北市松山區中正里敦化北路120巷54號": {
       "name": "春美冰菓室慶城本店",
       "destination": "春美冰菓室慶城本店 105臺北市松山區中正里敦化北路120巷54號",
       "placeId": "ChIJjydgseerQjQRPXC-zEKA66M",
-      "mapUrl": "https://maps.google.com/?cid=11811675472100487229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11811675472100487229&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.3,
       "reviewCount": 3093,
       "location": {
         "latitude": 25.054000799999997,
         "longitude": 121.54666119999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.530Z"
     },
     "梁記嘉義雞肉飯 104臺北市中山區興亞里松江路90巷19號": {
       "name": "梁記嘉義雞肉飯",
       "destination": "梁記嘉義雞肉飯 104臺北市中山區興亞里松江路90巷19號",
       "placeId": "ChIJkR_apWapQjQRxpVacF-yYCg",
-      "mapUrl": "https://maps.google.com/?cid=2909521482257962438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2909521482257962438&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 3.9,
       "reviewCount": 5435,
       "location": {
         "latitude": 25.0506067,
         "longitude": 121.53045
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.561Z"
     },
     "博多幸龍總本店 105臺北市松山區中崙里八德路二段366巷16號": {
       "name": "博多幸龍總本店",
       "destination": "博多幸龍總本店 105臺北市松山區中崙里八德路二段366巷16號",
       "placeId": "ChIJz2Nej0arQjQRzyaimJb-7NA",
-      "mapUrl": "https://maps.google.com/?cid=15054687577152038607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=15054687577152038607&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.7,
-      "reviewCount": 5869,
+      "reviewCount": 5875,
       "location": {
         "latitude": 25.0474304,
         "longitude": 121.5458948
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.587Z"
     },
     "遼寧公園 遼寧街185巷口": {
       "name": "遼寧公園",
@@ -5127,14 +5520,15 @@ const placeAudit = {
       "name": "金仙排骨飯",
       "destination": "金仙排骨飯 10491臺北市中山區聚盛里錦州街30巷11號",
       "placeId": "ChIJVVEZ2EKpQjQRA4_GcrZA6UM",
-      "mapUrl": "https://maps.google.com/?cid=4893513622468595459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4893513622468595459&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "OPERATIONAL",
       "rating": 4.1,
       "reviewCount": 200,
       "location": {
         "latitude": 25.059499199999998,
         "longitude": 121.5248638
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:46.652Z"
     },
     "興安公園 遼寧街170巷": {
       "name": "興安公園",
@@ -10178,118 +10572,127 @@ const placeAudit = {
       "name": "BarSip 餐酒",
       "destination": "BarSip 餐酒 台北市松山區南京東路三段303巷14弄6-1號",
       "placeId": "ChIJC1RoweerQjQRc0QXahJdOqA",
-      "mapUrl": "https://maps.google.com/?cid=11545642928388392051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=11545642928388392051&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.1,
       "reviewCount": 367,
       "location": {
         "latitude": 25.053198899999998,
         "longitude": 121.54733170000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:09.591Z"
     },
     "祥雲龍吟": {
       "name": "祥雲龍吟",
       "destination": "祥雲龍吟",
       "placeId": "ChIJ-8591BKsQjQRtpVujvKY4yY",
-      "mapUrl": "https://maps.google.com/?cid=2802251560693700022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2802251560693700022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.6,
       "reviewCount": 558,
       "location": {
         "latitude": 25.083020400000002,
         "longitude": 121.5594727
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:15.849Z"
     },
     "RAW Taipei": {
       "name": "RAW",
       "destination": "RAW Taipei",
       "placeId": "ChIJb6wy1BKsQjQRH0ZtKS1hxzc",
-      "mapUrl": "https://maps.google.com/?cid=4019288039047906847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=4019288039047906847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.4,
       "reviewCount": 3051,
       "location": {
         "latitude": 25.0828183,
         "longitude": 121.55933859999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:15.879Z"
     },
     "鶴田屋 日本洋食廚房 台北市南京東路三段109巷3號": {
       "name": "鶴田屋 日本洋食廚房",
       "destination": "鶴田屋 日本洋食廚房 台北市南京東路三段109巷3號",
       "placeId": "ChIJB150YQWsQjQRn1_2Zbyg6AQ",
-      "mapUrl": "https://maps.google.com/?cid=353709301773524895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=353709301773524895&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.3,
       "reviewCount": 1601,
       "location": {
         "latitude": 25.0523807,
         "longitude": 121.53990460000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:29.967Z"
     },
     "儂納小吃 福哥魯味 台北市南京東路三段109巷12號": {
       "name": "儂納小吃-福哥魯味",
       "destination": "儂納小吃 福哥魯味 台北市南京東路三段109巷12號",
       "placeId": "ChIJs3oGzd-rQjQRb8f1AUkZmTA",
-      "mapUrl": "https://maps.google.com/?cid=3501857986613462895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=3501857986613462895&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.2,
       "reviewCount": 241,
       "location": {
         "latitude": 25.0526414,
         "longitude": 121.53973510000002
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:30.361Z"
     },
     "Lena Kitchen 莉娜廚房 南京復興店 台北市南京東路三段256巷20弄4號": {
       "name": "Lena Kitchen 莉娜廚房 南京復興店",
       "destination": "Lena Kitchen 莉娜廚房 南京復興店 台北市南京東路三段256巷20弄4號",
       "placeId": "ChIJ0zWd3GarQjQRsWcG0ucsRoE",
-      "mapUrl": "https://maps.google.com/?cid=9315182253435152305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=9315182253435152305&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.4,
       "reviewCount": 285,
       "location": {
         "latitude": 25.050627,
         "longitude": 121.54486899999999
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.184Z"
     },
     "旭镹小吃鋪 遼寧街": {
       "name": "旭镹小吃鋪",
       "destination": "旭镹小吃鋪 遼寧街",
       "placeId": "ChIJhRkxK7SrQjQRaeqdA7HfBuw",
-      "mapUrl": "https://maps.google.com/?cid=17007526994174143081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=17007526994174143081&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.1,
       "reviewCount": 636,
       "location": {
         "latitude": 25.047828,
         "longitude": 121.54200270000001
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:32.833Z"
     },
     "333 Restaurant & Bar 台北市南京東路三段333號": {
       "name": "333 Restaurant & Bar",
       "destination": "333 Restaurant & Bar 台北市南京東路三段333號",
       "placeId": "ChIJP8de8eerQjQReRYQnxElqR0",
-      "mapUrl": "https://maps.google.com/?cid=2137280255777314425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=2137280255777314425&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.3,
       "reviewCount": 528,
       "location": {
         "latitude": 25.0519492,
         "longitude": 121.5474281
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:33.555Z"
     },
     "PRESERVE天母東店 111臺北市士林區天山里天母東路43巷3號": {
       "name": "PRESERVE天母東店",
       "destination": "PRESERVE天母東店 111臺北市士林區天山里天母東路43巷3號",
       "placeId": "ChIJ_1vCIlWvQjQRjo4z7gh-Gf8",
-      "mapUrl": "https://maps.google.com/?cid=18381861930910584462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "mapUrl": "https://maps.google.com/?cid=18381861930910584462&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
       "status": "CLOSED_PERMANENTLY",
       "rating": 4.5,
       "reviewCount": 1131,
       "location": {
         "latitude": 25.1184743,
         "longitude": 121.5322946
-      }
+      },
+      "checkedAt": "2026-09-06T15:54:44.006Z"
     },
     "喵店長樂園-松山旗艦店 105臺北市松山區復興北路3號": {
       "name": "喵店長樂園-松山旗艦店",
@@ -10355,6 +10758,118 @@ const placeAudit = {
         "latitude": 25.028299999999998,
         "longitude": 121.51100000000001
       }
+    },
+    "意麵王 台北市大同區歸綏街202號": {
+      "name": "意麵王",
+      "destination": "意麵王 台北市大同區歸綏街202號",
+      "placeId": "ChIJaZ8nDxWpQjQRyw6Af5B2BOA",
+      "mapUrl": "https://maps.google.com/?cid=16142157327389167307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 3.9,
+      "reviewCount": 4165,
+      "location": {
+        "latitude": 25.0580602,
+        "longitude": 121.51174709999998
+      },
+      "checkedAt": "2026-09-06T15:54:46.883Z"
+    },
+    "六條家庭小吃 台北市中山區林森北路107巷53號": {
+      "name": "六條家庭小吃",
+      "destination": "六條家庭小吃 台北市中山區林森北路107巷53號",
+      "placeId": "ChIJBxj46mWpQjQRjoW-xm-pf4k",
+      "mapUrl": "https://maps.google.com/?cid=9907824002779219342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4.1,
+      "reviewCount": 220,
+      "location": {
+        "latitude": 25.0499525,
+        "longitude": 121.52689469999999
+      },
+      "checkedAt": "2026-09-06T15:54:47.135Z"
+    },
+    "林家乾麵 台北市中正區泉州街11號": {
+      "name": "林家乾麵",
+      "destination": "林家乾麵 台北市中正區泉州街11號",
+      "placeId": "ChIJKzMAgKKpQjQRdiK9f4G0EQU",
+      "mapUrl": "https://maps.google.com/?cid=365271513080603254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4.2,
+      "reviewCount": 3654,
+      "location": {
+        "latitude": 25.0302083,
+        "longitude": 121.51415279999999
+      },
+      "checkedAt": "2026-09-06T15:54:47.412Z"
+    },
+    "正老牌魷魚平 台北市萬華區康定路2號": {
+      "name": "正老牌魷魚平",
+      "destination": "正老牌魷魚平 台北市萬華區康定路2號",
+      "placeId": "ChIJg-fqrAipQjQReKapdKi4wHs",
+      "mapUrl": "https://maps.google.com/?cid=8917330295844873848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4,
+      "reviewCount": 2879,
+      "location": {
+        "latitude": 25.0459957,
+        "longitude": 121.50313570000002
+      },
+      "checkedAt": "2026-09-06T15:54:47.660Z"
+    },
+    "古月芝麻蔥油餅 台北市北投區中央南路一段218號": {
+      "name": "古月芝麻蔥油餅",
+      "destination": "古月芝麻蔥油餅 台北市北投區中央南路一段218號",
+      "placeId": "ChIJfxEkkGyvQjQRjmbHs4aTdZY",
+      "mapUrl": "https://maps.google.com/?cid=10841733884715427470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4.5,
+      "reviewCount": 407,
+      "location": {
+        "latitude": 25.128110099999997,
+        "longitude": 121.5009499
+      },
+      "checkedAt": "2026-09-06T15:54:47.900Z"
+    },
+    "家鄉味水餃 台北市中山區中山北路二段96巷19號": {
+      "name": "家鄉味水餃",
+      "destination": "家鄉味水餃 台北市中山區中山北路二段96巷19號",
+      "placeId": "ChIJEfvfTUKpQjQRr0QnwM_418g",
+      "mapUrl": "https://maps.google.com/?cid=14472309498744095919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4.4,
+      "reviewCount": 696,
+      "location": {
+        "latitude": 25.059884600000004,
+        "longitude": 121.5220188
+      },
+      "checkedAt": "2026-09-06T15:54:48.179Z"
+    },
+    "兔寶寶漢堡店 台北市中山區民生東路二段115巷9號": {
+      "name": "兔寶寶漢堡店",
+      "destination": "兔寶寶漢堡店 台北市中山區民生東路二段115巷9號",
+      "placeId": "ChIJE-fWhF6pQjQR4KUAszBKtzw",
+      "mapUrl": "https://maps.google.com/?cid=4375047136035775968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "OPERATIONAL",
+      "rating": 4.8,
+      "reviewCount": 701,
+      "location": {
+        "latitude": 25.0585262,
+        "longitude": 121.53171979999999
+      },
+      "checkedAt": "2026-09-06T15:54:49.042Z"
+    },
+    "Blind Pig by R.D. 台北市大安區文昌街241號2樓": {
+      "name": "Blind Pig by R.D.",
+      "destination": "Blind Pig by R.D. 台北市大安區文昌街241號2樓",
+      "placeId": "ChIJ4_yip1GrQjQRZtiS_Uc5FiY",
+      "mapUrl": "https://maps.google.com/?cid=2744444004288616550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "status": "CLOSED_PERMANENTLY",
+      "rating": 4.4,
+      "reviewCount": 406,
+      "location": {
+        "latitude": 25.032431,
+        "longitude": 121.5553042
+      },
+      "checkedAt": "2026-09-06T15:54:49.342Z"
     }
   }
 };

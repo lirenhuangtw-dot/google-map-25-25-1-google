@@ -32,6 +32,41 @@ a {
   color: inherit;
 }
 
+.restaurant-page .hero { min-height: 420px; padding-top: 90px; }
+.restaurant-page .hero__content { padding: 30px 0; }
+.restaurant-page h1 { font-size: 48px; letter-spacing: 0; }
+.restaurant-page h2 { font-size: 28px; letter-spacing: 0; }
+.restaurant-page .controls { display: flex; flex-wrap: wrap; align-items: center; }
+.restaurant-page .controls > div:first-child { width: 100%; }
+.restaurant-page .filters { flex: 1 0 100%; display: block; }
+.restaurant-page .filters fieldset { border: 0; padding: 0; margin: 0 0 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+.restaurant-page .filters legend { font-size: 14px; font-weight: 700; margin-bottom: 8px; }
+.restaurant-page .chip, .restaurant-page .button, .restaurant-page .card__actions a { min-height: 44px; }
+.restaurant-page .search-box { flex: 1 1 300px; }
+.restaurant-page .search-box, .restaurant-page .sort-box { border-radius: 6px; }
+.restaurant-page .search-box > span, .restaurant-page .sort-box > span { white-space: nowrap; flex-shrink: 0; }
+.restaurant-page .advanced-filters summary { min-height: 44px; cursor: pointer; font-weight: 700; padding: 8px 0; }
+.restaurant-page .advanced-filters[open] summary { margin-bottom: 12px; }
+.restaurant-page .status-option { display: flex; gap: 8px; align-items: center; }
+.restaurant-page .spot-card { align-content: start; border-radius: 6px; }
+.restaurant-page .spot-card p { overflow-wrap: anywhere; }
+.restaurant-page .spot-card h3 { font-size: 22px; line-height: 1.45; }
+.restaurant-page .spot-card .meta { gap: 5px; }
+.restaurant-page .spot-card .pill { font-size: 12px; }
+.restaurant-page .review-disclosure { padding: 16px 0; border-top: 1px solid #ccc; margin-bottom: 20px; }
+.restaurant-page .review-disclosure summary { cursor: pointer; font-weight: 700; }
+.restaurant-page .empty-state { grid-column: 1 / -1; padding: 32px 0; }
+.restaurant-page .load-more { display: flex; justify-content: center; margin: 24px 0; }
+.restaurant-page [hidden] { display: none !important; }
+.restaurant-page :focus-visible { outline: 3px solid #ac492f; outline-offset: 3px; }
+@media (max-width:680px) {
+  .restaurant-page .hero { min-height: 390px; }
+  .restaurant-page h1 { font-size: 38px; }
+  .restaurant-page .controls { gap: 12px; align-items: stretch; }
+  .restaurant-page .search-box { flex-basis: auto; }
+  .restaurant-page .filters fieldset { gap: 6px; }
+}
+
 .gourmet-note {
   border-left: 3px solid #a34236;
   padding: 8px 12px;

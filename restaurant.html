@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260519-distance-sort">
+  <link rel="stylesheet" href="styles.css?v=20260908-review">
 </head>
 <body class="restaurant-page">
   <header class="hero hero--restaurant">
@@ -27,7 +27,7 @@
     <section class="hero__content">
       <p class="eyebrow">南京東路三段89巷附近出發｜自己想吃版</p>
       <h1><span>LIREN</span><span>吃什麼</span></h1>
-      <p class="lead">近：從南京東路三段89巷附近實際適合步行，原則約 12 分鐘內、最多不超過 15 分鐘；中：搭捷運、計程車或簡單轉乘約 30 分鐘內；遠：少量值得特地安排的餐廳。營業時間、訂位與臨時店休以 Google Maps 或店家公告為準。</p>
+      <p class="lead">從南京東路三段89巷附近出發，找一餐想吃的。私房小吃、聚餐、咖啡與小酌。</p>
       <div class="hero__actions">
         <a class="button button--primary" href="#rankings">看餐廳排行</a>
         <a class="button button--ghost" href="https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B589%E5%B7%B7+%E9%A4%90%E5%BB%B3" target="_blank" rel="noreferrer">Google Maps 搜尋</a>
@@ -36,14 +36,14 @@
   </header>
 
   <main>
-    <section class="summary" aria-label="使用說明">
+    <section class="summary" aria-label="用餐資訊">
       <article>
-        <strong>適用情境</strong>
-        <span>一人吃飯、朋友聚餐、約會、下班小酌、想吃台菜/日式/火鍋/餐酒時快速篩。</span>
+        <strong>距離範圍</strong>
+        <span>近：預估步行 15 分鐘內。中：交通約 30 分鐘內。遠：較遠行程。時間為估計，出發前請確認實際路線。</span>
       </article>
       <article>
         <strong>出門前</strong>
-        <span>熱門餐廳請先訂位；小吃與必比登常排隊，建議用 Google Maps 看當日尖峰與最新評論。</span>
+        <span>查核日期見各店評分。未能對應 Google 商家、價格或路線的資料，均不代表已確認。</span>
       </article>
     </section>
 
@@ -52,7 +52,7 @@
         <p class="eyebrow">Restaurant list</p>
         <h2>餐廳推薦排行</h2>
       </div>
-      <div class="filters" role="toolbar" aria-label="餐廳篩選">
+      <div class="filters" role="group" aria-label="餐廳篩選">
         <button class="chip chip--reset is-active" data-filter="all">全部</button>
         <button class="chip" data-filter="near">近</button>
         <button class="chip" data-filter="mid">中</button>
@@ -99,12 +99,18 @@
         <select id="restaurantSort">
           <option value="recommended">推薦順序</option>
           <option value="distance">最近到最遠</option>
+          <option value="evidence">評分與樣本數</option>
         </select>
       </label>
+      <label class="sort-box"><span>評論數</span><select id="reviewMinimum"><option value="0">不限</option><option value="100">至少 100 則</option><option value="500">至少 500 則</option><option value="1000">至少 1,000 則</option></select></label>
+      <label class="status-option"><input id="includeTemporarilyClosed" type="checkbox">含暫時停業</label>
+      <button id="clearRestaurantFilters" type="button" class="button">清除條件</button>
     </section>
 
-    <p class="result-count" id="restaurantCount"></p>
-    <section class="spot-grid" id="restaurantGrid" aria-live="polite"></section>
+    <details class="review-disclosure"><summary>關於評分與評論可信度</summary><p>高星等、評論多，不等於沒有灌水。本頁不判定店家或評論造假。「評分與樣本數」使用 4.2 分、100 則作為保守加權基準，降低少量滿分評分對排序的影響；這不是 Google 官方評分，也不是真假判定。</p><p>Google API 僅提供有限的相關性排序評論，不是完整或隨機樣本，無法驗證評論者是否實際消費。請搭配近期負評、具體菜色、價格與不同來源食記閱讀。樣本檢查只統計少於 10 字的短評，以及至少 20 字且完全重複的文字；不據此判定造假、不刪除商家，也不改寫 Google 原始星等。</p><a href="https://support.google.com/contributionpolicy/answer/7400114?hl=zh-Hant" target="_blank" rel="noreferrer">Google Maps 評論政策</a></details>
+    <p class="result-count" id="restaurantCount" role="status" aria-live="polite"></p>
+    <section class="spot-grid" id="restaurantGrid" aria-label="餐廳清單"></section>
+    <div class="load-more"><button class="button" id="loadMoreRestaurants" type="button" hidden>顯示更多</button></div>
 
     <section class="routes">
       <div class="section-heading">
@@ -114,8 +120,8 @@
       <div class="route-grid">
         <article class="route">
           <span class="route__tag">步行晚餐</span>
-          <h3>慶城海南雞飯 → BarSip 或 MRT Bistro</h3>
-          <p>先吃穩定快節奏，再轉小酌。適合不想移動太遠的下班或週末晚上。</p>
+          <h3>慶城海南雞飯</h3>
+          <p>以一餐海南雞飯為主，小酌另查當日營業店家。</p>
         </article>
         <article class="route">
           <span class="route__tag">想吃正式一點</span>
@@ -137,10 +143,10 @@
 
     <section class="sources" id="sources">
       <div class="section-heading">
-        <p class="eyebrow">Last checked 2026-06-05</p>
+        <p class="eyebrow">Sources</p>
         <h2>資料來源與更新方式</h2>
       </div>
-      <p>餐廳名單以近期公開推薦、米其林 2025 資訊、Google Places API、Google 評論摘要與 Threads 松江南京美食留言交叉參考；距離用 Google Places 座標重新估算並分為近/中/遠，實際營業、訂位、價格、菜單與排隊狀態請以 Google Maps 與店家公告為準。</p>
+      <p>名單包含公開食記、歷史評鑑、Threads 截圖與 Google Maps 商家資訊。Google 評分以各店所列查核日期為準，不是即時更新。推薦來源及年份見餐廳介紹；路線時間為估計，營業與價格請向店家確認。</p>
       <div class="source-links">
         <a href="https://www.michelin.com/en/publications/products-and-services/the-michelin-guide-taiwan-2025-unveiled" target="_blank" rel="noreferrer">MICHELIN Guide Taiwan 2025</a>
         <a href="https://www.taiwannews.com.tw/news/6177280" target="_blank" rel="noreferrer">Taiwan News 2025 Bib Gourmand</a>
@@ -171,9 +177,10 @@
   <script src="restaurant-bars.js?v=20260520-bar"></script>
   <script src="restaurant-taipei-google.js?v=20260605-city"></script>
   <script src="restaurant-threads.js?v=20260520-cafe"></script>
-  <script src="place-audit.js?v=20260905"></script>
-  <script src="audit-overlay.js?v=20260905"></script>
+  <script src="place-audit.js?v=20260908"></script>
+  <script src="audit-overlay.js?v=20260908"></script>
   <script src="restaurant-gourmet.js?v=20260905-2"></script>
-  <script src="restaurant.js?v=20260905-2"></script>
+  <script src="review-signals.js?v=20260908"></script>
+  <script src="restaurant.js?v=20260908-review"></script>
 </body>
 </html>
