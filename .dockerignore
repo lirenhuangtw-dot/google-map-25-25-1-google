@@ -1,0 +1,10 @@
+**
+!Dockerfile
+!protected/
+!protected/server.mjs
+!*.html
+!*.js
+!*.css
+!*.webmanifest
+!assets/
+!assets/**

@@ -2,8 +2,8 @@ const {chromium}=require('/Users/li-renhuang/.cache/codex-runtimes/codex-primary
 const fs=require('node:fs/promises');
 const path=require('node:path');
 const assert=require('node:assert/strict');
-const ORIGIN='https://lirenhuangtw-dot.github.io';
-const BASE='/google-map-25-25-1-google/';
+const ORIGIN='https://liren-guides-12901877410.asia-east1.run.app';
+const BASE='/';
 (async()=>{
  const browser=await chromium.launch({channel:'chrome',headless:true});
  try {
