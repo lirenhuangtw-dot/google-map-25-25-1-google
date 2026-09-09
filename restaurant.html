@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260908-review">
+  <link rel="stylesheet" href="styles.css?v=20260909-map">
 </head>
 <body class="restaurant-page">
   <header class="hero hero--restaurant">
@@ -109,6 +109,16 @@
 
     <details class="review-disclosure"><summary>關於評分與評論可信度</summary><p>高星等、評論多，不等於沒有灌水。本頁不判定店家或評論造假。「評分與樣本數」使用 4.2 分、100 則作為保守加權基準，降低少量滿分評分對排序的影響；這不是 Google 官方評分，也不是真假判定。</p><p>Google API 僅提供有限的相關性排序評論，不是完整或隨機樣本，無法驗證評論者是否實際消費。請搭配近期負評、具體菜色、價格與不同來源食記閱讀。樣本檢查只統計少於 10 字的短評，以及至少 20 字且完全重複的文字；不據此判定造假、不刪除商家，也不改寫 Google 原始星等。</p><a href="https://support.google.com/contributionpolicy/answer/7400114?hl=zh-Hant" target="_blank" rel="noreferrer">Google Maps 評論政策</a></details>
     <p class="result-count" id="restaurantCount" role="status" aria-live="polite"></p>
+    <section class="restaurant-map-section" aria-labelledby="restaurantMapHeading">
+      <div class="map-toolbar">
+        <h2 id="restaurantMapHeading">餐廳地圖</h2>
+        <button id="openRestaurantMap" class="button" type="button" aria-expanded="false" aria-controls="restaurantMapCanvas">開啟地圖</button>
+        <button id="centerRestaurantMap" class="button" type="button" hidden>回到南京東路三段89巷</button>
+        <button id="fitRestaurantMap" class="button" type="button" hidden>顯示全部結果</button>
+      </div>
+      <p id="restaurantMapStatus" role="status" aria-live="polite">地圖尚未載入</p>
+      <div id="restaurantMapCanvas" hidden aria-label="符合篩選條件的餐廳地圖"></div>
+    </section>
     <section class="spot-grid" id="restaurantGrid" aria-label="餐廳清單"></section>
     <div class="load-more"><button class="button" id="loadMoreRestaurants" type="button" hidden>顯示更多</button></div>
 
@@ -178,9 +188,11 @@
   <script src="restaurant-taipei-google.js?v=20260605-city"></script>
   <script src="restaurant-threads.js?v=20260520-cafe"></script>
   <script src="place-audit.js?v=20260908"></script>
-  <script src="audit-overlay.js?v=20260908"></script>
+  <script src="audit-overlay.js?v=20260909-map"></script>
   <script src="restaurant-gourmet.js?v=20260905-2"></script>
   <script src="review-signals.js?v=20260908"></script>
-  <script src="restaurant.js?v=20260908-review"></script>
+  <script src="restaurant-map-config.js?v=20260909-map"></script>
+  <script src="restaurant-map.js?v=20260909-map"></script>
+  <script src="restaurant.js?v=20260909-map"></script>
 </body>
 </html>

@@ -67,6 +67,22 @@ a {
   .restaurant-page .filters fieldset { gap: 6px; }
 }
 
+.restaurant-map-section { margin: 22px 0 30px; }
+.map-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.map-toolbar h2 { margin-right: auto; }
+#restaurantMapCanvas { height: 520px; width: 100%; background: #e4e8e5; border: 1px solid #bcc8c0; }
+#restaurantMapStatus { color: #42534c; font-size: 14px; margin: 10px 0; }
+.restaurant-map-popup { color: #18261f; width: 260px; max-width: 100%; font: 14px/1.6 sans-serif; overflow-wrap: anywhere; }
+.restaurant-map-popup h3 { margin: 0 0 6px; font-size: 18px; }
+.restaurant-map-popup p { margin: 6px 0; }
+.restaurant-map-popup a { display: inline-block; margin: 6px 12px 0 0; color: #135b91; text-decoration: underline; min-height: 32px; }
+@media (max-width:680px) {
+  #restaurantMapCanvas { height: 430px; }
+  .map-toolbar h2 { flex-basis: 100%; }
+  .map-toolbar .button { padding: 8px 12px; }
+  .restaurant-map-popup { width: 210px; }
+}
+
 .gourmet-note {
   border-left: 3px solid #a34236;
   padding: 8px 12px;

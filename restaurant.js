@@ -154,6 +154,7 @@ function renderRestaurants() {
     const minimum = Number(document.querySelector("#reviewMinimum").value);
     return filterMatch && (!minimum || (item.reviewCount || 0) >= minimum) && (document.querySelector("#includeTemporarilyClosed").checked || item.businessStatus !== "CLOSED_TEMPORARILY") && matchesRestaurantQuery(item, restaurantQuery);
   }));
+  window.restaurantMapView?.update(filtered);
 
   document.querySelectorAll(".restaurant-page .chip").forEach(button => button.setAttribute("aria-pressed",String(button.dataset.filter === "all" ? selectedRestaurantFilters.size === 0 : selectedRestaurantFilters.has(button.dataset.filter))));
   const loadMore = document.querySelector("#loadMoreRestaurants");
